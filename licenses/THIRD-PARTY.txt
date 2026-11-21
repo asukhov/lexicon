@@ -1,4 +1,4 @@
-Lexicon — third-party notices
+Lexicon - third-party notices
 
 This project is a self-contained static website. Its UI, packaging, build scripts,
 and original curated content were created for this repository. The dictionary

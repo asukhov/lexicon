@@ -1,5 +1,5 @@
 /* Lexicon service worker: offline shell + cached dictionary data. */
-const VERSION = 'lexicon-v24';
+const VERSION = 'lexicon-v25';
 const SHELL = [
   './',
   './index.html',

@@ -2,7 +2,7 @@
   'use strict';
 
   const DATA = 'data';
-  const DATA_VERSION = '2026-11-22.6';
+  const DATA_VERSION = '2026-11-22.8';
   const PER_PAGE = 30;
 
   const TAB_INFO = {
@@ -362,7 +362,7 @@
   function renderSort() {
     const options = [
       ['relevance', 'Relevance'],
-      ['alpha', 'A–Z'],
+      ['alpha', 'A-Z'],
       ['frequency', 'Common first'],
     ];
     return `<label class="results-toolbar-label" for="sortSelect">Sort</label>
@@ -623,7 +623,7 @@
       metaBlocks.push(`<div class="meta-block"><h3>Illustrated in</h3><ul class="chip-list">${unique.map((link) => `<li><button class="illustration-chip" type="button" data-illustration="${esc(link.itemId)}" data-term="${esc(link.term)}">${esc(link.itemTitle)} · ${esc(link.partLabel)}</button></li>`).join('')}</ul></div>`);
     }
     if (entry.separable != null) {
-      metaBlocks.push(`<div class="meta-block"><h3>Separable</h3><p>${entry.separable ? 'Yes — the object can come between the verb and particle.' : 'Usually not separable.'}</p></div>`);
+      metaBlocks.push(`<div class="meta-block"><h3>Separable</h3><p>${entry.separable ? 'Yes - the object can come between the verb and particle.' : 'Usually not separable.'}</p></div>`);
     }
     if (entry.severity) metaBlocks.push(`<div class="meta-block"><h3>Severity</h3><p>${esc(entry.severity)}</p></div>`);
 
@@ -637,7 +637,7 @@
           ${sameIPA ? `<span class="ipa-item"><span class="ipa-label">IPA</span><span class="ipa-value">${esc(ipaUS)}</span></span>` : ''}
           ${!sameIPA && ipaUK ? `<span class="ipa-item"><span class="ipa-label">UK</span><span class="ipa-value">${esc(ipaUK)}</span></span>` : ''}
           ${!sameIPA && ipaUS ? `<span class="ipa-item"><span class="ipa-label">US</span><span class="ipa-value">${esc(ipaUS)}</span></span>` : ''}
-          ${!ipaUK && !ipaUS ? '<span class="ipa-item"><span class="ipa-label">IPA</span><span class="ipa-value">—</span></span>' : ''}
+          ${!ipaUK && !ipaUS ? '<span class="ipa-item"><span class="ipa-label">IPA</span><span class="ipa-value">-</span></span>' : ''}
         </div>
         <div class="entry-badges">${badges.join('')}</div>
       </header>
@@ -757,7 +757,7 @@
         const source = group.units.find((unit) => unit.symbol === fromUnit);
         const target = group.units.find((unit) => unit.symbol === toUnit);
         if (!source || !target) {
-          result.textContent = '—';
+          result.textContent = '-';
           return;
         }
         output = (number * source.factor) / target.factor;

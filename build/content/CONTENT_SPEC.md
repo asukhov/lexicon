@@ -1,4 +1,4 @@
-# Curated content specification — English Lexicon
+# Curated content specification - English Lexicon
 
 This site is a self-contained, original English learner's dictionary. Do not copy definitions,
 examples, or lists from Cambridge, Macmillan, Oxford, Longman, Merriam-Webster, or any other
@@ -46,8 +46,8 @@ Most entries use:
 - `level`: one of A1, A2, B1, B2, C1, C2.
 - `pos`: noun, verb, adjective, adverb, phrase, interjection, etc.
 - `register`: neutral, informal, formal, slang, offensive, dated, humorous, literary.
-- `definitions`: 1–3 items; each has `text`, `example`, optional `labels` array.
-- `tags`: 1–5 lowercase topic tags (not duplicates of the word).
+- `definitions`: 1-3 items; each has `text`, `example`, optional `labels` array.
+- `tags`: 1-5 lowercase topic tags (not duplicates of the word).
 - `note`: optional usage note, regional note, or grammar note; empty string if none.
 
 ## File-specific requirements
@@ -67,7 +67,7 @@ Do not include slurs; put strong profanity in offensive.json. Mild profanity use
 is allowed but label it. Avoid sexual content beyond neutral, dictionary-style description.
 
 ### offensive.json
-A JSON array of 100–130 objects covering common English swear words, insults, and offensive
+A JSON array of 100-130 objects covering common English swear words, insults, and offensive
 phrases. Additional fields:
 `severity` ("mild", "strong", "extreme"), `warning` (short content warning), `is_slur` (false).
 Editorial policy: exclude slurs that target protected characteristics (race, ethnicity,
@@ -136,7 +136,7 @@ A JSON object:
 }
 ```
 
-Include: cardinals 0–20, tens to 100, hundreds/thousands/millions/billions; ordinals;
+Include: cardinals 0-20, tens to 100, hundreds/thousands/millions/billions; ordinals;
 fractions and decimals; negative numbers and zero; arithmetic operations; dates and times;
 Roman numerals; SI base units; common derived SI units; SI prefixes; length, mass, volume,
 area, speed, temperature, time, angle, digital, energy/power, pressure, cooking, nautical and

@@ -1,4 +1,4 @@
-# Lexicon — English Dictionary
+# Lexicon - English Dictionary
 
 A self-contained, static English-to-English dictionary for GitHub Pages. It is designed as a fast reference and a learner's vocabulary workspace: a controlled defining vocabulary, IPA for every entry, grammar codes, CEFR sections, idioms, phrasal verbs, slang, and reference material.
 
@@ -31,7 +31,7 @@ The **lexicon** wordmark in the top-left always returns to the Dictionary sectio
 - `?` matches one letter: `col?r`
 - Multi-word queries match all words: `in the nick of time`
 - Exact headwords rank above prefixes, which rank above substrings
-- Results can be sorted by relevance, A–Z, or common first
+- Results can be sorted by relevance, A-Z, or common first
 - `/` focuses the search field
 - `Esc` clears the search or closes the mobile entry sheet
 - When an entry is open, swipe left or right on a phone or tablet to move through the current result set. On desktop, translucent side arrows do the same, and the left/right arrow keys work when focus is not in a form control.
@@ -96,13 +96,13 @@ After rebuilding, bump `DATA_VERSION` in `assets/app.js` and `VERSION` in `sw.js
 
 Definitions, examples, and phrase data are derived from open sources. See `licenses/THIRD-PARTY.txt` for the full notices.
 
-- WordNet 3.0 — Princeton WordNet License
-- Simple English Wiktionary — CC BY-SA 4.0
-- English Wiktionary / Wiktextract (Kaikki) — CC BY-SA 4.0; Wiktextract is MIT
-- CEFR-J Vocabulary Profile 1.5 and Octanove C1/C2 profile — attribution required
-- Open IPA Dict — MIT
-- Inter typeface — SIL Open Font License 1.1
-- eSpeak NG — GPLv3, used at build time only for rare-word IPA; no eSpeak binary is shipped with the site
+- WordNet 3.0 - Princeton WordNet License
+- Simple English Wiktionary - CC BY-SA 4.0
+- English Wiktionary / Wiktextract (Kaikki) - CC BY-SA 4.0; Wiktextract is MIT
+- CEFR-J Vocabulary Profile 1.5 and Octanove C1/C2 profile - attribution required
+- Open IPA Dict - MIT
+- Inter typeface - SIL Open Font License 1.1
+- eSpeak NG - GPLv3, used at build time only for rare-word IPA; no eSpeak binary is shipped with the site
 
 The UI, packaging, build scripts, and original curated content are provided for this project. Third-party source copyrights remain with their respective authors. Because the dictionary data is derived from CC BY-SA material, redistributed data should retain the same attribution and share-alike terms.
 
