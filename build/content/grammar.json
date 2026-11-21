@@ -1,0 +1,387 @@
+{
+  "intro": "This guide explains the grammar labels and word-class codes used in the dictionary. The explanations are short and designed for learners.",
+  "wordClasses": [
+    {
+      "code": "n",
+      "name": "noun",
+      "summary": "A word for a person, place, thing, or idea.",
+      "examples": [
+        "teacher",
+        "city",
+        "music"
+      ],
+      "notes": "Nouns can be countable, uncountable, or both."
+    },
+    {
+      "code": "v",
+      "name": "verb",
+      "summary": "A word for an action, event, or state.",
+      "examples": [
+        "run",
+        "decide",
+        "be"
+      ],
+      "notes": "Verbs can be transitive, intransitive, or both."
+    },
+    {
+      "code": "adj",
+      "name": "adjective",
+      "summary": "A word that describes a noun or pronoun.",
+      "examples": [
+        "happy",
+        "blue",
+        "careful"
+      ],
+      "notes": "Some adjectives are gradable; others are not."
+    },
+    {
+      "code": "adv",
+      "name": "adverb",
+      "summary": "A word that describes a verb, adjective, adverb, or whole sentence.",
+      "examples": [
+        "quickly",
+        "very",
+        "today"
+      ],
+      "notes": "Adverbs often answer how, when, where, or how much."
+    },
+    {
+      "code": "prep",
+      "name": "preposition",
+      "summary": "A word that shows relation, such as place, time, or direction.",
+      "examples": [
+        "in",
+        "before",
+        "under"
+      ],
+      "notes": "Prepositions are usually followed by a noun or pronoun."
+    },
+    {
+      "code": "conj",
+      "name": "conjunction",
+      "summary": "A word that connects words, phrases, or clauses.",
+      "examples": [
+        "and",
+        "but",
+        "because"
+      ],
+      "notes": "Coordinating conjunctions join equal parts; subordinating conjunctions join dependent clauses."
+    },
+    {
+      "code": "det",
+      "name": "determiner",
+      "summary": "A word used before a noun to show which one, how many, or whose.",
+      "examples": [
+        "the",
+        "some",
+        "my"
+      ],
+      "notes": "Articles, possessives, and quantifiers are determiners."
+    },
+    {
+      "code": "pron",
+      "name": "pronoun",
+      "summary": "A word used instead of a noun or noun phrase.",
+      "examples": [
+        "she",
+        "they",
+        "it"
+      ],
+      "notes": "Pronouns can be subject, object, possessive, reflexive, or indefinite."
+    },
+    {
+      "code": "interj",
+      "name": "interjection",
+      "summary": "A short word or sound that shows feeling or reaction.",
+      "examples": [
+        "oh",
+        "wow",
+        "ouch"
+      ],
+      "notes": "Interjections often stand alone."
+    },
+    {
+      "code": "num",
+      "name": "numeral",
+      "summary": "A word or symbol that expresses a number or order.",
+      "examples": [
+        "three",
+        "third",
+        "100"
+      ],
+      "notes": "Cardinals show quantity; ordinals show order."
+    },
+    {
+      "code": "phrase",
+      "name": "phrase",
+      "summary": "A group of words that acts as a single unit.",
+      "examples": [
+        "in front of",
+        "at least"
+      ],
+      "notes": "Phrases can have meanings that are not obvious from each word alone."
+    },
+    {
+      "code": "abbrev",
+      "name": "abbreviation",
+      "summary": "A short form of a word or phrase.",
+      "examples": [
+        "id",
+        "kg",
+        "USA"
+      ],
+      "notes": "Abbreviations may be spoken as letters or as words."
+    }
+  ],
+  "grammarCodes": [
+    {
+      "code": "n[C]",
+      "meaning": "countable noun: it has singular and plural forms",
+      "example": "a book / two books"
+    },
+    {
+      "code": "n[U]",
+      "meaning": "uncountable noun: it usually has no plural form",
+      "example": "water / some water"
+    },
+    {
+      "code": "n[C/U]",
+      "meaning": "noun that can be countable or uncountable depending on meaning",
+      "example": "a chicken / some chicken"
+    },
+    {
+      "code": "v[T]",
+      "meaning": "transitive verb: it takes a direct object",
+      "example": "She bought a ticket."
+    },
+    {
+      "code": "v[I]",
+      "meaning": "intransitive verb: it does not take a direct object",
+      "example": "He slept."
+    },
+    {
+      "code": "v[I/T]",
+      "meaning": "verb that can be transitive or intransitive",
+      "example": "The door opened. / She opened the door."
+    },
+    {
+      "code": "adj[gradable]",
+      "meaning": "adjective that can be weaker or stronger",
+      "example": "cold, colder, very cold"
+    },
+    {
+      "code": "adj[not gradable]",
+      "meaning": "adjective that usually does not take degrees",
+      "example": "dead, digital, married"
+    },
+    {
+      "code": "adj[predicative]",
+      "meaning": "adjective used after a linking verb",
+      "example": "The child is asleep."
+    },
+    {
+      "code": "adj[attributive]",
+      "meaning": "adjective used before a noun",
+      "example": "an asleep child is unusual; a sleeping child is normal"
+    },
+    {
+      "code": "n[singular]",
+      "meaning": "noun usually used in singular form",
+      "example": "the sun"
+    },
+    {
+      "code": "n[plural]",
+      "meaning": "noun usually used in plural form",
+      "example": "jeans, scissors"
+    },
+    {
+      "code": "formal",
+      "meaning": "used in careful, official, or academic situations",
+      "example": "commence"
+    },
+    {
+      "code": "informal",
+      "meaning": "used in casual conversation",
+      "example": "kids"
+    },
+    {
+      "code": "BrE",
+      "meaning": "mainly British English",
+      "example": "lorry"
+    },
+    {
+      "code": "AmE",
+      "meaning": "mainly American English",
+      "example": "truck"
+    },
+    {
+      "code": "AusE",
+      "meaning": "mainly Australian English",
+      "example": "arvo"
+    }
+  ],
+  "sections": [
+    {
+      "id": "articles",
+      "title": "Articles",
+      "body": [
+        "English uses 'a' or 'an' for non-specific singular countable nouns, and 'the' for specific or known nouns.",
+        "Use 'an' before a vowel sound, not just a vowel letter."
+      ],
+      "examples": [
+        {
+          "text": "I saw a cat.",
+          "note": "any cat, not specific"
+        },
+        {
+          "text": "I saw the cat again.",
+          "note": "a specific cat already known"
+        }
+      ]
+    },
+    {
+      "id": "countability",
+      "title": "Countability",
+      "body": [
+        "Countable nouns can be counted and have plural forms.",
+        "Uncountable nouns refer to mass, abstract ideas, or substances and usually do not take a/an or a plural -s."
+      ],
+      "examples": [
+        {
+          "text": "two chairs",
+          "note": "countable"
+        },
+        {
+          "text": "some information",
+          "note": "uncountable"
+        }
+      ]
+    },
+    {
+      "id": "verb-patterns",
+      "title": "Verb patterns",
+      "body": [
+        "Some verbs take an object, some do not, and some can do both.",
+        "Learners should notice patterns such as verb + to-infinitive, verb + -ing, and verb + object + infinitive."
+      ],
+      "examples": [
+        {
+          "text": "She wants to leave.",
+          "note": "verb + to-infinitive"
+        },
+        {
+          "text": "They enjoy swimming.",
+          "note": "verb + -ing"
+        }
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title": "Comparatives and superlatives",
+      "body": [
+        "Short adjectives often add -er and -est. Longer adjectives usually use more and most.",
+        "Irregular forms must be learned separately."
+      ],
+      "examples": [
+        {
+          "text": "small, smaller, smallest",
+          "note": "short adjective"
+        },
+        {
+          "text": "beautiful, more beautiful, most beautiful",
+          "note": "long adjective"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title": "Prepositions",
+      "body": [
+        "Prepositions often show place, time, movement, or relationship.",
+        "Many preposition choices are fixed by common usage, so they should be learned in phrases."
+      ],
+      "examples": [
+        {
+          "text": "on Monday",
+          "note": "time"
+        },
+        {
+          "text": "interested in music",
+          "note": "fixed phrase"
+        }
+      ]
+    },
+    {
+      "id": "word-order",
+      "title": "Word order",
+      "body": [
+        "A basic English statement usually follows subject + verb + object order.",
+        "Questions often change word order or use an auxiliary verb."
+      ],
+      "examples": [
+        {
+          "text": "She reads books.",
+          "note": "statement"
+        },
+        {
+          "text": "Does she read books?",
+          "note": "question"
+        }
+      ]
+    },
+    {
+      "id": "punctuation",
+      "title": "Punctuation",
+      "body": [
+        "Punctuation helps readers see sentence boundaries, pauses, and meaning.",
+        "Apostrophes show possession or contractions, but they do not form ordinary plurals."
+      ],
+      "examples": [
+        {
+          "text": "Maria's book",
+          "note": "possession"
+        },
+        {
+          "text": "do not -> don't",
+          "note": "contraction"
+        }
+      ]
+    },
+    {
+      "id": "register",
+      "title": "Register and region",
+      "body": [
+        "Register labels show whether a word is neutral, formal, informal, slang, or offensive.",
+        "Region labels such as BrE, AmE, and AusE show where a word or spelling is most common."
+      ],
+      "examples": [
+        {
+          "text": "lorry (BrE) / truck (AmE)",
+          "note": "regional difference"
+        },
+        {
+          "text": "children (neutral) / kids (informal)",
+          "note": "register difference"
+        }
+      ]
+    },
+    {
+      "id": "common-errors",
+      "title": "Common learner errors",
+      "body": [
+        "Learners often confuse countable and uncountable nouns, omit articles, or choose the wrong preposition.",
+        "Checking grammar codes and examples helps avoid these mistakes."
+      ],
+      "examples": [
+        {
+          "text": "I need advice.",
+          "note": "not: I need an advice"
+        },
+        {
+          "text": "She arrived in London.",
+          "note": "correct preposition"
+        }
+      ]
+    }
+  ]
+}

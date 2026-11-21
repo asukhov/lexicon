@@ -1,0 +1,556 @@
+{
+  "intro": "This guide explains the sounds of English using the International Phonetic Alphabet (IPA). The symbols mainly follow a British Received Pronunciation (RP) model, with notes on common General American (GA) differences.",
+  "vowels": [
+    {
+      "symbol": "iː",
+      "type": "long vowel",
+      "example": "see",
+      "ipa": "/siː/",
+      "spelling": "ee, ea, e, ie, ei",
+      "description": "A long close front vowel. Keep the tongue high and the lips spread."
+    },
+    {
+      "symbol": "ɪ",
+      "type": "short vowel",
+      "example": "sit",
+      "ipa": "/sɪt/",
+      "spelling": "i, y, ui, e",
+      "description": "A short near-close front vowel. It is shorter and more relaxed than /iː/."
+    },
+    {
+      "symbol": "e",
+      "type": "short vowel",
+      "example": "bed",
+      "ipa": "/bed/",
+      "spelling": "e, ea, ai",
+      "description": "A short mid front vowel. In many GA accents this is close to /ɛ/."
+    },
+    {
+      "symbol": "æ",
+      "type": "short vowel",
+      "example": "cat",
+      "ipa": "/kæt/",
+      "spelling": "a",
+      "description": "A short open front vowel. The mouth is more open than for /e/."
+    },
+    {
+      "symbol": "ɑː",
+      "type": "long vowel",
+      "example": "car",
+      "ipa": "/kɑː/",
+      "spelling": "ar, a, al",
+      "description": "A long open back vowel. In RP it is usually longer than GA /ɑ/."
+    },
+    {
+      "symbol": "ɒ",
+      "type": "short vowel",
+      "example": "hot",
+      "ipa": "/hɒt/",
+      "spelling": "o, a",
+      "description": "A short open back rounded vowel common in RP. Many GA speakers use /ɑ/ here."
+    },
+    {
+      "symbol": "ɔː",
+      "type": "long vowel",
+      "example": "door",
+      "ipa": "/dɔː/",
+      "spelling": "or, aw, au, ore, oor, al",
+      "description": "A long mid-back rounded vowel. GA often uses /ɔ/ or /ɔr/ depending on spelling."
+    },
+    {
+      "symbol": "ʊ",
+      "type": "short vowel",
+      "example": "book",
+      "ipa": "/bʊk/",
+      "spelling": "oo, u, oul",
+      "description": "A short near-close back rounded vowel. It is shorter than /uː/."
+    },
+    {
+      "symbol": "uː",
+      "type": "long vowel",
+      "example": "blue",
+      "ipa": "/bluː/",
+      "spelling": "oo, u, ue, ew, ui",
+      "description": "A long close back rounded vowel. The lips are rounded and the tongue is high."
+    },
+    {
+      "symbol": "ʌ",
+      "type": "short vowel",
+      "example": "cup",
+      "ipa": "/kʌp/",
+      "spelling": "u, o, ou",
+      "description": "A short mid central-back vowel in stressed syllables, common in RP and GA."
+    },
+    {
+      "symbol": "ɜː",
+      "type": "long vowel",
+      "example": "bird",
+      "ipa": "/bɜːd/",
+      "spelling": "ir, ur, er, ear, or",
+      "description": "A long mid central vowel in stressed syllables. GA usually has /ɝ/ with r-coloring."
+    },
+    {
+      "symbol": "ə",
+      "type": "short vowel",
+      "example": "about",
+      "ipa": "/əˈbaʊt/",
+      "spelling": "a, e, i, o, u, er, or",
+      "description": "The schwa, a weak unstressed vowel. It is the most common vowel in English."
+    }
+  ],
+  "diphthongs": [
+    {
+      "symbol": "eɪ",
+      "type": "diphthong",
+      "example": "face",
+      "ipa": "/feɪs/",
+      "spelling": "a_e, ai, ay, ei, ey",
+      "description": "Moves from a mid front sound toward /ɪ/."
+    },
+    {
+      "symbol": "aɪ",
+      "type": "diphthong",
+      "example": "price",
+      "ipa": "/praɪs/",
+      "spelling": "i_e, i, y, igh, ie",
+      "description": "Moves from an open front sound toward /ɪ/."
+    },
+    {
+      "symbol": "ɔɪ",
+      "type": "diphthong",
+      "example": "choice",
+      "ipa": "/tʃɔɪs/",
+      "spelling": "oi, oy",
+      "description": "Moves from a rounded back sound toward /ɪ/."
+    },
+    {
+      "symbol": "aʊ",
+      "type": "diphthong",
+      "example": "mouth",
+      "ipa": "/maʊθ/",
+      "spelling": "ou, ow",
+      "description": "Moves from an open sound toward /ʊ/."
+    },
+    {
+      "symbol": "əʊ",
+      "type": "diphthong",
+      "example": "goat",
+      "ipa": "/ɡəʊt/",
+      "spelling": "o_e, oa, ow, o",
+      "description": "RP diphthong moving toward /ʊ/. GA often uses /oʊ/."
+    },
+    {
+      "symbol": "ɪə",
+      "type": "diphthong",
+      "example": "near",
+      "ipa": "/nɪə/",
+      "spelling": "ear, eer, ere, ier",
+      "description": "Moves from /ɪ/ toward /ə/. In GA it is often /ɪr/."
+    },
+    {
+      "symbol": "eə",
+      "type": "diphthong",
+      "example": "square",
+      "ipa": "/skweə/",
+      "spelling": "air, are, ear, ere",
+      "description": "Moves from /e/ toward /ə/. In GA it is often /er/."
+    },
+    {
+      "symbol": "ʊə",
+      "type": "diphthong",
+      "example": "tour",
+      "ipa": "/tʊə/",
+      "spelling": "ure, oor, our",
+      "description": "Moves from /ʊ/ toward /ə/. Many speakers now replace it with /ɔː/ or /ʊr/."
+    }
+  ],
+  "consonants": [
+    {
+      "symbol": "p",
+      "type": "voiceless plosive",
+      "example": "pen",
+      "ipa": "/pen/",
+      "spelling": "p, pp",
+      "description": "Made by closing the lips and releasing air without voice."
+    },
+    {
+      "symbol": "b",
+      "type": "voiced plosive",
+      "example": "bad",
+      "ipa": "/bæd/",
+      "spelling": "b, bb",
+      "description": "Made like /p/, but with vocal fold vibration."
+    },
+    {
+      "symbol": "t",
+      "type": "voiceless plosive",
+      "example": "tea",
+      "ipa": "/tiː/",
+      "spelling": "t, tt",
+      "description": "Made by touching the tongue to the ridge behind the teeth and releasing air."
+    },
+    {
+      "symbol": "d",
+      "type": "voiced plosive",
+      "example": "did",
+      "ipa": "/dɪd/",
+      "spelling": "d, dd, ed",
+      "description": "Made like /t/, but voiced."
+    },
+    {
+      "symbol": "k",
+      "type": "voiceless plosive",
+      "example": "cat",
+      "ipa": "/kæt/",
+      "spelling": "c, k, ck, ch, q",
+      "description": "Made at the back of the mouth without voice."
+    },
+    {
+      "symbol": "ɡ",
+      "type": "voiced plosive",
+      "example": "go",
+      "ipa": "/ɡəʊ/",
+      "spelling": "g, gg, gh",
+      "description": "Made like /k/, but voiced."
+    },
+    {
+      "symbol": "f",
+      "type": "voiceless fricative",
+      "example": "find",
+      "ipa": "/faɪnd/",
+      "spelling": "f, ff, ph, gh",
+      "description": "Made with the top teeth on the lower lip and continuous airflow."
+    },
+    {
+      "symbol": "v",
+      "type": "voiced fricative",
+      "example": "voice",
+      "ipa": "/vɔɪs/",
+      "spelling": "v, f",
+      "description": "Made like /f/, but voiced."
+    },
+    {
+      "symbol": "θ",
+      "type": "voiceless fricative",
+      "example": "think",
+      "ipa": "/θɪŋk/",
+      "spelling": "th",
+      "description": "Made with the tongue near the teeth and no voice."
+    },
+    {
+      "symbol": "ð",
+      "type": "voiced fricative",
+      "example": "this",
+      "ipa": "/ðɪs/",
+      "spelling": "th",
+      "description": "Made like /θ/, but voiced."
+    },
+    {
+      "symbol": "s",
+      "type": "voiceless fricative",
+      "example": "sun",
+      "ipa": "/sʌn/",
+      "spelling": "s, ss, c, sc",
+      "description": "Made with a narrow groove for air between the tongue and ridge behind the teeth."
+    },
+    {
+      "symbol": "z",
+      "type": "voiced fricative",
+      "example": "zoo",
+      "ipa": "/zuː/",
+      "spelling": "z, zz, s, se",
+      "description": "Made like /s/, but voiced."
+    },
+    {
+      "symbol": "ʃ",
+      "type": "voiceless fricative",
+      "example": "she",
+      "ipa": "/ʃiː/",
+      "spelling": "sh, ti, ci, ssi, ch",
+      "description": "A hush sound made with the tongue further back than /s/."
+    },
+    {
+      "symbol": "ʒ",
+      "type": "voiced fricative",
+      "example": "vision",
+      "ipa": "/ˈvɪʒən/",
+      "spelling": "s, si, g",
+      "description": "The voiced partner of /ʃ/, common in middle or ending positions."
+    },
+    {
+      "symbol": "h",
+      "type": "voiceless fricative",
+      "example": "hat",
+      "ipa": "/hæt/",
+      "spelling": "h, wh",
+      "description": "A breathy sound made at the glottis before a vowel."
+    },
+    {
+      "symbol": "tʃ",
+      "type": "voiceless affricate",
+      "example": "church",
+      "ipa": "/tʃɜːtʃ/",
+      "spelling": "ch, tch, t",
+      "description": "A stop followed quickly by a fricative, like /t/ + /ʃ/."
+    },
+    {
+      "symbol": "dʒ",
+      "type": "voiced affricate",
+      "example": "judge",
+      "ipa": "/dʒʌdʒ/",
+      "spelling": "j, g, dg, dge",
+      "description": "A voiced stop-fricative, like /d/ + /ʒ/."
+    },
+    {
+      "symbol": "m",
+      "type": "nasal",
+      "example": "man",
+      "ipa": "/mæn/",
+      "spelling": "m, mm, mb",
+      "description": "A voiced nasal sound made with closed lips."
+    },
+    {
+      "symbol": "n",
+      "type": "nasal",
+      "example": "no",
+      "ipa": "/nəʊ/",
+      "spelling": "n, nn, kn, gn",
+      "description": "A voiced nasal sound made with the tongue behind the teeth."
+    },
+    {
+      "symbol": "ŋ",
+      "type": "nasal",
+      "example": "sing",
+      "ipa": "/sɪŋ/",
+      "spelling": "ng, n",
+      "description": "A voiced nasal sound made at the back of the mouth."
+    },
+    {
+      "symbol": "l",
+      "type": "approximant",
+      "example": "leg",
+      "ipa": "/leɡ/",
+      "spelling": "l, ll",
+      "description": "A voiced sound where air flows around the sides of the tongue."
+    },
+    {
+      "symbol": "r",
+      "type": "approximant",
+      "example": "red",
+      "ipa": "/red/",
+      "spelling": "r, rr, wr",
+      "description": "A voiced approximant. In RP it is often not pronounced before consonants or at word end."
+    },
+    {
+      "symbol": "j",
+      "type": "approximant",
+      "example": "yes",
+      "ipa": "/jes/",
+      "spelling": "y, i, u",
+      "description": "A voiced palatal approximant, like the start of 'yes'."
+    },
+    {
+      "symbol": "w",
+      "type": "approximant",
+      "example": "wet",
+      "ipa": "/wet/",
+      "spelling": "w, wh, qu",
+      "description": "A voiced labial-velar approximant made with rounded lips."
+    }
+  ],
+  "stress": {
+    "summary": "Stress means making one syllable or word sound stronger. Stressed syllables are usually longer, louder, and clearer.",
+    "rules": [
+      {
+        "title": "Word stress",
+        "text": "Many English words have one main stressed syllable. In IPA, primary stress is marked with /ˈ/ before the stressed syllable."
+      },
+      {
+        "title": "Secondary stress",
+        "text": "Long words can have a weaker second stress, marked with /ˌ/."
+      },
+      {
+        "title": "Noun and verb pairs",
+        "text": "Some two-syllable words change stress by word class, such as REcord (noun) and reCORD (verb)."
+      },
+      {
+        "title": "Sentence stress",
+        "text": "In sentences, content words usually receive more stress than grammar words."
+      },
+      {
+        "title": "Weak forms",
+        "text": "Function words like to, for, and can often use weak vowel /ə/ in natural speech."
+      }
+    ],
+    "examples": [
+      {
+        "word": "photograph",
+        "ipa": "/ˈfəʊtəɡrɑːf/",
+        "note": "stress on the first syllable"
+      },
+      {
+        "word": "photographer",
+        "ipa": "/fəˈtɒɡrəfə/",
+        "note": "stress moves to the second syllable"
+      },
+      {
+        "word": "record (noun)",
+        "ipa": "/ˈrekɔːd/",
+        "note": "noun stress on the first syllable"
+      },
+      {
+        "word": "record (verb)",
+        "ipa": "/rɪˈkɔːd/",
+        "note": "verb stress on the second syllable"
+      }
+    ]
+  },
+  "connectedSpeech": [
+    {
+      "title": "Linking",
+      "text": "A consonant sound at the end of one word can link to a vowel at the start of the next word.",
+      "example": "turn off → /tɜːn ɒf/"
+    },
+    {
+      "title": "Intrusion",
+      "text": "Speakers may insert /r/, /j/, or /w/ between vowels to make speech smoother.",
+      "example": "law and order → /lɔːr ənd ˈɔːdə/"
+    },
+    {
+      "title": "Assimilation",
+      "text": "A sound can change to become more like a nearby sound.",
+      "example": "good boy → /ɡʊb bɔɪ/ in fast speech"
+    },
+    {
+      "title": "Elision",
+      "text": "A sound may disappear in fast, natural speech.",
+      "example": "next day → /neks deɪ/"
+    },
+    {
+      "title": "Weak forms",
+      "text": "Unstressed grammar words often reduce to a shorter form.",
+      "example": "can → /kən/ in 'I can go'."
+    }
+  ],
+  "ukUs": [
+    {
+      "feature": "R sound",
+      "uk": "Often not pronounced after vowels unless followed by a vowel.",
+      "us": "Usually pronounced in most positions (rhotic).",
+      "examples": [
+        "car: UK /kɑː/, US /kɑr/"
+      ]
+    },
+    {
+      "feature": "LOT vowel",
+      "uk": "Often /ɒ/ in words like hot.",
+      "us": "Often /ɑ/ in words like hot.",
+      "examples": [
+        "hot: UK /hɒt/, US /hɑt/"
+      ]
+    },
+    {
+      "feature": "GOAT vowel",
+      "uk": "Usually diphthong /əʊ/.",
+      "us": "Usually /oʊ/.",
+      "examples": [
+        "go: UK /ɡəʊ/, US /ɡoʊ/"
+      ]
+    },
+    {
+      "feature": "T sound",
+      "uk": "Often a clear /t/ in water.",
+      "us": "Often a flap /ɾ/ between vowels in casual speech.",
+      "examples": [
+        "water: UK /ˈwɔːtə/, US /ˈwɔɾɚ/"
+      ]
+    },
+    {
+      "feature": "Vowel in bath",
+      "uk": "Often /ɑː/ in bath, dance.",
+      "us": "Often /æ/ in these words.",
+      "examples": [
+        "bath: UK /bɑːθ/, US /bæθ/"
+      ]
+    }
+  ],
+  "minimalPairs": [
+    {
+      "pair": [
+        "ship",
+        "sheep"
+      ],
+      "ipa": [
+        "/ʃɪp/",
+        "/ʃiːp/"
+      ],
+      "note": "short /ɪ/ versus long /iː/"
+    },
+    {
+      "pair": [
+        "bed",
+        "bad"
+      ],
+      "ipa": [
+        "/bed/",
+        "/bæd/"
+      ],
+      "note": "mid /e/ versus open /æ/"
+    },
+    {
+      "pair": [
+        "cup",
+        "cap"
+      ],
+      "ipa": [
+        "/kʌp/",
+        "/kæp/"
+      ],
+      "note": "different vowel quality changes meaning"
+    },
+    {
+      "pair": [
+        "fan",
+        "van"
+      ],
+      "ipa": [
+        "/fæn/",
+        "/væn/"
+      ],
+      "note": "voiceless /f/ versus voiced /v/"
+    },
+    {
+      "pair": [
+        "thin",
+        "then"
+      ],
+      "ipa": [
+        "/θɪn/",
+        "/ðen/"
+      ],
+      "note": "voiceless /θ/ versus voiced /ð/"
+    },
+    {
+      "pair": [
+        "live",
+        "leave"
+      ],
+      "ipa": [
+        "/lɪv/",
+        "/liːv/"
+      ],
+      "note": "short /ɪ/ versus long /iː/"
+    },
+    {
+      "pair": [
+        "walk",
+        "work"
+      ],
+      "ipa": [
+        "/wɔːk/",
+        "/wɜːk/"
+      ],
+      "note": "back /ɔː/ versus central /ɜː/"
+    }
+  ]
+}

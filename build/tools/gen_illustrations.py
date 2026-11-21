@@ -1,0 +1,472 @@
+#!/usr/bin/env python3
+"""Generate the local visual-dictionary data (original line-art SVGs)."""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+OUT = ROOT / "data" / "illustrations.json"
+
+STYLE = (
+    'xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" '
+    'fill="none" stroke="currentColor" stroke-width="3" '
+    'stroke-linecap="round" stroke-linejoin="round"'
+)
+
+
+def svg(body: str) -> str:
+    return f'<svg {STYLE}>{body}</svg>'
+
+
+ITEMS = [
+    {
+        "id": "umbrella",
+        "title": "Umbrella",
+        "category": "Everyday objects",
+        "summary": "The parts of an open umbrella. The ribs are the thin rods that hold the canopy open.",
+        "svg": svg(
+            """
+            <path d="M110 215 C165 55 475 55 530 215 Q480 195 430 215 Q375 195 320 215 Q265 195 210 215 Q160 195 110 215 Z" fill="#f3f4f6"/>
+            <path d="M320 75 L110 215 M320 75 L210 215 M320 75 L320 215 M320 75 L430 215 M320 75 L530 215"/>
+            <path d="M320 76 L320 365" />
+            <path d="M320 365 Q320 395 350 395 Q380 395 380 365" />
+            <path d="M320 62 L320 76" />
+            <rect x="300" y="240" width="40" height="14" rx="5" fill="#fff"/>
+            <path d="M320 254 L230 213 M320 254 L410 213"/>
+            <path d="M320 335 L250 300 M320 335 L390 300"/>
+            <path d="M302 335 L338 335" />
+            <circle cx="320" cy="55" r="7" fill="#fff"/>
+            <path d="M110 215 Q125 205 140 215 M210 215 Q225 205 240 215 M430 215 Q445 205 460 215 M530 215 Q515 205 500 215"/>
+            """,
+        ),
+        "parts": [
+            {"term": "canopy", "label": "canopy", "x": 360, "y": 130, "definition": "The fabric top of an umbrella that keeps the rain off.", "aliases": ["umbrella canopy"]},
+            {"term": "rib", "label": "rib", "x": 205, "y": 198, "definition": "One of the thin rods that support an umbrella's canopy.", "aliases": ["umbrella rib"], "note": "This is the umbrella sense, not the body bone."},
+            {"term": "shaft", "label": "shaft", "x": 280, "y": 300, "definition": "The long central pole of an umbrella.", "aliases": ["umbrella shaft"]},
+            {"term": "handle", "label": "handle", "x": 385, "y": 390, "definition": "The part you hold at the bottom of an umbrella.", "aliases": ["umbrella handle"]},
+            {"term": "ferrule", "label": "ferrule", "x": 290, "y": 55, "definition": "The small cap at the very top of an umbrella.", "aliases": ["umbrella ferrule"]},
+            {"term": "runner", "label": "runner", "x": 350, "y": 247, "definition": "The sliding ring that pushes the ribs open and holds them up.", "aliases": ["umbrella runner"]},
+            {"term": "stretcher", "label": "stretcher", "x": 255, "y": 225, "definition": "A hinged strut that connects the runner to a rib.", "aliases": ["umbrella stretcher"]},
+            {"term": "tie", "label": "tie", "x": 280, "y": 335, "definition": "A small strap that keeps a folded umbrella closed.", "aliases": ["umbrella tie"]},
+            {"term": "tip", "label": "tip", "x": 300, "y": 392, "definition": "The pointed end at the bottom of an umbrella.", "aliases": ["umbrella tip"]},
+        ],
+    },
+    {
+        "id": "bicycle",
+        "title": "Bicycle",
+        "category": "Transport",
+        "summary": "A bicycle has two wheels, a frame, a drive chain, and controls for steering and braking.",
+        "svg": svg(
+            """
+            <circle cx="170" cy="300" r="82"/><circle cx="170" cy="300" r="68"/>
+            <circle cx="470" cy="300" r="82"/><circle cx="470" cy="300" r="68"/>
+            <circle cx="170" cy="300" r="7" fill="#fff"/><circle cx="470" cy="300" r="7" fill="#fff"/>
+            <path d="M170 300 L275 178 L400 300 L470 300 L365 178 L275 178 L330 300 L170 300"/>
+            <path d="M275 178 L250 145 L300 145"/>
+            <path d="M400 300 L430 150 L475 150"/>
+            <path d="M420 150 L400 135 M475 150 L492 160"/>
+            <circle cx="330" cy="300" r="28"/><circle cx="330" cy="300" r="8"/>
+            <path d="M330 300 L300 335 M330 300 L360 335"/>
+            <path d="M330 300 Q400 260 470 300 M330 300 Q260 340 170 300"/>
+            <path d="M170 300 L220 255 M470 300 L420 255"/>
+            <path d="M160 300 L180 300 M460 300 L480 300"/>
+            """,
+        ),
+        "parts": [
+            {"term": "wheel", "label": "wheel", "x": 170, "y": 300, "definition": "The round part that turns and carries the bicycle.", "aliases": ["bicycle wheel"]},
+            {"term": "tire", "label": "tyre / tire", "x": 170, "y": 218, "definition": "The rubber ring around a wheel.", "aliases": ["tyre", "bicycle tire"]},
+            {"term": "rim", "label": "rim", "x": 170, "y": 233, "definition": "The metal hoop that holds the tyre and spokes.", "aliases": ["bicycle rim"]},
+            {"term": "spoke", "label": "spoke", "x": 220, "y": 250, "definition": "One of the thin rods connecting the hub to the rim.", "aliases": ["bicycle spoke"]},
+            {"term": "hub", "label": "hub", "x": 170, "y": 300, "definition": "The central part of a wheel, where the spokes meet.", "aliases": ["wheel hub"]},
+            {"term": "frame", "label": "frame", "x": 330, "y": 235, "definition": "The main metal structure that joins the wheels, seat, and handlebars.", "aliases": ["bicycle frame"]},
+            {"term": "handlebar", "label": "handlebar", "x": 480, "y": 150, "definition": "The bar you hold to steer the bicycle.", "aliases": ["handlebars"]},
+            {"term": "saddle", "label": "saddle", "x": 270, "y": 140, "definition": "The seat of a bicycle.", "aliases": ["bicycle seat"]},
+            {"term": "pedal", "label": "pedal", "x": 300, "y": 340, "definition": "The part you push with your foot to turn the chain.", "aliases": ["bicycle pedal"]},
+            {"term": "chain", "label": "chain", "x": 400, "y": 316, "definition": "The metal loop that carries power from the pedals to the rear wheel.", "aliases": ["bicycle chain"]},
+            {"term": "gear", "label": "gear", "x": 330, "y": 300, "definition": "A toothed wheel that changes how hard it is to pedal.", "aliases": ["gearwheel", "sprocket"]},
+        ],
+    },
+    {
+        "id": "car",
+        "title": "Car",
+        "category": "Transport",
+        "summary": "The main outside parts of a passenger car.",
+        "svg": svg(
+            """
+            <path d="M80 265 Q85 215 150 205 L245 205 L300 150 Q315 138 340 138 L420 138 Q445 138 462 158 L490 205 L555 218 Q575 225 575 255 L575 300 L80 300 Z" fill="#f3f4f6"/>
+            <path d="M255 200 L305 158 L415 158 L445 200 Z" fill="#fff"/>
+            <path d="M330 158 L330 200 M410 158 L410 200"/>
+            <circle cx="190" cy="305" r="42" fill="#fff"/><circle cx="190" cy="305" r="24"/>
+            <circle cx="480" cy="305" r="42" fill="#fff"/><circle cx="480" cy="305" r="24"/>
+            <path d="M260 225 L260 290 M390 225 L390 290"/>
+            <path d="M400 240 L430 240"/>
+            <path d="M545 235 L565 235 M545 250 L565 250"/>
+            <path d="M545 270 L565 270 M545 285 L565 285"/>
+            <path d="M80 290 L575 290"/>
+            """,
+        ),
+        "parts": [
+            {"term": "hood", "label": "hood / bonnet", "x": 150, "y": 250, "definition": "The front cover over the engine. In British English it is usually called the bonnet.", "aliases": ["bonnet"]},
+            {"term": "roof", "label": "roof", "x": 375, "y": 140, "definition": "The top cover of the car's passenger compartment.", "aliases": ["car roof"]},
+            {"term": "windshield", "label": "windshield", "x": 300, "y": 178, "definition": "The front window. British English usually says windscreen.", "aliases": ["windscreen"]},
+            {"term": "window", "label": "window", "x": 400, "y": 175, "definition": "A glass opening in the side of the car.", "aliases": ["car window"]},
+            {"term": "door", "label": "door", "x": 330, "y": 260, "definition": "The hinged panel you open to get into the car.", "aliases": ["car door"]},
+            {"term": "mirror", "label": "mirror", "x": 440, "y": 205, "definition": "A small mirror that lets the driver see behind.", "aliases": ["wing mirror", "side mirror"]},
+            {"term": "wheel", "label": "wheel", "x": 190, "y": 305, "definition": "The round part that the tyre is fitted to.", "aliases": ["car wheel"]},
+            {"term": "tire", "label": "tyre / tire", "x": 190, "y": 348, "definition": "The rubber ring around a wheel.", "aliases": ["tyre"]},
+            {"term": "headlight", "label": "headlight", "x": 560, "y": 232, "definition": "A bright light at the front of the car.", "aliases": ["headlamp"]},
+            {"term": "grille", "label": "grille", "x": 560, "y": 260, "definition": "The slatted opening at the front that lets air reach the engine.", "aliases": ["radiator grille"]},
+            {"term": "bumper", "label": "bumper", "x": 565, "y": 290, "definition": "The protective bar at the front or back of a car.", "aliases": ["car bumper"]},
+            {"term": "trunk", "label": "trunk / boot", "x": 120, "y": 245, "definition": "The luggage compartment at the back. British English usually says boot.", "aliases": ["boot", "car boot"]},
+        ],
+    },
+    {
+        "id": "house",
+        "title": "House",
+        "category": "Buildings",
+        "summary": "The main outside parts of a house.",
+        "svg": svg(
+            """
+            <path d="M150 180 L320 55 L490 180" fill="#f3f4f6"/>
+            <rect x="170" y="180" width="300" height="190" fill="#fff"/>
+            <rect x="395" y="85" width="36" height="70" fill="#f3f4f6"/>
+            <rect x="285" y="255" width="70" height="115" fill="#f3f4f6"/>
+            <rect x="205" y="220" width="55" height="55" fill="#fff"/>
+            <rect x="380" y="220" width="55" height="55" fill="#fff"/>
+            <path d="M205 247 L260 247 M232 220 L232 275 M380 247 L435 247 M407 220 L407 275"/>
+            <path d="M285 255 Q320 270 355 255"/>
+            <path d="M160 180 L480 180 M150 180 L490 180"/>
+            <path d="M150 180 L150 190 M490 180 L490 190"/>
+            <path d="M170 370 L170 390 L470 390 L470 370"/>
+            <path d="M200 300 L240 300 M400 300 L440 300"/>
+            <path d="M395 85 L431 85 M395 100 L431 100"/>
+            """,
+        ),
+        "parts": [
+            {"term": "roof", "label": "roof", "x": 320, "y": 115, "definition": "The covering on top of a building.", "aliases": ["house roof"]},
+            {"term": "chimney", "label": "chimney", "x": 413, "y": 95, "definition": "The tall pipe that carries smoke from a fire out of the house.", "aliases": ["house chimney"]},
+            {"term": "gutter", "label": "gutter", "x": 490, "y": 184, "definition": "The channel along the edge of a roof that collects rainwater.", "aliases": ["roof gutter"]},
+            {"term": "wall", "label": "wall", "x": 190, "y": 250, "definition": "The upright side of a building.", "aliases": ["house wall"]},
+            {"term": "window", "label": "window", "x": 232, "y": 247, "definition": "An opening with glass that lets in light.", "aliases": ["house window"]},
+            {"term": "door", "label": "door", "x": 320, "y": 330, "definition": "The moving panel you use to enter a building.", "aliases": ["front door"]},
+            {"term": "porch", "label": "porch", "x": 320, "y": 280, "definition": "A covered area at the entrance of a house.", "aliases": ["front porch"]},
+            {"term": "step", "label": "step", "x": 320, "y": 385, "definition": "A raised surface you walk on to reach a door.", "aliases": ["doorstep"]},
+            {"term": "foundation", "label": "foundation", "x": 250, "y": 390, "definition": "The solid base under a building.", "aliases": ["house foundation"]},
+        ],
+    },
+    {
+        "id": "head",
+        "title": "Human head",
+        "category": "The body",
+        "summary": "The main visible parts of a human head and face.",
+        "svg": svg(
+            """
+            <path d="M210 230 Q205 90 320 85 Q435 90 430 230 Q430 330 320 360 Q210 330 210 230 Z" fill="#fff"/>
+            <path d="M220 140 Q260 80 320 82 Q380 80 420 140 Q390 115 350 115 Q320 135 290 115 Q250 115 220 140 Z" fill="#f3f4f6"/>
+            <path d="M210 220 Q185 200 182 235 Q180 270 210 280"/>
+            <path d="M430 220 Q455 200 458 235 Q460 270 430 280"/>
+            <path d="M255 195 Q280 180 305 195 M335 195 Q360 180 385 195"/>
+            <ellipse cx="280" cy="220" rx="20" ry="13" fill="#fff"/><ellipse cx="360" cy="220" rx="20" ry="13" fill="#fff"/>
+            <circle cx="280" cy="220" r="6" fill="#15161a" stroke="none"/><circle cx="360" cy="220" r="6" fill="#15161a" stroke="none"/>
+            <path d="M320 225 L310 265 Q320 275 330 265"/>
+            <path d="M285 295 Q320 315 355 295"/>
+            <path d="M288 296 Q320 310 352 296"/>
+            <path d="M250 255 Q265 270 280 258 M390 255 Q375 270 360 258"/>
+            <path d="M320 315 L320 338"/>
+            <path d="M280 345 Q320 360 360 345"/>
+            """,
+        ),
+        "parts": [
+            {"term": "hair", "label": "hair", "x": 320, "y": 105, "definition": "The strands growing from the scalp.", "aliases": ["head hair"]},
+            {"term": "forehead", "label": "forehead", "x": 320, "y": 165, "definition": "The part of the face above the eyebrows.", "aliases": []},
+            {"term": "eyebrow", "label": "eyebrow", "x": 280, "y": 187, "definition": "The line of hair above an eye.", "aliases": ["eyebrows"]},
+            {"term": "eye", "label": "eye", "x": 280, "y": 220, "definition": "The organ you see with.", "aliases": ["eyes"]},
+            {"term": "eyelash", "label": "eyelash", "x": 280, "y": 232, "definition": "One of the short hairs along the edge of an eyelid.", "aliases": ["eyelashes"]},
+            {"term": "ear", "label": "ear", "x": 190, "y": 235, "definition": "The part of the body you hear with.", "aliases": ["ears"]},
+            {"term": "cheek", "label": "cheek", "x": 245, "y": 270, "definition": "The soft side of the face below the eye.", "aliases": ["cheeks"]},
+            {"term": "nose", "label": "nose", "x": 320, "y": 252, "definition": "The part of the face used for breathing and smelling.", "aliases": []},
+            {"term": "mouth", "label": "mouth", "x": 320, "y": 305, "definition": "The opening in the face used for eating and speaking.", "aliases": []},
+            {"term": "lip", "label": "lip", "x": 320, "y": 296, "definition": "One of the two soft edges of the mouth.", "aliases": ["lips"]},
+            {"term": "chin", "label": "chin", "x": 320, "y": 350, "definition": "The part of the face below the mouth.", "aliases": []},
+            {"term": "jaw", "label": "jaw", "x": 370, "y": 330, "definition": "The lower bone of the face that holds the teeth.", "aliases": ["jawbone"]},
+        ],
+    },
+    {
+        "id": "hand",
+        "title": "Hand",
+        "category": "The body",
+        "summary": "The parts of a human hand.",
+        "svg": svg(
+            """
+            <path d="M235 190 Q225 100 255 95 Q285 92 290 185 L290 330 Q290 365 320 365 Q350 365 350 330 L350 180 Q350 120 378 120 Q405 120 405 185 L405 330 Q405 365 435 365 Q462 365 462 330 L462 205 Q462 155 485 155 Q510 155 510 205 L510 345 Q510 400 430 400 L290 400 Q210 400 210 330 L210 260 Q210 210 235 190 Z" fill="#f3f4f6"/>
+            <path d="M235 190 Q200 150 230 130 Q255 115 270 155"/>
+            <path d="M285 330 Q320 345 350 330 M400 330 Q435 345 462 330"/>
+            <path d="M235 285 Q260 295 285 285"/>
+            <path d="M320 390 L320 410"/>
+            """,
+        ),
+        "parts": [
+            {"term": "palm", "label": "palm", "x": 360, "y": 310, "definition": "The flat inner surface of the hand.", "aliases": ["palm of the hand"]},
+            {"term": "wrist", "label": "wrist", "x": 320, "y": 395, "definition": "The joint between the hand and the arm.", "aliases": []},
+            {"term": "thumb", "label": "thumb", "x": 235, "y": 170, "definition": "The short, thick first finger on the side of the hand.", "aliases": []},
+            {"term": "index finger", "label": "index finger", "x": 290, "y": 145, "definition": "The finger next to the thumb, often used for pointing.", "aliases": ["forefinger"]},
+            {"term": "middle finger", "label": "middle finger", "x": 378, "y": 135, "definition": "The longest finger, in the middle of the hand.", "aliases": []},
+            {"term": "ring finger", "label": "ring finger", "x": 462, "y": 170, "definition": "The finger next to the little finger, where a ring is often worn.", "aliases": []},
+            {"term": "little finger", "label": "little finger", "x": 510, "y": 230, "definition": "The smallest finger on the outside of the hand.", "aliases": ["pinky"]},
+            {"term": "knuckle", "label": "knuckle", "x": 350, "y": 205, "definition": "A joint where a finger bends.", "aliases": ["knuckles"]},
+            {"term": "fingernail", "label": "fingernail", "x": 290, "y": 110, "definition": "The hard protective plate on the end of a finger.", "aliases": ["nail"]},
+        ],
+    },
+    {
+        "id": "tree",
+        "title": "Tree",
+        "category": "Plants",
+        "summary": "The main parts of a tree.",
+        "svg": svg(
+            """
+            <path d="M295 215 Q260 185 240 145 Q220 105 250 85 Q275 65 310 85 Q330 55 365 65 Q400 70 405 110 Q435 125 425 165 Q420 200 385 215 Z" fill="#f3f4f6"/>
+            <path d="M300 215 L300 370 L340 370 L340 215"/>
+            <path d="M320 370 L320 400 M300 400 Q260 390 240 415 M340 400 Q380 390 400 415"/>
+            <path d="M320 300 L270 260 M320 335 L380 290 M320 270 L370 235"/>
+            <path d="M310 240 Q300 220 320 205 M330 250 Q345 225 360 235"/>
+            <path d="M300 240 Q290 300 305 360 M340 240 Q350 300 335 360"/>
+            <path d="M240 145 Q255 140 265 150 M380 150 Q395 140 410 150"/>
+            """,
+        ),
+        "parts": [
+            {"term": "crown", "label": "crown", "x": 320, "y": 110, "definition": "The mass of branches and leaves at the top of a tree.", "aliases": ["tree crown"]},
+            {"term": "leaf", "label": "leaf", "x": 410, "y": 150, "definition": "A flat green part of a plant that makes food from sunlight.", "aliases": ["leaves"]},
+            {"term": "branch", "label": "branch", "x": 370, "y": 235, "definition": "A woody part growing out from the trunk.", "aliases": ["branches"]},
+            {"term": "twig", "label": "twig", "x": 350, "y": 210, "definition": "A very small, thin branch.", "aliases": ["twigs"]},
+            {"term": "trunk", "label": "trunk", "x": 320, "y": 330, "definition": "The thick main stem of a tree.", "aliases": ["tree trunk"]},
+            {"term": "bark", "label": "bark", "x": 305, "y": 300, "definition": "The tough outer covering of a tree trunk.", "aliases": ["tree bark"]},
+            {"term": "root", "label": "root", "x": 280, "y": 405, "definition": "The part of a plant that grows underground and takes in water.", "aliases": ["roots"]},
+        ],
+    },
+    {
+        "id": "flower",
+        "title": "Flower",
+        "category": "Plants",
+        "summary": "The parts of a typical flower.",
+        "svg": svg(
+            """
+            <path d="M320 230 L320 395" />
+            <path d="M320 300 Q250 270 230 320 Q280 345 320 320" fill="#f3f4f6"/>
+            <path d="M320 345 Q390 315 410 365 Q360 390 320 365" fill="#f3f4f6"/>
+            <ellipse cx="320" cy="120" rx="34" ry="72" fill="#f3f4f6"/>
+            <ellipse cx="320" cy="120" rx="34" ry="72" transform="rotate(60 320 120)" fill="#f3f4f6"/>
+            <ellipse cx="320" cy="120" rx="34" ry="72" transform="rotate(120 320 120)" fill="#f3f4f6"/>
+            <ellipse cx="320" cy="120" rx="34" ry="72" transform="rotate(180 320 120)" fill="#f3f4f6"/>
+            <ellipse cx="320" cy="120" rx="34" ry="72" transform="rotate(240 320 120)" fill="#f3f4f6"/>
+            <ellipse cx="320" cy="120" rx="34" ry="72" transform="rotate(300 320 120)" fill="#f3f4f6"/>
+            <circle cx="320" cy="175" r="28" fill="#fff"/>
+            <path d="M300 175 L320 160 L340 175 M320 160 L320 145"/>
+            <path d="M320 395 L320 415 M300 410 Q280 400 265 418 M340 410 Q360 400 375 418"/>
+            <path d="M320 250 Q300 240 290 250 M320 250 Q340 240 350 250"/>
+            """,
+        ),
+        "parts": [
+            {"term": "petal", "label": "petal", "x": 320, "y": 65, "definition": "One of the coloured leaves around the centre of a flower.", "aliases": ["petals"]},
+            {"term": "stamen", "label": "stamen", "x": 300, "y": 160, "definition": "The part of a flower that produces pollen.", "aliases": ["stamens"]},
+            {"term": "pistil", "label": "pistil", "x": 340, "y": 175, "definition": "The female part of a flower, which receives pollen.", "aliases": []},
+            {"term": "sepal", "label": "sepal", "x": 320, "y": 240, "definition": "One of the small leaves that protect a flower bud.", "aliases": ["sepals"]},
+            {"term": "stem", "label": "stem", "x": 320, "y": 330, "definition": "The long thin part that supports a flower.", "aliases": ["flower stem"]},
+            {"term": "leaf", "label": "leaf", "x": 250, "y": 310, "definition": "A flat green part of a plant.", "aliases": ["leaves"]},
+            {"term": "root", "label": "root", "x": 280, "y": 410, "definition": "The part of a plant that grows underground.", "aliases": ["roots"]},
+            {"term": "bud", "label": "bud", "x": 345, "y": 230, "definition": "A small part that will open into a flower or leaf.", "aliases": ["flower bud"]},
+        ],
+    },
+    {
+        "id": "laptop",
+        "title": "Laptop",
+        "category": "Technology",
+        "summary": "The main parts of a laptop computer.",
+        "svg": svg(
+            """
+            <path d="M190 70 L450 70 L430 255 L210 255 Z" fill="#f3f4f6"/>
+            <rect x="205" y="85" width="230" height="150" fill="#fff"/>
+            <path d="M160 255 L480 255 L525 325 L115 325 Z" fill="#f3f4f6"/>
+            <path d="M185 275 L455 275 L475 305 L165 305 Z" fill="#fff"/>
+            <path d="M180 270 L460 270 M175 280 L465 280 M170 290 L470 290"/>
+            <rect x="285" y="307" width="70" height="12" rx="4" fill="#fff"/>
+            <circle cx="320" cy="82" r="5" fill="#fff"/>
+            <path d="M430 255 L475 255 M430 260 L475 260"/>
+            <rect x="440" y="225" width="14" height="8" rx="2" fill="#fff"/>
+            <circle cx="205" cy="320" r="4" fill="#fff"/>
+            """,
+        ),
+        "parts": [
+            {"term": "screen", "label": "screen", "x": 320, "y": 160, "definition": "The flat display that shows images and text.", "aliases": ["laptop screen"]},
+            {"term": "webcam", "label": "webcam", "x": 320, "y": 82, "definition": "A small camera built into a laptop for video calls.", "aliases": []},
+            {"term": "hinge", "label": "hinge", "x": 320, "y": 255, "definition": "The joint that lets the screen fold closed.", "aliases": []},
+            {"term": "keyboard", "label": "keyboard", "x": 320, "y": 285, "definition": "The set of keys used for typing.", "aliases": ["laptop keyboard"]},
+            {"term": "trackpad", "label": "trackpad", "x": 320, "y": 313, "definition": "The flat surface used to move the pointer instead of a mouse.", "aliases": ["touchpad"]},
+            {"term": "port", "label": "port", "x": 450, "y": 230, "definition": "A socket for connecting a cable or device.", "aliases": ["laptop port"]},
+            {"term": "base", "label": "base", "x": 200, "y": 310, "definition": "The lower part of a laptop that holds the keyboard and electronics.", "aliases": ["laptop base"]},
+            {"term": "power button", "label": "power button", "x": 485, "y": 320, "definition": "The button that turns the computer on or off.", "aliases": ["power switch"]},
+        ],
+    },
+    {
+        "id": "guitar",
+        "title": "Guitar",
+        "category": "Music",
+        "summary": "The parts of an acoustic guitar.",
+        "svg": svg(
+            """
+            <path d="M320 250 Q250 240 230 300 Q210 360 280 390 Q320 405 320 420 Q320 405 360 390 Q430 360 410 300 Q390 240 320 250 Z" fill="#f3f4f6"/>
+            <circle cx="320" cy="330" r="38" fill="#fff"/>
+            <rect x="305" y="90" width="30" height="170" fill="#fff"/>
+            <path d="M290 45 L350 45 L345 90 L295 90 Z" fill="#f3f4f6"/>
+            <path d="M300 60 L340 60 M300 72 L340 72"/>
+            <circle cx="285" cy="58" r="5" fill="#fff"/><circle cx="355" cy="58" r="5" fill="#fff"/>
+            <circle cx="285" cy="78" r="5" fill="#fff"/><circle cx="355" cy="78" r="5" fill="#fff"/>
+            <path d="M312 90 L308 390 M320 90 L320 390 M328 90 L332 390"/>
+            <path d="M305 130 L335 130 M305 160 L335 160 M305 190 L335 190 M305 220 L335 220"/>
+            <path d="M300 295 L340 295"/>
+            <path d="M285 330 L355 330"/>
+            <path d="M320 390 L320 410"/>
+            """,
+        ),
+        "parts": [
+            {"term": "headstock", "label": "headstock", "x": 320, "y": 60, "definition": "The top part of a guitar where the strings are tuned.", "aliases": []},
+            {"term": "tuning peg", "label": "tuning peg", "x": 285, "y": 58, "definition": "A peg you turn to tighten or loosen a string.", "aliases": ["tuner"]},
+            {"term": "nut", "label": "nut", "x": 320, "y": 90, "definition": "The small strip at the top of the neck that holds the strings in place.", "aliases": ["guitar nut"]},
+            {"term": "neck", "label": "neck", "x": 320, "y": 150, "definition": "The long part between the headstock and the body.", "aliases": ["guitar neck"]},
+            {"term": "fret", "label": "fret", "x": 305, "y": 160, "definition": "A raised strip on the neck that marks a note position.", "aliases": ["frets"]},
+            {"term": "string", "label": "string", "x": 320, "y": 210, "definition": "One of the thin wires that vibrate to make sound.", "aliases": ["guitar string"]},
+            {"term": "sound hole", "label": "sound hole", "x": 320, "y": 330, "definition": "The round opening in the body that lets sound out.", "aliases": []},
+            {"term": "body", "label": "body", "x": 375, "y": 360, "definition": "The large hollow part that amplifies the sound.", "aliases": ["guitar body"]},
+            {"term": "bridge", "label": "bridge", "x": 320, "y": 395, "definition": "The part that holds the strings at the lower end.", "aliases": ["guitar bridge"]},
+        ],
+    },
+    {
+        "id": "shoe",
+        "title": "Shoe",
+        "category": "Clothing",
+        "summary": "The parts of a lace-up shoe.",
+        "svg": svg(
+            """
+            <path d="M95 300 Q100 245 150 235 L250 220 L330 180 Q375 160 410 190 L455 225 Q500 245 545 260 Q575 270 575 300 L575 330 L95 330 Z" fill="#f3f4f6"/>
+            <path d="M95 315 L575 315 L575 350 Q520 365 455 350 L95 350 Z" fill="#fff"/>
+            <path d="M250 220 Q280 185 325 185 Q350 185 365 205 L330 255"/>
+            <path d="M250 235 L335 225 M260 250 L345 235 M270 265 L355 245"/>
+            <path d="M230 225 L250 250 M265 215 L285 240 M300 205 L320 230"/>
+            <path d="M370 200 Q395 190 415 210"/>
+            <path d="M455 225 Q480 230 500 245"/>
+            <path d="M95 300 Q120 290 150 300"/>
+            """,
+        ),
+        "parts": [
+            {"term": "sole", "label": "sole", "x": 320, "y": 345, "definition": "The bottom part of a shoe that touches the ground.", "aliases": ["shoe sole"]},
+            {"term": "heel", "label": "heel", "x": 540, "y": 320, "definition": "The back part of the sole under the heel of the foot.", "aliases": ["shoe heel"]},
+            {"term": "toe", "label": "toe / toe box", "x": 130, "y": 300, "definition": "The front part of a shoe that covers the toes.", "aliases": ["toe box"]},
+            {"term": "upper", "label": "upper", "x": 420, "y": 230, "definition": "The part of a shoe above the sole.", "aliases": ["shoe upper"]},
+            {"term": "tongue", "label": "tongue", "x": 310, "y": 195, "definition": "The flap under the laces that covers the top of the foot.", "aliases": ["shoe tongue"]},
+            {"term": "lace", "label": "lace", "x": 280, "y": 245, "definition": "A cord used to tie a shoe.", "aliases": ["shoelace"]},
+            {"term": "eyelet", "label": "eyelet", "x": 255, "y": 230, "definition": "A small hole that a shoelace passes through.", "aliases": ["shoelace hole"]},
+            {"term": "insole", "label": "insole", "x": 400, "y": 340, "definition": "The soft inside layer under the foot.", "aliases": []},
+            {"term": "collar", "label": "collar", "x": 505, "y": 250, "definition": "The padded edge around the opening of a shoe.", "aliases": ["shoe collar"]},
+        ],
+    },
+    {
+        "id": "bottle",
+        "title": "Bottle",
+        "category": "Everyday objects",
+        "summary": "The parts of a typical bottle.",
+        "svg": svg(
+            """
+            <path d="M285 105 Q285 140 265 165 Q245 190 245 230 L245 360 Q245 385 270 385 L370 385 Q395 385 395 360 L395 230 Q395 190 375 165 Q355 140 355 105 Z" fill="#f3f4f6"/>
+            <rect x="280" y="75" width="80" height="35" rx="7" fill="#fff"/>
+            <path d="M280 105 L360 105"/>
+            <path d="M270 160 L370 160"/>
+            <rect x="255" y="250" width="130" height="70" rx="4" fill="#fff"/>
+            <path d="M255 250 L385 250 M255 320 L385 320"/>
+            <path d="M245 365 L395 365"/>
+            """,
+        ),
+        "parts": [
+            {"term": "cap", "label": "cap", "x": 320, "y": 92, "definition": "The lid that closes a bottle.", "aliases": ["bottle cap"]},
+            {"term": "mouth", "label": "mouth", "x": 320, "y": 115, "definition": "The opening at the top of a bottle.", "aliases": ["bottle mouth"]},
+            {"term": "neck", "label": "neck", "x": 320, "y": 145, "definition": "The narrow part between the mouth and the body.", "aliases": ["bottle neck"]},
+            {"term": "shoulder", "label": "shoulder", "x": 285, "y": 185, "definition": "The sloping part where the neck widens into the body.", "aliases": ["bottle shoulder"]},
+            {"term": "body", "label": "body", "x": 320, "y": 230, "definition": "The main container part of a bottle.", "aliases": ["bottle body"]},
+            {"term": "label", "label": "label", "x": 320, "y": 285, "definition": "The printed piece of paper on a bottle that gives information.", "aliases": ["bottle label"]},
+            {"term": "base", "label": "base", "x": 320, "y": 380, "definition": "The flat bottom of a bottle.", "aliases": ["bottle base"]},
+        ],
+    },
+    {
+        "id": "camera",
+        "title": "Camera",
+        "category": "Technology",
+        "summary": "The main parts of a digital camera.",
+        "svg": svg(
+            """
+            <rect x="145" y="150" width="350" height="180" rx="20" fill="#f3f4f6"/>
+            <circle cx="330" cy="240" r="78" fill="#fff"/><circle cx="330" cy="240" r="55"/><circle cx="330" cy="240" r="30" fill="#fff"/>
+            <rect x="215" y="115" width="80" height="40" rx="8" fill="#fff"/>
+            <rect x="390" y="120" width="70" height="35" rx="8" fill="#f3f4f6"/>
+            <circle cx="455" cy="175" r="14" fill="#fff"/>
+            <circle cx="200" cy="175" r="10" fill="#fff"/>
+            <path d="M175 300 Q195 280 215 300 L215 330 L175 330 Z"/>
+            <path d="M330 330 L330 350"/>
+            """,
+        ),
+        "parts": [
+            {"term": "lens", "label": "lens", "x": 330, "y": 240, "definition": "The glass part that focuses light to make a picture.", "aliases": ["camera lens"]},
+            {"term": "shutter button", "label": "shutter button", "x": 455, "y": 175, "definition": "The button you press to take a photograph.", "aliases": ["shutter release"]},
+            {"term": "flash", "label": "flash", "x": 255, "y": 135, "definition": "A bright light that helps take pictures in the dark.", "aliases": ["camera flash"]},
+            {"term": "viewfinder", "label": "viewfinder", "x": 425, "y": 137, "definition": "The small window you look through to frame a picture.", "aliases": []},
+            {"term": "body", "label": "body", "x": 180, "y": 210, "definition": "The main case that holds the camera parts.", "aliases": ["camera body"]},
+            {"term": "grip", "label": "grip", "x": 195, "y": 300, "definition": "The shaped part you hold with your right hand.", "aliases": ["camera grip"]},
+            {"term": "mode dial", "label": "mode dial", "x": 200, "y": 175, "definition": "The dial used to choose a shooting mode.", "aliases": []},
+            {"term": "tripod mount", "label": "tripod mount", "x": 330, "y": 345, "definition": "The threaded hole for attaching a tripod.", "aliases": []},
+        ],
+    },
+    {
+        "id": "clock",
+        "title": "Clock",
+        "category": "Everyday objects",
+        "summary": "The parts of an analogue clock.",
+        "svg": svg(
+            """
+            <circle cx="320" cy="210" r="150" fill="#fff"/>
+            <circle cx="320" cy="210" r="132"/>
+            <path d="M320 80 L320 92 M320 328 L320 340 M190 210 L202 210 M438 210 L450 210"/>
+            <path d="M320 210 L320 120" stroke-width="7"/>
+            <path d="M320 210 L395 260" stroke-width="5"/>
+            <path d="M320 210 L255 150" stroke-width="3"/>
+            <circle cx="320" cy="210" r="8" fill="#15161a" stroke="none"/>
+            <path d="M320 60 L320 72" stroke-width="8"/>
+            <path d="M320 348 L320 360" stroke-width="8"/>
+            <path d="M170 210 L182 210" stroke-width="8"/>
+            <path d="M458 210 L470 210" stroke-width="8"/>
+            <path d="M435 95 L445 85 M435 325 L445 335 M205 95 L195 85 M205 325 L195 335"/>
+            <path d="M320 78 Q350 78 350 100" />
+            """,
+        ),
+        "parts": [
+            {"term": "face", "label": "face / dial", "x": 320, "y": 285, "definition": "The flat surface with the numbers on a clock.", "aliases": ["clock face", "dial"]},
+            {"term": "hour hand", "label": "hour hand", "x": 320, "y": 145, "definition": "The short hand that shows the hour.", "aliases": []},
+            {"term": "minute hand", "label": "minute hand", "x": 380, "y": 250, "definition": "The long hand that shows the minutes.", "aliases": []},
+            {"term": "second hand", "label": "second hand", "x": 270, "y": 165, "definition": "The thin hand that moves around once a minute.", "aliases": []},
+            {"term": "numeral", "label": "numeral", "x": 430, "y": 100, "definition": "One of the numbers on a clock face.", "aliases": ["number"]},
+            {"term": "bezel", "label": "bezel", "x": 320, "y": 75, "definition": "The ring around the glass of a clock or watch.", "aliases": []},
+            {"term": "crown", "label": "crown", "x": 350, "y": 80, "definition": "The small knob used to set the time.", "aliases": ["clock crown"]},
+            {"term": "glass", "label": "glass / crystal", "x": 250, "y": 210, "definition": "The clear cover that protects the clock face.", "aliases": ["crystal"]},
+        ],
+    },
+]
+
+
+def main() -> None:
+    data = {
+        "intro": "A visual dictionary of everyday things. Select a numbered part to read what it is called, then open the word in the dictionary. Words that appear in an illustration also show an “Illustrated in” link in their dictionary entry.",
+        "items": ITEMS,
+    }
+    OUT.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print("items", len(ITEMS), "parts", sum(len(x["parts"]) for x in ITEMS), "bytes", OUT.stat().st_size)
+
+
+if __name__ == "__main__":
+    main()

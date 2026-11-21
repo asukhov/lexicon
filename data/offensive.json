@@ -1,0 +1,2379 @@
+[
+  {
+    "word": "damn",
+    "pos": "interjection",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a mild swear word used to show anger or annoyance",
+        "example": "Damn, I missed the bus.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mild",
+      "annoyance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hell",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a mild swear word used for emphasis or anger",
+        "example": "What the hell happened here?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mild",
+      "emphasis"
+    ],
+    "note": ""
+  },
+  {
+    "word": "crap",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "something bad, worthless, or nonsense",
+        "example": "This old printer is crap.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mild",
+      "negative"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bloody",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "mild",
+    "warning": "Mild profanity, common in British English.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a mild swear word used for emphasis",
+        "example": "That was a bloody long day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "british",
+      "emphasis"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bugger",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "mild",
+    "warning": "Mild profanity, common in British English.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a mild swear word for an annoying person or situation",
+        "example": "Oh bugger, I forgot my wallet.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "british",
+      "annoyance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "piss",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar bodily term.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "urine; also used in rude expressions about anger or poor quality",
+        "example": "He was full of piss and vinegar in the argument.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vulgar",
+      "bodily"
+    ],
+    "note": ""
+  },
+  {
+    "word": "pissed",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar slang; meaning varies by region.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "very angry in American English; very drunk in British English",
+        "example": "He was pissed after the decision.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anger",
+      "drunk"
+    ],
+    "note": "AmE: angry. BrE: drunk."
+  },
+  {
+    "word": "piss off",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Rude and aggressive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude way to tell someone to go away",
+        "example": "He told them to piss off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "rude",
+      "dismissal"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shit",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a strong swear word for feces, something bad, or nonsense",
+        "example": "I stepped in shit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "profanity",
+      "bodily"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bullshit",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "nonsense or something believed to be false",
+        "example": "That excuse is bullshit.",
+        "labels": []
+      }
+    ],
+    "variants": [
+      "BS"
+    ],
+    "tags": [
+      "nonsense",
+      "disbelief"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fuck",
+    "pos": "verb",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very strong swear word used for sex, anger, or emphasis",
+        "example": "Fuck, I dropped my phone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "profanity",
+      "emphasis"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fucking",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very strong intensifier used to express anger or emphasis",
+        "example": "That was a fucking mistake.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "profanity",
+      "intensifier"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fuck off",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very rude and aggressive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude way to tell someone to go away",
+        "example": "He shouted at them to fuck off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dismissal",
+      "aggressive"
+    ],
+    "note": ""
+  },
+  {
+    "word": "motherfucker",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity and insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very strong insult for a person someone hates or is angry with",
+        "example": "The villain called him a motherfucker.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bitch",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Offensive insult; can be sexist.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an offensive insult for a person considered unpleasant; sometimes used harshly toward women",
+        "example": "He called his opponent a bitch during the argument.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "derogatory"
+    ],
+    "note": "Can be especially offensive when directed at women."
+  },
+  {
+    "word": "son of a bitch",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong profanity and insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a strong insult for a person who has angered someone",
+        "example": "That son of a bitch stole my parking spot.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bastard",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong insult; older literal meaning relates to birth.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for an unpleasant or cruel person",
+        "example": "The bastard lied to everyone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "rude"
+    ],
+    "note": ""
+  },
+  {
+    "word": "asshole",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for someone considered mean or annoying",
+        "example": "Do not be an asshole to the waiter.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "arsehole",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for someone considered mean or annoying",
+        "example": "He acted like an arsehole all night.",
+        "labels": []
+      }
+    ],
+    "variants": [
+      "asshole"
+    ],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ass",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Vulgar; can mean buttocks or a foolish person.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude word for buttocks, or an insult for a foolish person",
+        "example": "He fell on his ass.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vulgar",
+      "body"
+    ],
+    "note": ""
+  },
+  {
+    "word": "arse",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Vulgar; British English.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude word for buttocks, or a foolish person",
+        "example": "Get off your arse and help.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vulgar",
+      "body"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dick",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar insult or body term.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for an unpleasant person; also a vulgar word for penis",
+        "example": "He was being a dick about the rules.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dickhead",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for someone considered stupid or annoying",
+        "example": "That dickhead cut in line.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "prick",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for someone considered unpleasant or contemptible",
+        "example": "He was a prick to the staff.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "twat",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude insult for a stupid or unpleasant person",
+        "example": "Do not be such a twat.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cunt",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Extremely vulgar and highly offensive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an extremely offensive insult for a person",
+        "example": "The word is considered extremely offensive in most contexts.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "profanity",
+      "taboo"
+    ],
+    "note": "Among the most offensive words in English; avoid using it."
+  },
+  {
+    "word": "wanker",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Strong vulgar insult, common in British English.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a strong insult for someone considered stupid, annoying, or contemptible",
+        "example": "He drove like a wanker.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "tosser",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Vulgar insult, common in British English.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for someone considered foolish or annoying",
+        "example": "That tosser ignored the queue.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bollocks",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Vulgar British slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "nonsense, or a rude expression of anger or frustration",
+        "example": "That story is bollocks.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vulgar",
+      "nonsense"
+    ],
+    "note": ""
+  },
+  {
+    "word": "pissed off",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "very annoyed or angry",
+        "example": "I was pissed off about the delay.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anger",
+      "emotion"
+    ],
+    "note": ""
+  },
+  {
+    "word": "jackass",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Rude insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for a foolish or annoying person",
+        "example": "Do not act like a jackass.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "foolish"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dumbass",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Rude insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for a person considered stupid",
+        "example": "I felt like a dumbass after the mistake.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "stupid"
+    ],
+    "note": ""
+  },
+  {
+    "word": "smartass",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Rude insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude term for someone who acts annoyingly clever or disrespectful",
+        "example": "Do not be a smartass in class.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "attitude"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dipshit",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "US",
+    "severity": "extreme",
+    "warning": "Strong vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude insult for a stupid person",
+        "example": "Only a dipshit would ignore that warning.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shithead",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude insult for an unpleasant or stupid person",
+        "example": "He called the thief a shithead.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "douchebag",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Rude insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for someone considered arrogant or unpleasant",
+        "example": "He acted like a douchebag at the party.",
+        "labels": []
+      }
+    ],
+    "variants": [
+      "douche"
+    ],
+    "tags": [
+      "insult",
+      "arrogant"
+    ],
+    "note": ""
+  },
+  {
+    "word": "scumbag",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a contemptible or immoral person",
+        "example": "The scammer was a scumbag.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "contempt"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sleazebag",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a dishonest or morally unpleasant person",
+        "example": "That sleazebag tried to cheat customers.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "dishonest"
+    ],
+    "note": ""
+  },
+  {
+    "word": "jerk",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "US",
+    "severity": "mild",
+    "warning": "Mild insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an unpleasant or rude person",
+        "example": "He was a jerk for ignoring her message.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "rude"
+    ],
+    "note": ""
+  },
+  {
+    "word": "moron",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Insult; can be offensive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude word for a person considered very stupid",
+        "example": "Only a moron would touch a hot pan.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "stupid"
+    ],
+    "note": ""
+  },
+  {
+    "word": "idiot",
+    "pos": "noun",
+    "level": "A2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Common insult; can be hurtful.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude word for a person considered foolish or stupid",
+        "example": "I felt like an idiot after the error.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "foolish"
+    ],
+    "note": ""
+  },
+  {
+    "word": "imbecile",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Insulting and old-fashioned.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude word for a person considered very stupid",
+        "example": "He shouted \"imbecile\" in anger.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "old-fashioned"
+    ],
+    "note": ""
+  },
+  {
+    "word": "loser",
+    "pos": "noun",
+    "level": "A2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Insulting label.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude label for someone seen as unsuccessful or socially disliked",
+        "example": "Calling someone a loser is hurtful.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "negative"
+    ],
+    "note": ""
+  },
+  {
+    "word": "suck",
+    "pos": "verb",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mildly vulgar in tone for some speakers.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "to be very bad or unpleasant",
+        "example": "This weather sucks.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "negative",
+      "informal"
+    ],
+    "note": "Informal and can sound rude in some contexts."
+  },
+  {
+    "word": "screw you",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Rude and aggressive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude expression of anger or contempt toward someone",
+        "example": "Screw you, I tried my best!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anger",
+      "contempt"
+    ],
+    "note": ""
+  },
+  {
+    "word": "go to hell",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Rude and aggressive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an angry expression telling someone to go away and showing contempt",
+        "example": "He told his enemy to go to hell.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anger",
+      "contempt"
+    ],
+    "note": ""
+  },
+  {
+    "word": "what the fuck",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude expression of shock, anger, or confusion",
+        "example": "What the fuck is going on?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "shock",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "what the hell",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude expression of shock, anger, or confusion",
+        "example": "What the hell was that noise?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "shock",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "holy shit",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude expression of surprise or shock",
+        "example": "Holy shit, that was close!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "shock",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "for fuck’s sake",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude expression of frustration or impatience",
+        "example": "For fuck’s sake, hurry up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "frustration",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "for God’s sake",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild oath; may offend some people.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an expression of frustration or urgency",
+        "example": "For God’s sake, be careful.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "frustration",
+      "oath"
+    ],
+    "note": "May be offensive to religious listeners."
+  },
+  {
+    "word": "Jesus Christ",
+    "pos": "interjection",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Religious oath; can be offensive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an exclamation of shock, anger, or frustration",
+        "example": "Jesus Christ, that scared me!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "oath",
+      "shock"
+    ],
+    "note": "May be offensive to religious listeners."
+  },
+  {
+    "word": "goddamn",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Profanity and religious oath.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a strong swear word used to express anger or emphasis",
+        "example": "I lost my goddamn keys.",
+        "labels": []
+      }
+    ],
+    "variants": [
+      "goddam"
+    ],
+    "tags": [
+      "oath",
+      "anger"
+    ],
+    "note": ""
+  },
+  {
+    "word": "crappy",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "of very bad quality",
+        "example": "The hotel room was crappy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "bad",
+      "mild"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shitty",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "very bad, unpleasant, or unfair",
+        "example": "I had a shitty day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "bad",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "pissy",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "irritated or in a bad mood",
+        "example": "He got pissy over a small comment.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "angry",
+      "mood"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fuck up",
+    "pos": "verb",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "to make a serious mistake or ruin something",
+        "example": "I really fucked up the presentation.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mistake",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fuck-up",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a serious mistake, or a person who makes many mistakes",
+        "example": "That meeting was a complete fuck-up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mistake",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "screw-up",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Rude term.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a serious mistake or failure",
+        "example": "The schedule change was a screw-up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mistake",
+      "rude"
+    ],
+    "note": ""
+  },
+  {
+    "word": "balls",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar slang; can mean courage or nonsense.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a vulgar word for testicles; also used for courage or nonsense in slang",
+        "example": "That story is balls.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vulgar",
+      "slang"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bollocking",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Strong British vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a harsh scolding or angry criticism",
+        "example": "He got a bollocking from his boss.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anger",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bloody hell",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Strong British profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude expression of surprise or anger",
+        "example": "Bloody hell, that was unexpected!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "surprise",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bugger off",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Rude British dismissal.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude way to tell someone to go away",
+        "example": "He told the pranksters to bugger off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dismissal",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "piss off mate",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Rude British dismissal.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude way to tell someone to leave you alone",
+        "example": "Piss off mate, I am busy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dismissal",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shove it",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Rude dismissal.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude way to reject something angrily",
+        "example": "You can shove it, I quit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dismissal",
+      "anger"
+    ],
+    "note": ""
+  },
+  {
+    "word": "up yours",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Rude and insulting.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude expression of anger or defiance",
+        "example": "He muttered \"up yours\" and walked away.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "defiance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "kiss my ass",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "US",
+    "severity": "extreme",
+    "warning": "Very rude and vulgar.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude expression of defiance or contempt",
+        "example": "He said \"kiss my ass\" and left.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contempt",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "kiss my arse",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very rude and vulgar.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude expression of defiance or contempt",
+        "example": "She told him to kiss her arse.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contempt",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "eat shit",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very vulgar and aggressive.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an extremely rude insult telling someone to go away or expressing hatred",
+        "example": "The angry player yelled \"eat shit\".",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "aggressive",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "douche",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "US",
+    "severity": "strong",
+    "warning": "Rude insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude term for an unpleasant or arrogant person",
+        "example": "Do not be such a douche.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "rude"
+    ],
+    "note": ""
+  },
+  {
+    "word": "tool",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude term for someone considered foolish or easily used",
+        "example": "He felt like a tool after believing the lie.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "foolish"
+    ],
+    "note": ""
+  },
+  {
+    "word": "git",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "mild",
+    "warning": "Mild British insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a mildly rude word for an annoying or foolish person",
+        "example": "Do not be such a git.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "plonker",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "mild",
+    "warning": "Mild British insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a silly or foolish person",
+        "example": "I felt like a plonker when I tripped.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "berk",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "mild",
+    "warning": "Mild British insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a foolish or annoying person",
+        "example": "He acted like a berk.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "minger",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "British insult, often about appearance.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude term for someone considered unattractive or unpleasant",
+        "example": "Calling someone a minger is mean.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "appearance"
+    ],
+    "note": "Can be hurtful and personal."
+  },
+  {
+    "word": "slag",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very offensive British insult, often sexist.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very offensive insult criticizing someone’s sexual behavior",
+        "example": "That word is highly offensive and should be avoided.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "sexist"
+    ],
+    "note": "Highly offensive, especially toward women."
+  },
+  {
+    "word": "slut",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very offensive insult, often sexist.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an offensive insult that unfairly criticizes someone’s sexual behavior",
+        "example": "That label is offensive and judgmental.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "sexist"
+    ],
+    "note": "Highly offensive and often sexist."
+  },
+  {
+    "word": "whore",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very offensive insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an offensive word for a person who sells sex, also used as a harsh insult",
+        "example": "Using that word as an insult is very offensive.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "taboo"
+    ],
+    "note": "Can be extremely offensive and demeaning."
+  },
+  {
+    "word": "skank",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "US",
+    "severity": "extreme",
+    "warning": "Very offensive insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a highly offensive insult criticizing someone as dirty or sexually immoral",
+        "example": "That term is degrading and should not be used.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "derogatory"
+    ],
+    "note": ""
+  },
+  {
+    "word": "pisshead",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "British slang insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude word for someone who drinks too much alcohol",
+        "example": "He called his drunk friend a pisshead.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "alcohol",
+      "insult"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sod",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "British swear word or insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude British word for an annoying person, or used in frustration",
+        "example": "The poor sod lost his keys.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "british",
+      "rude"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sod off",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "Rude British dismissal.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude way to tell someone to go away",
+        "example": "Sod off and leave me alone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dismissal",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sodding",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "British intensifier.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude intensifier used to express anger or annoyance",
+        "example": "Where is the sodding remote?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "intensifier",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bloody-minded",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "British; rude tone.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "deliberately uncooperative or difficult",
+        "example": "He was being bloody-minded about the plan.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "attitude",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "arse around",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "strong",
+    "warning": "British vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "to waste time or behave foolishly",
+        "example": "Stop arsing around and finish the work.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "behavior",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fuckwit",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very strong vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude insult for a stupid or annoying person",
+        "example": "The driver was a complete fuckwit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shitfaced",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "extremely drunk",
+        "example": "He got shitfaced at the party.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "drunk",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "wank",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very vulgar British slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a very rude word for masturbation; also nonsense in British slang",
+        "example": "That idea is a load of wank.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vulgar",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "wankerish",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very vulgar and insulting.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "behaving in an annoying, arrogant, or contemptible way",
+        "example": "His wankerish attitude annoyed everyone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "behavior"
+    ],
+    "note": ""
+  },
+  {
+    "word": "crapload",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a large amount of something, said rudely",
+        "example": "I have a crapload of work to do.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "amount",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "piss poor",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "very bad in quality",
+        "example": "That was a piss poor excuse.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "bad",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shitshow",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a situation that is very badly managed or chaotic",
+        "example": "The event turned into a shitshow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chaos",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "clusterfuck",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a badly disorganized and chaotic situation",
+        "example": "The launch became a clusterfuck.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chaos",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dick move",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "an unkind or unfair action",
+        "example": "Canceling at the last minute was a dick move.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "behavior",
+      "insult"
+    ],
+    "note": ""
+  },
+  {
+    "word": "asshat",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "US",
+    "severity": "extreme",
+    "warning": "Vulgar insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a rude insult for a foolish or obnoxious person",
+        "example": "Do not be an asshat.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "butthead",
+    "pos": "noun",
+    "level": "B1",
+    "register": "offensive",
+    "region": "US",
+    "severity": "mild",
+    "warning": "Mild insult.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "a silly or rude insult for a foolish person",
+        "example": "He called his brother a butthead.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "mild"
+    ],
+    "note": ""
+  },
+  {
+    "word": "crapola",
+    "pos": "noun",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "mild",
+    "warning": "Mild vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "something of poor quality or nonsense",
+        "example": "That movie was crapola.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "bad",
+      "mild"
+    ],
+    "note": ""
+  },
+  {
+    "word": "horseshit",
+    "pos": "noun",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "nonsense; something untrue or ridiculous",
+        "example": "That explanation is horseshit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "nonsense",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "batshit",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "wildly irrational or crazy",
+        "example": "That plan sounds batshit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "crazy",
+      "profanity"
+    ],
+    "note": "Can be offensive when describing people."
+  },
+  {
+    "word": "pissed as a fart",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK",
+    "severity": "extreme",
+    "warning": "Very vulgar British slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "extremely drunk",
+        "example": "He got pissed as a fart at the pub.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "drunk",
+      "vulgar"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fuck all",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Very strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "nothing at all",
+        "example": "There was fuck all left in the fridge.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "nothing",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "give a shit",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "extreme",
+    "warning": "Strong profanity.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "to care about something at all",
+        "example": "I do not give a shit about the rumor.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "care",
+      "profanity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "no shit",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "severity": "strong",
+    "warning": "Vulgar slang.",
+    "is_slur": false,
+    "definitions": [
+      {
+        "text": "used to say something is obvious",
+        "example": "No shit, it is raining outside.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "obvious",
+      "vulgar"
+    ],
+    "note": ""
+  }
+]

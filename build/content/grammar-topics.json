@@ -1,0 +1,1931 @@
+{
+  "intro": "A practical reference to English grammar for learners. Each group explains one area with short rules, clear patterns, examples and tables. Use it to check a form quickly or to revise a topic in order.",
+  "groups": [
+    {
+      "id": "basics",
+      "title": "Grammar basics",
+      "summary": "How sentences are built, how subjects and verbs agree, and how to form questions, negatives and instructions.",
+      "sections": [
+        {
+          "title": "Sentence patterns",
+          "intro": "Every English sentence needs a subject and a verb. The verb decides whether an object or a complement is also needed.",
+          "rules": [
+            {
+              "title": "Core sentence patterns",
+              "pattern": "S + V / S + V + O / S + V + C",
+              "explanation": "An intransitive verb needs only a subject. A transitive verb needs an object. A linking verb joins the subject to a complement that describes it. Some verbs also take two objects: a person and a thing.",
+              "examples": [
+                {"text": "Birds fly.", "note": "S + V"},
+                {"text": "She reads novels.", "note": "S + V + O"},
+                {"text": "He is a teacher.", "note": "S + V + C"},
+                {"text": "Mum gave me a lift.", "note": "S + V + IO + DO"}
+              ],
+              "mistake": "Wrong: She reads. (when you mean she reads something) Right: She reads novels."
+            }
+          ],
+          "table": {
+            "headers": ["Pattern", "Example", "What it shows"],
+            "rows": [
+              ["S + V", "The train arrived.", "Only a subject and a verb"],
+              ["S + V + O", "She opened the window.", "The verb needs an object"],
+              ["S + V + C", "He became a doctor.", "A complement describes the subject"],
+              ["S + V + IO + DO", "Mum gave me a lift.", "A person receives a thing"]
+            ]
+          }
+        },
+        {
+          "title": "Agreement and word order",
+          "intro": "The verb must match its subject, and English normally puts information in a fixed order.",
+          "rules": [
+            {
+              "title": "Subject-verb agreement",
+              "pattern": "singular subject + singular verb; plural subject + plural verb",
+              "explanation": "In the present simple, add -s to the verb with he, she and it. Use the base form with I, you, we and they. The verb agrees with its subject, not with a phrase that follows it.",
+              "examples": [
+                {"text": "She works in a bank.", "note": ""},
+                {"text": "They work from home.", "note": ""},
+                {"text": "The list of names is long.", "note": "The subject is list, not names."}
+              ],
+              "mistake": "Wrong: The list of names are long. Right: The list of names is long."
+            },
+            {
+              "title": "Basic word order",
+              "pattern": "S + V + O + manner + place + time",
+              "explanation": "English normally puts the subject before the verb and the object after it. Adverbials usually follow in the order manner, place, time, but a time expression can also come first for emphasis.",
+              "examples": [
+                {"text": "She sang the song beautifully at the concert last night.", "note": ""},
+                {"text": "We walked slowly to the station this morning.", "note": ""},
+                {"text": "Yesterday we stayed at home.", "note": "Time first for emphasis"}
+              ],
+              "mistake": "Wrong: I like very much this film. Right: I like this film very much."
+            }
+          ],
+          "table": {
+            "headers": ["Position", "Usually shows", "Example"],
+            "rows": [
+              ["Subject", "who or what does the action", "The children"],
+              ["Verb", "the action or state", "played"],
+              ["Object", "who or what receives the action", "football"],
+              ["Manner", "how", "happily"],
+              ["Place", "where", "in the park"],
+              ["Time", "when", "after lunch"]
+            ]
+          }
+        },
+        {
+          "title": "Questions and negatives",
+          "intro": "Most questions and negatives need an auxiliary verb. If there is no auxiliary, use do, does or did.",
+          "rules": [
+            {
+              "title": "Questions",
+              "pattern": "Auxiliary + subject + main verb? / Question word + auxiliary + subject + main verb?",
+              "explanation": "Most questions put an auxiliary before the subject. If there is no auxiliary, add do, does or did and use the base form of the main verb. When the question word is the subject, do not add an auxiliary.",
+              "examples": [
+                {"text": "Are you ready?", "note": "yes/no question"},
+                {"text": "Where do you work?", "note": "wh-question"},
+                {"text": "Who called you?", "note": "who is the subject"}
+              ],
+              "mistake": "Wrong: Where you are going? Right: Where are you going?"
+            },
+            {
+              "title": "Negatives",
+              "pattern": "Subject + auxiliary + not + main verb",
+              "explanation": "Put not after the first auxiliary. If there is no auxiliary, use do not, does not or did not plus the base verb.",
+              "examples": [
+                {"text": "I do not like coffee.", "note": ""},
+                {"text": "She is not coming.", "note": ""},
+                {"text": "They have not finished.", "note": ""}
+              ],
+              "mistake": "Wrong: I not like coffee. Right: I do not like coffee."
+            }
+          ],
+          "table": {
+            "headers": ["Type", "Pattern", "Example"],
+            "rows": [
+              ["Yes/no question", "Auxiliary + subject + verb?", "Are you ready?"],
+              ["Wh-question about the object", "Wh-word + auxiliary + subject + verb?", "Where do you live?"],
+              ["Wh-question about the subject", "Wh-word + verb?", "Who called?"],
+              ["Negative", "Subject + auxiliary + not + verb", "She does not drive."]
+            ]
+          }
+        },
+        {
+          "title": "There is, there are and imperatives",
+          "intro": "Use there is and there are to say that something exists. Use the imperative to give instructions and warnings.",
+          "rules": [
+            {
+              "title": "There is and there are",
+              "pattern": "There is + singular or uncountable noun; There are + plural noun",
+              "explanation": "Use there is before a singular or uncountable noun and there are before a plural noun. The verb agrees with the noun that follows it.",
+              "examples": [
+                {"text": "There is a bank near here.", "note": ""},
+                {"text": "There are two chairs in the room.", "note": ""},
+                {"text": "There is some milk in the fridge.", "note": "milk is uncountable"}
+              ],
+              "mistake": "Wrong: There have a bank near here. Right: There is a bank near here."
+            },
+            {
+              "title": "Imperatives",
+              "pattern": "Base verb (+ object) / Do not + base verb",
+              "explanation": "Use the base verb to give an instruction, direction or warning. Add please to be polite, and use do not or don't for a negative instruction.",
+              "examples": [
+                {"text": "Close the door, please.", "note": ""},
+                {"text": "Turn left at the lights.", "note": ""},
+                {"text": "Do not touch the wires.", "note": "negative imperative"}
+              ],
+              "mistake": "Wrong: You close the door. (as a command) Right: Close the door."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Use", "Example"],
+            "rows": [
+              ["There is", "one singular or uncountable thing", "There is a problem."],
+              ["There are", "more than one thing", "There are two problems."],
+              ["There was / There were", "past existence", "There was a shop here."],
+              ["Base verb", "instruction or warning", "Wait here."],
+              ["Do not + base verb", "negative instruction", "Do not wait here."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "nouns",
+      "title": "Nouns",
+      "summary": "Countability, plurals, possessives, articles, quantifiers and pronouns.",
+      "sections": [
+        {
+          "title": "Countable and uncountable nouns",
+          "intro": "Nouns are countable when you can count them one by one. Uncountable nouns name things that are not counted in units.",
+          "rules": [
+            {
+              "title": "Countable and uncountable nouns",
+              "pattern": "countable: a/an + singular, plural forms; uncountable: no a/an, singular verb",
+              "explanation": "Countable nouns can be counted and have singular and plural forms. Uncountable nouns do not normally have a plural and do not take a/an; they take a singular verb.",
+              "examples": [
+                {"text": "I bought a book and two magazines.", "note": "countable"},
+                {"text": "She gave me some advice.", "note": "uncountable"},
+                {"text": "Water boils at 100 degrees.", "note": ""}
+              ],
+              "mistake": "Wrong: She gave me an advice. Right: She gave me some advice."
+            },
+            {
+              "title": "Nouns that can be both",
+              "pattern": "uncountable general meaning / countable type or portion",
+              "explanation": "Some nouns are uncountable in a general sense but countable when they mean a type, a portion or a particular example.",
+              "examples": [
+                {"text": "I like coffee.", "note": "uncountable"},
+                {"text": "Two coffees, please.", "note": "countable portions"},
+                {"text": "The region produces excellent wines.", "note": "countable types"}
+              ],
+              "mistake": "Wrong: I need a paper to write on. (meaning material) Right: I need some paper to write on."
+            }
+          ],
+          "table": {
+            "headers": ["Noun", "Uncountable use", "Countable use"],
+            "rows": [
+              ["coffee", "I drink coffee.", "Two coffees, please."],
+              ["paper", "We need paper.", "I bought a paper."],
+              ["glass", "The window is made of glass.", "Can I have a glass?"],
+              ["time", "We have no time.", "We had a good time."],
+              ["experience", "She has experience.", "It was an experience."]
+            ]
+          }
+        },
+        {
+          "title": "Plurals and possessives",
+          "intro": "Most plurals are regular, but some are irregular. Possessives show who owns or is connected to something.",
+          "rules": [
+            {
+              "title": "Plurals",
+              "pattern": "noun + -s / -es; irregular forms",
+              "explanation": "Add -s to most nouns and -es after -s, -ss, -sh, -ch, -x or -z. Change consonant + y to -ies. Some plurals are irregular and must be learned.",
+              "examples": [
+                {"text": "books, boxes, cities", "note": "regular patterns"},
+                {"text": "man -> men, child -> children", "note": "irregular"},
+                {"text": "sheep -> sheep, fish -> fish", "note": "same form"}
+              ],
+              "mistake": "Wrong: three childs. Right: three children."
+            },
+            {
+              "title": "Possessives",
+              "pattern": "singular + 's; regular plural + '; irregular plural + 's",
+              "explanation": "Add 's to a singular noun and to an irregular plural. Add only an apostrophe to a regular plural ending in -s. Use of for things, ideas and quantities.",
+              "examples": [
+                {"text": "the teacher's desk", "note": "singular owner"},
+                {"text": "the students' books", "note": "regular plural owner"},
+                {"text": "the children's toys", "note": "irregular plural owner"},
+                {"text": "the end of the film", "note": "thing, not person"}
+              ],
+              "mistake": "Wrong: the childrens' toys. Right: the children's toys."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Use", "Example"],
+            "rows": [
+              ["'s", "singular owner", "the girl's coat"],
+              ["'", "regular plural owner", "the girls' coats"],
+              ["'s", "irregular plural owner", "the men's coats"],
+              ["of", "things and quantities", "the roof of the house"]
+            ]
+          }
+        },
+        {
+          "title": "Articles and quantifiers",
+          "intro": "Articles show whether a noun is general or specific. Quantifiers show how much or how many.",
+          "rules": [
+            {
+              "title": "A, an, the and zero article",
+              "pattern": "a/an + singular countable; the + known or unique; no article for general plurals and uncountables",
+              "explanation": "Use a/an for one of many or a first mention. Use the when the listener can identify the thing, when it is unique, or when it was mentioned before. Use no article for general plurals, uncountables and most names.",
+              "examples": [
+                {"text": "I saw a dog. The dog was friendly.", "note": "first mention, then known"},
+                {"text": "The sun is bright today.", "note": "unique"},
+                {"text": "Cats are independent.", "note": "general plural"},
+                {"text": "She speaks French.", "note": "language name"}
+              ],
+              "mistake": "Wrong: The life is difficult. Right: Life is difficult."
+            },
+            {
+              "title": "Quantifiers",
+              "pattern": "some/any + plural or uncountable; much/many; a few/a little",
+              "explanation": "Use some in positive sentences and any in negatives and most questions. Use many and a few with countable plurals, and much and a little with uncountables.",
+              "examples": [
+                {"text": "I have some money.", "note": ""},
+                {"text": "We do not have any milk.", "note": ""},
+                {"text": "How many books do you have?", "note": "countable"},
+                {"text": "There is a little milk left.", "note": "uncountable"}
+              ],
+              "mistake": "Wrong: How much students are there? Right: How many students are there?"
+            }
+          ],
+          "table": {
+            "headers": ["Word", "Used with", "Example"],
+            "rows": [
+              ["a/an", "one singular countable noun", "a book, an apple"],
+              ["the", "known, unique or already mentioned", "the book on the table"],
+              ["no article", "general plurals, uncountables, names", "Books are useful."],
+              ["some / any", "plural or uncountable", "some apples, any milk"],
+              ["many / much", "countable plural / uncountable", "many cars, much time"],
+              ["a few / a little", "countable plural / uncountable", "a few coins, a little salt"]
+            ]
+          }
+        },
+        {
+          "title": "Pronouns",
+          "intro": "Pronouns replace nouns so that you do not have to repeat them. Their form changes according to their job in the sentence.",
+          "rules": [
+            {
+              "title": "Personal, possessive and reflexive pronouns",
+              "pattern": "subject: I, you, he, she, it, we, they; object: me, you, him, her, it, us, them",
+              "explanation": "Use a subject pronoun before the verb and an object pronoun after a verb or preposition. Possessive adjectives come before a noun; possessive pronouns stand alone. Reflexive pronouns refer back to the subject when the subject and object are the same.",
+              "examples": [
+                {"text": "She called him.", "note": "subject + object"},
+                {"text": "This is my bag. It is mine.", "note": "possessive adjective + pronoun"},
+                {"text": "She taught herself to swim.", "note": "reflexive"},
+                {"text": "Someone left their bag.", "note": "singular they"}
+              ],
+              "mistake": "Wrong: Me and Tom went out. Right: Tom and I went out."
+            }
+          ],
+          "table": {
+            "headers": ["Subject", "Object", "Possessive adjective", "Possessive pronoun"],
+            "rows": [
+              ["I", "me", "my", "mine"],
+              ["you", "you", "your", "yours"],
+              ["he", "him", "his", "his"],
+              ["she", "her", "her", "hers"],
+              ["it", "it", "its", "its"],
+              ["we", "us", "our", "ours"],
+              ["they", "them", "their", "theirs"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "title": "Verbs",
+      "summary": "Verb forms, auxiliaries, gerunds and infinitives, stative verbs and phrasal verbs.",
+      "sections": [
+        {
+          "title": "Verb forms and auxiliaries",
+          "intro": "Verbs change form for tense and person. Auxiliary verbs help the main verb form questions, negatives and complex tenses.",
+          "rules": [
+            {
+              "title": "Verb forms and irregular verbs",
+              "pattern": "base, -s, past, past participle, -ing",
+              "explanation": "Most verbs have five forms. Regular verbs add -ed for the past and past participle. Irregular verbs change in other ways and must be learned.",
+              "examples": [
+                {"text": "work, works, worked, worked, working", "note": "regular"},
+                {"text": "write, writes, wrote, written, writing", "note": "irregular"},
+                {"text": "put, puts, put, put, putting", "note": "same past forms"}
+              ],
+              "mistake": "Wrong: I have went. Right: I have gone."
+            },
+            {
+              "title": "Auxiliary verbs and do-support",
+              "pattern": "auxiliary + main verb",
+              "explanation": "Be forms continuous tenses and the passive. Do forms questions and negatives in the simple present and past. Have forms perfect tenses. After do, does or did, the main verb stays in the base form.",
+              "examples": [
+                {"text": "She is reading.", "note": "continuous"},
+                {"text": "Do you know him?", "note": "question with do"},
+                {"text": "They have left.", "note": "perfect"}
+              ],
+              "mistake": "Wrong: Did she went home? Right: Did she go home?"
+            }
+          ],
+          "table": {
+            "headers": ["Base", "Past", "Past participle"],
+            "rows": [
+              ["go", "went", "gone"],
+              ["see", "saw", "seen"],
+              ["eat", "ate", "eaten"],
+              ["take", "took", "taken"],
+              ["write", "wrote", "written"],
+              ["speak", "spoke", "spoken"],
+              ["break", "broke", "broken"],
+              ["put", "put", "put"]
+            ]
+          }
+        },
+        {
+          "title": "Gerunds and infinitives",
+          "intro": "Some verbs are followed by the -ing form, others by to + base verb, and a few by the base verb alone.",
+          "rules": [
+            {
+              "title": "Gerunds after verbs",
+              "pattern": "verb + -ing",
+              "explanation": "Some verbs are followed by a gerund, especially verbs of liking, disliking, finishing and suggesting. A gerund can also be the subject of a sentence.",
+              "examples": [
+                {"text": "I enjoy reading.", "note": ""},
+                {"text": "She suggested going by train.", "note": ""},
+                {"text": "Swimming is good exercise.", "note": "gerund as subject"}
+              ],
+              "mistake": "Wrong: I enjoy to read. Right: I enjoy reading."
+            },
+            {
+              "title": "Infinitives and bare verbs",
+              "pattern": "verb + to + base verb; modal/let/make + base verb",
+              "explanation": "Some verbs are followed by a to-infinitive. After modal auxiliaries and after let, make, see and hear in the active, use the base verb without to. A few verbs change meaning with -ing or to.",
+              "examples": [
+                {"text": "I want to leave.", "note": "to-infinitive"},
+                {"text": "You must go.", "note": "bare infinitive after a modal"},
+                {"text": "I stopped smoking last year.", "note": "quit the habit"},
+                {"text": "I stopped to buy milk.", "note": "paused in order to buy"}
+              ],
+              "mistake": "Wrong: You must to go. Right: You must go."
+            }
+          ],
+          "table": {
+            "headers": ["Pattern", "Common verbs", "Example"],
+            "rows": [
+              ["verb + -ing", "enjoy, finish, mind, avoid", "I enjoy swimming."],
+              ["verb + to", "want, decide, hope, plan", "I want to swim."],
+              ["verb + bare", "can, must, let, make", "Let me swim."],
+              ["preposition + -ing", "good at, interested in", "I am good at swimming."]
+            ]
+          }
+        },
+        {
+          "title": "Stative and phrasal verbs",
+          "intro": "Stative verbs describe states rather than actions. Phrasal verbs combine a verb with a particle to make a new meaning.",
+          "rules": [
+            {
+              "title": "Stative verbs",
+              "pattern": "stative verb (usually no continuous)",
+              "explanation": "Stative verbs describe states, thoughts, feelings, possession or senses. They are not normally used in continuous tenses. Some can be dynamic with a different meaning.",
+              "examples": [
+                {"text": "I know the answer.", "note": ""},
+                {"text": "She owns two cars.", "note": ""},
+                {"text": "I am thinking about you.", "note": "mental activity, not opinion"}
+              ],
+              "mistake": "Wrong: I am knowing the answer. Right: I know the answer."
+            },
+            {
+              "title": "Phrasal verbs",
+              "pattern": "verb + particle (separable or inseparable)",
+              "explanation": "The meaning of a phrasal verb is often different from the verb alone. With separable phrasal verbs, the object can go between the verb and particle. With inseparable ones, it must come after the particle.",
+              "examples": [
+                {"text": "I woke up at seven.", "note": ""},
+                {"text": "Turn off the light. / Turn the light off.", "note": "separable"},
+                {"text": "I look after my sister.", "note": "inseparable"},
+                {"text": "She ran into an old friend.", "note": "met by chance"}
+              ],
+              "mistake": "Wrong: Turn off it. Right: Turn it off."
+            }
+          ],
+          "table": {
+            "headers": ["Type", "Word order", "Example"],
+            "rows": [
+              ["separable", "verb + object + particle", "She turned the light off."],
+              ["separable pronoun", "verb + pronoun + particle", "She turned it off."],
+              ["inseparable", "verb + particle + object", "She looks after her sister."],
+              ["three-part", "verb + particle + particle + object", "I put up with the noise."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenses",
+      "title": "Tenses",
+      "summary": "The twelve English tenses and the main ways of talking about the future.",
+      "sections": [
+        {
+          "title": "Present tenses",
+          "intro": "The present tenses cover habits, current actions and connections between the past and now.",
+          "rules": [
+            {
+              "title": "Present simple",
+              "pattern": "S + base verb / verb + -s",
+              "explanation": "Use the present simple for habits, routines, facts and permanent situations. It is common with always, usually, often, sometimes and never.",
+              "examples": [
+                {"text": "She works in a hospital.", "note": "routine"},
+                {"text": "Water boils at 100 degrees.", "note": "fact"},
+                {"text": "I do not eat meat.", "note": "habit"}
+              ],
+              "mistake": "Wrong: She work in a hospital. Right: She works in a hospital."
+            },
+            {
+              "title": "Present continuous",
+              "pattern": "S + am/is/are + -ing",
+              "explanation": "Use the present continuous for actions happening now, temporary situations and fixed arrangements in the near future.",
+              "examples": [
+                {"text": "I am writing an email.", "note": "now"},
+                {"text": "They are staying with us this week.", "note": "temporary"},
+                {"text": "We are meeting Anna tomorrow.", "note": "arrangement"}
+              ],
+              "mistake": "Wrong: I am knowing the answer. Right: I know the answer."
+            },
+            {
+              "title": "Present perfect",
+              "pattern": "S + have/has + past participle",
+              "explanation": "Use the present perfect for past actions with a connection to now, for experiences without a specific time, and for situations that started in the past and continue.",
+              "examples": [
+                {"text": "I have lost my keys.", "note": "result now"},
+                {"text": "She has visited Japan twice.", "note": "experience"},
+                {"text": "We have lived here since 2020.", "note": "still true"}
+              ],
+              "mistake": "Wrong: I have seen him yesterday. Right: I saw him yesterday."
+            },
+            {
+              "title": "Present perfect continuous",
+              "pattern": "S + have/has been + -ing",
+              "explanation": "Use the present perfect continuous for an action that started in the past and is still continuing, or has just stopped and has a visible result. It often answers 'how long?'.",
+              "examples": [
+                {"text": "I have been studying for three hours.", "note": "still continuing"},
+                {"text": "She has been running, so she is tired.", "note": "visible result"},
+                {"text": "How long have you been waiting?", "note": ""}
+              ],
+              "mistake": "Wrong: I am studying here for three hours. Right: I have been studying here for three hours."
+            }
+          ],
+          "table": {
+            "headers": ["Tense", "Form", "Typical use"],
+            "rows": [
+              ["Present simple", "base / verb + -s", "habits and facts"],
+              ["Present continuous", "am/is/are + -ing", "actions now"],
+              ["Present perfect", "have/has + past participle", "past with a link to now"],
+              ["Present perfect continuous", "have/has been + -ing", "duration up to now"]
+            ]
+          }
+        },
+        {
+          "title": "Past tenses",
+          "intro": "The past tenses place actions at a past time and show how past actions relate to each other.",
+          "rules": [
+            {
+              "title": "Past simple",
+              "pattern": "S + past verb",
+              "explanation": "Use the past simple for completed actions at a definite time in the past, and for a sequence of past events.",
+              "examples": [
+                {"text": "I saw her yesterday.", "note": ""},
+                {"text": "They moved to Leeds in 2019.", "note": ""},
+                {"text": "She opened the door and walked in.", "note": "sequence"}
+              ],
+              "mistake": "Wrong: I have seen her yesterday. Right: I saw her yesterday."
+            },
+            {
+              "title": "Past continuous",
+              "pattern": "S + was/were + -ing",
+              "explanation": "Use the past continuous for an action in progress at a particular time in the past, often interrupted by another action.",
+              "examples": [
+                {"text": "I was cooking when you called.", "note": "action in progress"},
+                {"text": "They were watching TV at eight.", "note": ""},
+                {"text": "It was raining all morning.", "note": ""}
+              ],
+              "mistake": "Wrong: I was cook when you called. Right: I was cooking when you called."
+            },
+            {
+              "title": "Past perfect",
+              "pattern": "S + had + past participle",
+              "explanation": "Use the past perfect for an action completed before another past action or time. It makes the order of past events clear.",
+              "examples": [
+                {"text": "The film had started when we arrived.", "note": "started before arrival"},
+                {"text": "She had never seen the sea before that day.", "note": ""},
+                {"text": "He had finished before noon.", "note": ""}
+              ],
+              "mistake": "Wrong: When we arrived, the film started. (if it started earlier) Right: When we arrived, the film had started."
+            },
+            {
+              "title": "Past perfect continuous",
+              "pattern": "S + had been + -ing",
+              "explanation": "Use the past perfect continuous for an action that had been happening for some time before another past action or time.",
+              "examples": [
+                {"text": "She had been waiting for an hour when the bus came.", "note": ""},
+                {"text": "They had been living there for years before they moved.", "note": ""},
+                {"text": "I had been working all day, so I was tired.", "note": ""}
+              ],
+              "mistake": "Wrong: She had been wait for an hour. Right: She had been waiting for an hour."
+            }
+          ],
+          "table": {
+            "headers": ["Tense", "Form", "Typical use"],
+            "rows": [
+              ["Past simple", "past verb", "completed action at a past time"],
+              ["Past continuous", "was/were + -ing", "action in progress in the past"],
+              ["Past perfect", "had + past participle", "action before another past action"],
+              ["Past perfect continuous", "had been + -ing", "duration up to a past point"]
+            ]
+          }
+        },
+        {
+          "title": "Future tenses",
+          "intro": "The future tenses use will to show actions at, in progress at, or completed before a future time.",
+          "rules": [
+            {
+              "title": "Future simple",
+              "pattern": "S + will + base verb",
+              "explanation": "Use will for predictions, spontaneous decisions, promises and offers. It does not usually show a plan made before speaking.",
+              "examples": [
+                {"text": "I will call you later.", "note": "promise"},
+                {"text": "It will probably rain tomorrow.", "note": "prediction"},
+                {"text": "I will help you with that.", "note": "offer"}
+              ],
+              "mistake": "Wrong: I will call you when I will arrive. Right: I will call you when I arrive."
+            },
+            {
+              "title": "Future continuous",
+              "pattern": "S + will be + -ing",
+              "explanation": "Use the future continuous for an action that will be in progress at a particular time in the future.",
+              "examples": [
+                {"text": "At eight, I will be travelling to work.", "note": ""},
+                {"text": "This time tomorrow, we will be lying on the beach.", "note": ""},
+                {"text": "I will be seeing her at the meeting.", "note": ""}
+              ],
+              "mistake": "Wrong: At eight, I will be travel to work. Right: At eight, I will be travelling to work."
+            },
+            {
+              "title": "Future perfect",
+              "pattern": "S + will have + past participle",
+              "explanation": "Use the future perfect for an action that will be completed before a particular time in the future.",
+              "examples": [
+                {"text": "By Friday, I will have finished the report.", "note": ""},
+                {"text": "She will have left by the time we arrive.", "note": ""},
+                {"text": "In ten years, he will have paid off the loan.", "note": ""}
+              ],
+              "mistake": "Wrong: By Friday, I will have finish the report. Right: By Friday, I will have finished the report."
+            },
+            {
+              "title": "Future perfect continuous",
+              "pattern": "S + will have been + -ing",
+              "explanation": "Use the future perfect continuous for an action that will have been continuing for a period up to a particular future time. It emphasises duration.",
+              "examples": [
+                {"text": "By June, I will have been working here for five years.", "note": ""},
+                {"text": "Next month, they will have been living together for a year.", "note": ""},
+                {"text": "At noon, he will have been driving for six hours.", "note": ""}
+              ],
+              "mistake": "Wrong: By June, I will have been work here for five years. Right: By June, I will have been working here for five years."
+            }
+          ],
+          "table": {
+            "headers": ["Tense", "Form", "Typical use"],
+            "rows": [
+              ["Future simple", "will + base verb", "prediction or decision"],
+              ["Future continuous", "will be + -ing", "in progress at a future time"],
+              ["Future perfect", "will have + past participle", "completed before a future time"],
+              ["Future perfect continuous", "will have been + -ing", "duration up to a future time"]
+            ]
+          }
+        },
+        {
+          "title": "Future forms",
+          "intro": "English uses several forms for the future. The choice depends on whether you are predicting, planning or following a timetable.",
+          "rules": [
+            {
+              "title": "Will",
+              "pattern": "will + base verb",
+              "explanation": "Use will for predictions, instant decisions, promises and offers. Do not use will in a future time clause after when, if, before, after or until.",
+              "examples": [
+                {"text": "I will open the window.", "note": "instant decision"},
+                {"text": "I promise I will be careful.", "note": "promise"},
+                {"text": "When I arrive, I will call you.", "note": "no will after when"}
+              ],
+              "mistake": "Wrong: When I will arrive, I will call you. Right: When I arrive, I will call you."
+            },
+            {
+              "title": "Going to",
+              "pattern": "am/is/are going to + base verb",
+              "explanation": "Use going to for plans and intentions decided before speaking, and for predictions based on present evidence.",
+              "examples": [
+                {"text": "We are going to move house next year.", "note": "plan"},
+                {"text": "Look at those clouds - it is going to rain.", "note": "evidence"},
+                {"text": "She is going to study medicine.", "note": "intention"}
+              ],
+              "mistake": "Wrong: We are go to move house. Right: We are going to move house."
+            },
+            {
+              "title": "Present continuous for future",
+              "pattern": "am/is/are + -ing + future time",
+              "explanation": "Use the present continuous for fixed arrangements in the near future, especially when the time and place are decided.",
+              "examples": [
+                {"text": "I am meeting Sam at six.", "note": ""},
+                {"text": "They are flying to Rome on Friday.", "note": ""},
+                {"text": "We are having dinner with my parents tonight.", "note": ""}
+              ],
+              "mistake": "Wrong: I meet Sam at six tomorrow. (fixed arrangement) Right: I am meeting Sam at six tomorrow."
+            },
+            {
+              "title": "Present simple for timetables",
+              "pattern": "base verb / verb + -s + timetable time",
+              "explanation": "Use the present simple for timetables and schedules, even about the future. This includes transport, films, classes and events.",
+              "examples": [
+                {"text": "The train leaves at 7:15.", "note": ""},
+                {"text": "The film starts at eight.", "note": ""},
+                {"text": "My course begins on Monday.", "note": ""}
+              ],
+              "mistake": "Wrong: The train is leave at 7:15. Right: The train leaves at 7:15."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Main use", "Example"],
+            "rows": [
+              ["will + base", "prediction, decision, promise", "I will help you."],
+              ["going to + base", "plan or evidence-based prediction", "It is going to rain."],
+              ["present continuous", "fixed arrangement", "I am meeting Sam at six."],
+              ["present simple", "timetable or schedule", "The train leaves at 7:15."]
+            ]
+          }
+        },
+        {
+          "title": "The twelve tenses at a glance",
+          "intro": "Tense combines time (present, past, future) with aspect (simple, continuous, perfect, perfect continuous).",
+          "rules": [
+            {
+              "title": "Choosing a tense",
+              "pattern": "time + aspect",
+              "explanation": "Choose the time first, then choose the aspect that matches how the action relates to that time. The table below summarises all twelve forms.",
+              "examples": [
+                {"text": "I work here.", "note": "present simple: habit"},
+                {"text": "I have worked here since 2020.", "note": "present perfect: connection to now"}
+              ],
+              "mistake": "Wrong: I am work here. Right: I work here."
+            }
+          ],
+          "table": {
+            "headers": ["Tense", "Form", "Example"],
+            "rows": [
+              ["Present simple", "base / verb + -s", "She works."],
+              ["Present continuous", "am/is/are + -ing", "She is working."],
+              ["Present perfect", "have/has + past participle", "She has worked."],
+              ["Present perfect continuous", "have/has been + -ing", "She has been working."],
+              ["Past simple", "past verb", "She worked."],
+              ["Past continuous", "was/were + -ing", "She was working."],
+              ["Past perfect", "had + past participle", "She had worked."],
+              ["Past perfect continuous", "had been + -ing", "She had been working."],
+              ["Future simple", "will + base verb", "She will work."],
+              ["Future continuous", "will be + -ing", "She will be working."],
+              ["Future perfect", "will have + past participle", "She will have worked."],
+              ["Future perfect continuous", "will have been + -ing", "She will have been working."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "title": "Modal verbs",
+      "summary": "Ability, possibility, obligation, advice, requests and past deduction.",
+      "sections": [
+        {
+          "title": "Ability, possibility and deduction",
+          "intro": "Modal verbs add meaning such as ability, possibility or certainty. They are followed by the base verb.",
+          "rules": [
+            {
+              "title": "Can and could",
+              "pattern": "can/could + base verb",
+              "explanation": "Use can for present ability and could for past ability. Could also makes a less direct possibility or a polite request. For other tenses, use be able to.",
+              "examples": [
+                {"text": "She can swim.", "note": "present ability"},
+                {"text": "I could read when I was four.", "note": "past ability"},
+                {"text": "It could rain later.", "note": "possibility"}
+              ],
+              "mistake": "Wrong: I can to swim. Right: I can swim."
+            },
+            {
+              "title": "May and might",
+              "pattern": "may/might + base verb",
+              "explanation": "Use may and might to say something is possible. Might often suggests a weaker possibility, and may is more formal. For past possibility, use may/might + have + past participle.",
+              "examples": [
+                {"text": "It may snow tonight.", "note": ""},
+                {"text": "She might not come.", "note": ""},
+                {"text": "There may be a delay.", "note": ""}
+              ],
+              "mistake": "Wrong: It may rains tonight. Right: It may rain tonight."
+            },
+            {
+              "title": "Deduction and probability",
+              "pattern": "must/can't/may/might/could + base verb",
+              "explanation": "Use must when you are almost certain something is true and can't when you are almost certain it is not true. May, might and could show different degrees of possibility.",
+              "examples": [
+                {"text": "You must be tired after that journey.", "note": "deduction"},
+                {"text": "That can't be true.", "note": "almost certainly not"},
+                {"text": "This could be the answer.", "note": "possibility"}
+              ],
+              "mistake": "Wrong: He can't be at home; his car is here. Right: He must be at home; his car is here."
+            }
+          ],
+          "table": {
+            "headers": ["Modal", "Meaning", "Example"],
+            "rows": [
+              ["can", "ability or general possibility", "She can swim."],
+              ["could", "past ability or weaker possibility", "It could rain."],
+              ["may", "possibility, more formal", "It may rain."],
+              ["might", "possibility, less certain", "It might rain."],
+              ["must", "almost certain", "She must be tired."],
+              ["can't", "almost certainly not", "It can't be true."]
+            ]
+          }
+        },
+        {
+          "title": "Obligation, necessity and advice",
+          "intro": "These modals show how strong an obligation is and whether something is necessary, forbidden or simply advisable.",
+          "rules": [
+            {
+              "title": "Must and have to",
+              "pattern": "must/have to + base verb",
+              "explanation": "Use must for strong obligation, often from the speaker, and have to for obligation from rules, circumstances or another person. Must has no past form; use had to.",
+              "examples": [
+                {"text": "You must wear a seat belt.", "note": ""},
+                {"text": "I have to finish this report by Friday.", "note": ""},
+                {"text": "We had to leave early.", "note": "past obligation"}
+              ],
+              "mistake": "Wrong: I musted go. Right: I had to go."
+            },
+            {
+              "title": "Mustn't and don't have to",
+              "pattern": "must not + verb; do not have to + verb",
+              "explanation": "Must not (mustn't) means something is forbidden. Do not have to (don't have to) means something is not necessary. The difference is important.",
+              "examples": [
+                {"text": "You mustn't smoke here.", "note": "forbidden"},
+                {"text": "You don't have to come if you are busy.", "note": "not necessary"},
+                {"text": "We didn't have to pay.", "note": ""}
+              ],
+              "mistake": "Wrong: You don't have to smoke here. (if it is forbidden) Right: You mustn't smoke here."
+            },
+            {
+              "title": "Should and ought to",
+              "pattern": "should/ought to + base verb",
+              "explanation": "Use should and ought to for advice, recommendations and what is right. Should is more common; ought to is slightly more formal. For past advice, use should have + past participle.",
+              "examples": [
+                {"text": "You should see a doctor.", "note": ""},
+                {"text": "We ought to leave soon.", "note": ""},
+                {"text": "You shouldn't eat so much sugar.", "note": ""}
+              ],
+              "mistake": "Wrong: You should to rest. Right: You should rest."
+            },
+            {
+              "title": "Need and needn't",
+              "pattern": "need to + base verb; needn't + base verb",
+              "explanation": "Use need to for necessity. Needn't (need not) means something is not necessary. As a modal, needn't is followed by the base verb.",
+              "examples": [
+                {"text": "I need to buy milk.", "note": ""},
+                {"text": "You needn't worry.", "note": ""},
+                {"text": "She needn't come tomorrow.", "note": ""}
+              ],
+              "mistake": "Wrong: You needn't to worry. Right: You needn't worry."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Meaning", "Example"],
+            "rows": [
+              ["must", "strong obligation", "You must stop."],
+              ["have to", "external obligation", "I have to wear a uniform."],
+              ["mustn't", "forbidden", "You mustn't park here."],
+              ["don't have to", "not necessary", "You don't have to pay."],
+              ["should", "advice", "You should rest."],
+              ["needn't", "not necessary", "You needn't wait."]
+            ]
+          }
+        },
+        {
+          "title": "Requests, offers and willingness",
+          "intro": "Modal verbs make requests and offers more or less direct and polite.",
+          "rules": [
+            {
+              "title": "Will, would and shall",
+              "pattern": "will/would/shall + base verb",
+              "explanation": "Use will for willingness, offers and promises. Would is more polite for requests and describes past habits. Use shall in offers and suggestions with I and we, especially in British English.",
+              "examples": [
+                {"text": "I will carry that for you.", "note": "offer"},
+                {"text": "Would you close the door, please?", "note": "polite request"},
+                {"text": "When I was young, we would spend summers by the sea.", "note": "past habit"},
+                {"text": "Shall I open the window?", "note": "offer"}
+              ],
+              "mistake": "Wrong: Would you to help me? Right: Would you help me?"
+            },
+            {
+              "title": "Permission and polite requests",
+              "pattern": "can/could/may + base verb",
+              "explanation": "Can is the usual form for permission; could and may are more polite or formal. For requests, could and would are common.",
+              "examples": [
+                {"text": "Can I use your phone?", "note": "informal permission"},
+                {"text": "Could I ask a question?", "note": "polite"},
+                {"text": "May I come in?", "note": "formal"}
+              ],
+              "mistake": "Wrong: May you help me? (request) Right: Could you help me?"
+            }
+          ],
+          "table": {
+            "headers": ["Function", "Common forms", "Example"],
+            "rows": [
+              ["permission", "can/could/may I", "Could I leave early?"],
+              ["request", "can/could/would you", "Would you wait?"],
+              ["offer", "can I / shall I / I'll", "Shall I help?"],
+              ["willingness", "will/would", "I will do it."]
+            ]
+          }
+        },
+        {
+          "title": "Past modals",
+          "intro": "Modal + have + past participle allows you to make deductions, express regret and criticise past actions.",
+          "rules": [
+            {
+              "title": "Modal + have + past participle",
+              "pattern": "modal + have + past participle",
+              "explanation": "Use this structure to talk about the past. Must have = certain; might have = possible; should have = regret or criticism; could have = unrealised possibility; needn't have = did something unnecessary.",
+              "examples": [
+                {"text": "She must have missed the train.", "note": "certain"},
+                {"text": "You should have told me.", "note": "criticism"},
+                {"text": "I could have won.", "note": "unrealised possibility"},
+                {"text": "You needn't have waited.", "note": "unnecessary action"}
+              ],
+              "mistake": "Wrong: You should have tell me. Right: You should have told me."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Meaning", "Example"],
+            "rows": [
+              ["must have", "certain about the past", "He must have left."],
+              ["might have", "possible in the past", "She might have forgotten."],
+              ["should have", "regret or criticism", "I should have studied."],
+              ["could have", "unrealised possibility", "We could have won."],
+              ["needn't have", "unnecessary past action", "You needn't have cooked."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "conditionals",
+      "title": "Conditionals",
+      "summary": "Zero, first, second, third and mixed conditionals, plus unless, wish and if only.",
+      "sections": [
+        {
+          "title": "Conditional sentences",
+          "intro": "Conditional sentences describe a condition and its result. The form changes according to whether the situation is real, unreal or impossible.",
+          "rules": [
+            {
+              "title": "Zero conditional",
+              "pattern": "If + present simple, present simple",
+              "explanation": "Use the zero conditional for general truths, facts and habits. Both clauses use the present simple.",
+              "examples": [
+                {"text": "If you heat ice, it melts.", "note": ""},
+                {"text": "If I drink coffee late, I cannot sleep.", "note": ""},
+                {"text": "Plants die if they get no water.", "note": ""}
+              ],
+              "mistake": "Wrong: If you will heat ice, it melts. Right: If you heat ice, it melts."
+            },
+            {
+              "title": "First conditional",
+              "pattern": "If + present simple, will + base verb",
+              "explanation": "Use the first conditional for a real or likely future condition and its result. Do not use will in the if-clause.",
+              "examples": [
+                {"text": "If it rains, we will stay at home.", "note": ""},
+                {"text": "If you study, you will pass.", "note": ""},
+                {"text": "I will call you if I arrive early.", "note": ""}
+              ],
+              "mistake": "Wrong: If it will rain, we will stay at home. Right: If it rains, we will stay at home."
+            },
+            {
+              "title": "Second conditional",
+              "pattern": "If + past simple, would + base verb",
+              "explanation": "Use the second conditional for an unreal or unlikely present or future situation, and for imaginary situations. Use were with I and he/she/it in formal English.",
+              "examples": [
+                {"text": "If I had more time, I would travel.", "note": ""},
+                {"text": "If I were you, I would apologise.", "note": "formal were"},
+                {"text": "What would you do if you lost your phone?", "note": ""}
+              ],
+              "mistake": "Wrong: If I would have time, I would travel. Right: If I had time, I would travel."
+            },
+            {
+              "title": "Third conditional",
+              "pattern": "If + past perfect, would have + past participle",
+              "explanation": "Use the third conditional for an unreal past situation and its imagined result. It describes something that did not happen.",
+              "examples": [
+                {"text": "If I had studied, I would have passed.", "note": ""},
+                {"text": "If we had left earlier, we would not have missed the train.", "note": ""},
+                {"text": "She would have come if you had invited her.", "note": ""}
+              ],
+              "mistake": "Wrong: If I would have studied, I would have passed. Right: If I had studied, I would have passed."
+            },
+            {
+              "title": "Mixed conditionals",
+              "pattern": "If + past perfect, would + base verb / If + past simple, would have + past participle",
+              "explanation": "Mixed conditionals combine different times. Use them when the condition is in the past but the result is in the present, or the condition is present and the result is in the past.",
+              "examples": [
+                {"text": "If I had taken the job, I would be in London now.", "note": "past condition, present result"},
+                {"text": "If I were more organised, I would have finished yesterday.", "note": "present condition, past result"},
+                {"text": "If she had studied medicine, she would be a doctor now.", "note": ""}
+              ],
+              "mistake": "Wrong: If I would have taken the job, I would be in London now. Right: If I had taken the job, I would be in London now."
+            }
+          ],
+          "table": {
+            "headers": ["Type", "If-clause", "Main clause", "Use"],
+            "rows": [
+              ["Zero", "present simple", "present simple", "general truth"],
+              ["First", "present simple", "will + base", "real future possibility"],
+              ["Second", "past simple", "would + base", "unreal present or future"],
+              ["Third", "past perfect", "would have + past participle", "unreal past"],
+              ["Mixed", "past perfect or past simple", "would + base or would have + past participle", "different times"]
+            ]
+          }
+        },
+        {
+          "title": "Unless, wish and if only",
+          "intro": "Unless replaces if not. Wish and if only express regrets and desires.",
+          "rules": [
+            {
+              "title": "Unless",
+              "pattern": "unless + present simple / past simple",
+              "explanation": "Unless means 'if not'. Use it to introduce the only condition that would change the result. Do not use not after unless in the same clause.",
+              "examples": [
+                {"text": "Unless you hurry, you will miss the bus.", "note": ""},
+                {"text": "I will go unless it rains.", "note": ""},
+                {"text": "Unless she calls, we will start without her.", "note": ""}
+              ],
+              "mistake": "Wrong: Unless you don't hurry, you will miss the bus. Right: Unless you hurry, you will miss the bus."
+            },
+            {
+              "title": "Wish and if only",
+              "pattern": "wish/if only + past simple / past perfect / would",
+              "explanation": "Use the past simple for a present wish, the past perfect for a past regret, and would for a wish about someone else's behaviour. If only is stronger and more emotional than wish.",
+              "examples": [
+                {"text": "I wish I had more time.", "note": "present wish"},
+                {"text": "I wish I had studied harder.", "note": "past regret"},
+                {"text": "If only she would listen.", "note": "wish about behaviour"},
+                {"text": "I wish it would stop raining.", "note": ""}
+              ],
+              "mistake": "Wrong: I wish I have more time. Right: I wish I had more time."
+            }
+          ],
+          "table": {
+            "headers": ["Time", "Form after wish", "Example"],
+            "rows": [
+              ["present", "past simple", "I wish I knew."],
+              ["past", "past perfect", "I wish I had known."],
+              ["future behaviour", "would + base", "I wish he would call."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "passive",
+      "title": "The passive",
+      "summary": "Passive forms by tense, when to use the passive, the by-agent, the get-passive and common mistakes.",
+      "sections": [
+        {
+          "title": "Passive forms",
+          "intro": "The passive changes the focus from the doer to the action or the receiver. It is formed with be + past participle.",
+          "rules": [
+            {
+              "title": "Forming the passive",
+              "pattern": "be + past participle (+ by + agent)",
+              "explanation": "The object of an active sentence becomes the subject of the passive sentence. The form of be changes with the tense, but the past participle stays the same.",
+              "examples": [
+                {"text": "Someone stole my bike. -> My bike was stolen.", "note": "past simple"},
+                {"text": "They clean the office every day. -> The office is cleaned every day.", "note": "present simple"},
+                {"text": "The teacher marked the essays. -> The essays were marked by the teacher.", "note": "by-agent"}
+              ],
+              "mistake": "Wrong: The letter was wrote. Right: The letter was written."
+            },
+            {
+              "title": "Perfect, continuous, future and modal passives",
+              "pattern": "have/has been + past participle; is being + past participle; will be + past participle; modal + be + past participle",
+              "explanation": "The passive can be used in most tenses and with modals. Continuous passives use being. Only verbs that take an object can normally be made passive.",
+              "examples": [
+                {"text": "The work has been finished.", "note": "present perfect"},
+                {"text": "The road is being repaired.", "note": "present continuous"},
+                {"text": "The results will be announced tomorrow.", "note": "future"},
+                {"text": "The form must be signed.", "note": "modal"}
+              ],
+              "mistake": "Wrong: The road is repairing. Right: The road is being repaired."
+            }
+          ],
+          "table": {
+            "headers": ["Tense", "Active", "Passive"],
+            "rows": [
+              ["present simple", "They clean it.", "It is cleaned."],
+              ["past simple", "They cleaned it.", "It was cleaned."],
+              ["present perfect", "They have cleaned it.", "It has been cleaned."],
+              ["past perfect", "They had cleaned it.", "It had been cleaned."],
+              ["future", "They will clean it.", "It will be cleaned."],
+              ["modal", "They must clean it.", "It must be cleaned."],
+              ["present continuous", "They are cleaning it.", "It is being cleaned."]
+            ]
+          }
+        },
+        {
+          "title": "Using the passive",
+          "intro": "The passive is common when the doer is unknown, obvious or unimportant, especially in formal and scientific writing.",
+          "rules": [
+            {
+              "title": "When to use the passive, and the by-agent",
+              "pattern": "passive; by + doer",
+              "explanation": "Use the passive when the doer is unknown, obvious or less important than the action. Include by + agent only when the doer is important or adds useful information.",
+              "examples": [
+                {"text": "My wallet has been stolen.", "note": "doer unknown"},
+                {"text": "The suspect was arrested yesterday.", "note": "doer obvious"},
+                {"text": "The novel was written by George Orwell.", "note": "agent important"}
+              ],
+              "mistake": "Wrong: The song was written from Lennon. Right: The song was written by Lennon."
+            },
+            {
+              "title": "Get-passive and common mistakes",
+              "pattern": "get + past participle",
+              "explanation": "The get-passive is informal and often describes something unexpected or negative. Some verbs, such as happen, arrive and die, are intransitive and have no passive.",
+              "examples": [
+                {"text": "He got fired last week.", "note": ""},
+                {"text": "My phone got stolen.", "note": ""},
+                {"text": "They got married in June.", "note": ""}
+              ],
+              "mistake": "Wrong: The accident was happened yesterday. Right: The accident happened yesterday."
+            }
+          ],
+          "table": {
+            "headers": ["Situation", "Agent", "Example"],
+            "rows": [
+              ["doer unknown", "omit", "The window was broken."],
+              ["doer obvious", "omit", "The thief was arrested."],
+              ["doer important", "include", "The book was written by Orwell."],
+              ["informal or surprising", "get-passive", "He got promoted."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "reported",
+      "title": "Reported speech",
+      "summary": "How to report statements, questions and commands, with tense, time and pronoun changes.",
+      "sections": [
+        {
+          "title": "Reported statements",
+          "intro": "Reported speech tells someone what another person said. When the reporting verb is past, the reported verb usually moves one step back.",
+          "rules": [
+            {
+              "title": "Say, tell and tense backshift",
+              "pattern": "say (that) ...; tell somebody (that) ...; past reporting verb + backshift",
+              "explanation": "Say does not need a person object; tell needs one. When the reporting verb is in the past, the reported verb usually moves one step back: present to past, past to past perfect, will to would.",
+              "examples": [
+                {"text": "She said that she was tired.", "note": ""},
+                {"text": "She told me that she was tired.", "note": "tell + person"},
+                {"text": "Direct: I saw him. -> She said she had seen him.", "note": "past to past perfect"}
+              ],
+              "mistake": "Wrong: She told that she was tired. Right: She told me that she was tired."
+            },
+            {
+              "title": "When not to backshift",
+              "pattern": "no tense change",
+              "explanation": "Do not backshift when the situation is still true, when the reporting verb is in the present, or when you report a general truth. Backshift is optional when the original statement is still relevant.",
+              "examples": [
+                {"text": "She says she is busy.", "note": "reporting verb present"},
+                {"text": "He said that water boils at 100 degrees.", "note": "general truth"},
+                {"text": "She said she lives in London.", "note": "she still does"}
+              ],
+              "mistake": "Wrong: He said the sun rose in the east. Right: He said the sun rises in the east."
+            }
+          ],
+          "table": {
+            "headers": ["Direct speech", "Reported speech"],
+            "rows": [
+              ["present simple", "past simple"],
+              ["present continuous", "past continuous"],
+              ["past simple", "past perfect"],
+              ["present perfect", "past perfect"],
+              ["will", "would"],
+              ["can", "could"],
+              ["may", "might"],
+              ["must", "had to (or must)"]
+            ]
+          }
+        },
+        {
+          "title": "Reported questions and commands",
+          "intro": "Reported questions use statement word order. Reported commands use an object and a to-infinitive.",
+          "rules": [
+            {
+              "title": "Reported questions",
+              "pattern": "ask + if/whether + subject + verb; ask + wh-word + subject + verb",
+              "explanation": "In reported questions, use statement word order: no auxiliary inversion and no question mark. Use if or whether for yes/no questions.",
+              "examples": [
+                {"text": "Direct: Are you ready? -> She asked if I was ready.", "note": ""},
+                {"text": "Direct: Where do you live? -> She asked where I lived.", "note": ""},
+                {"text": "Direct: What time is it? -> He asked what time it was.", "note": ""}
+              ],
+              "mistake": "Wrong: She asked where did I live. Right: She asked where I lived."
+            },
+            {
+              "title": "Reported commands and requests",
+              "pattern": "tell/ask + object + to-infinitive",
+              "explanation": "Use tell for orders and ask for requests, followed by an object and a to-infinitive. Use not to for negative commands.",
+              "examples": [
+                {"text": "Direct: Sit down. -> She told me to sit down.", "note": ""},
+                {"text": "Direct: Please help me. -> He asked me to help him.", "note": ""},
+                {"text": "Direct: Do not touch it. -> She told us not to touch it.", "note": ""}
+              ],
+              "mistake": "Wrong: She said me to wait. Right: She told me to wait."
+            }
+          ],
+          "table": {
+            "headers": ["Direct speech", "Reporting verb", "Reported form"],
+            "rows": [
+              ["statement", "say / tell", "that-clause"],
+              ["yes/no question", "ask", "if/whether + clause"],
+              ["wh-question", "ask", "wh-word + clause"],
+              ["command", "tell", "object + to-infinitive"],
+              ["request", "ask", "object + to-infinitive"],
+              ["negative command", "tell", "object + not to-infinitive"]
+            ]
+          }
+        },
+        {
+          "title": "Time, place and reporting verbs",
+          "intro": "Time and place words often change in reported speech. Reporting verbs also have their own grammar patterns.",
+          "rules": [
+            {
+              "title": "Time and place changes",
+              "pattern": "here -> there; now -> then; today -> that day; tomorrow -> the next day; yesterday -> the day before",
+              "explanation": "When you report speech later or in a different place, time and place words often change. The changes depend on the situation.",
+              "examples": [
+                {"text": "Direct: I will do it tomorrow. -> She said she would do it the next day.", "note": ""},
+                {"text": "Direct: I live here. -> He said he lived there.", "note": ""},
+                {"text": "Direct: I saw her yesterday. -> He said he had seen her the day before.", "note": ""}
+              ],
+              "mistake": "Wrong: She said she would do it tomorrow. (reported a week later) Right: She said she would do it the next day."
+            },
+            {
+              "title": "Reporting verbs",
+              "pattern": "verb + that-clause / to-infinitive / -ing / preposition + -ing",
+              "explanation": "Different reporting verbs take different patterns. Learn the pattern with the verb: advise somebody to do, suggest doing, offer to do, apologise for doing and insist on doing.",
+              "examples": [
+                {"text": "She admitted making a mistake.", "note": "admit + -ing"},
+                {"text": "He advised me to see a doctor.", "note": "advise + object + to"},
+                {"text": "They offered to help.", "note": "offer + to"},
+                {"text": "She suggested going by train.", "note": "suggest + -ing"}
+              ],
+              "mistake": "Wrong: She suggested to go by train. Right: She suggested going by train."
+            }
+          ],
+          "table": {
+            "headers": ["Verb", "Pattern", "Example"],
+            "rows": [
+              ["admit", "+ -ing", "He admitted stealing."],
+              ["advise", "+ object + to", "She advised me to rest."],
+              ["offer", "+ to-infinitive", "They offered to help."],
+              ["suggest", "+ -ing", "She suggested leaving."],
+              ["apologise", "+ for + -ing", "He apologised for being late."],
+              ["promise", "+ to-infinitive", "I promised to call."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title": "Prepositions",
+      "summary": "At, on and in for time and place, plus other common prepositions and easily confused pairs.",
+      "sections": [
+        {
+          "title": "At, on and in: time",
+          "intro": "At is for points in time, on is for days and dates, and in is for longer periods. These are the most useful time prepositions.",
+          "rules": [
+            {
+              "title": "At for clock times and points in time",
+              "pattern": "at + clock time or point in time",
+              "explanation": "Use at for exact clock times and for points in the day or year that are treated as moments. It is also used in several fixed expressions.",
+              "examples": [
+                {"text": "The class starts at nine.", "note": ""},
+                {"text": "We met at noon.", "note": ""},
+                {"text": "She works best at night.", "note": ""},
+                {"text": "I will see you at Christmas.", "note": "holiday period"},
+                {"text": "He is busy at the moment.", "note": "fixed phrase"}
+              ],
+              "mistake": "Wrong: We met in noon. Right: We met at noon."
+            },
+            {
+              "title": "On for days and dates",
+              "pattern": "on + day, date or day + part of day",
+              "explanation": "Use on with days of the week, dates and special days. Use on when a day is combined with a part of the day.",
+              "examples": [
+                {"text": "The shop opens on Monday.", "note": ""},
+                {"text": "My birthday is on 5 May.", "note": ""},
+                {"text": "We are meeting on Friday morning.", "note": ""},
+                {"text": "They arrived on Christmas Day.", "note": "specific day"}
+              ],
+              "mistake": "Wrong: My birthday is in 5 May. Right: My birthday is on 5 May."
+            },
+            {
+              "title": "In for longer periods",
+              "pattern": "in + month, year, season, part of day or period",
+              "explanation": "Use in for months, years, seasons, centuries and parts of the day. Use in with a period of time measured from now, such as in two weeks.",
+              "examples": [
+                {"text": "The course begins in September.", "note": ""},
+                {"text": "He was born in 1998.", "note": ""},
+                {"text": "We often walk in the evening.", "note": ""},
+                {"text": "I will be back in ten minutes.", "note": "ten minutes from now"}
+              ],
+              "mistake": "Wrong: I will be back after ten minutes. (meaning within ten minutes from now) Right: I will be back in ten minutes."
+            },
+            {
+              "title": "Time expressions without a preposition",
+              "pattern": "no preposition",
+              "explanation": "Do not use at, on or in before next, last, this, every, yesterday, today or tomorrow. These expressions already show time.",
+              "examples": [
+                {"text": "We will meet next week.", "note": ""},
+                {"text": "She called yesterday.", "note": ""},
+                {"text": "I go running every morning.", "note": ""},
+                {"text": "This afternoon is fine.", "note": ""}
+              ],
+              "mistake": "Wrong: I saw her on yesterday. Right: I saw her yesterday."
+            }
+          ],
+          "table": {
+            "headers": ["Preposition", "Used with", "Examples", "Notes"],
+            "rows": [
+              ["at", "exact clock time", "at 6 o'clock, at 9:30", "most precise"],
+              ["at", "noon, midnight, night", "at noon, at midnight, at night", "but in the morning"],
+              ["at", "mealtimes and short points", "at lunch, at breakfast, at the moment", "fixed phrases"],
+              ["at", "holiday period (British English)", "at Christmas, at Easter, at the weekend", "on Christmas Day"],
+              ["on", "days of the week", "on Monday, on Fridays", "no article"],
+              ["on", "dates and special days", "on 5 May, on my birthday, on New Year's Day", "the fifth of May"],
+              ["on", "day + part of day", "on Friday morning, on Monday evening", "compare in the morning"],
+              ["in", "months", "in July, in December", "no article"],
+              ["in", "years, decades, centuries", "in 2024, in the 1990s, in the 19th century", ""],
+              ["in", "seasons", "in summer, in winter", ""],
+              ["in", "parts of the day", "in the morning, in the afternoon, in the evening", "but at night"],
+              ["in", "a period from now", "in two weeks, in a few minutes", "after that length of time"],
+              ["in", "longer periods", "in the past, in the future, in my childhood", ""],
+              ["no preposition", "next, last, this, every, yesterday, today", "next week, last year, this morning, every day", "do not add at, on or in"]
+            ]
+          }
+        },
+        {
+          "title": "At, on and in: place",
+          "intro": "At treats a place as a point, on treats it as a surface or line, and in treats it as an enclosed space or area.",
+          "rules": [
+            {
+              "title": "At for points and small places",
+              "pattern": "at + point, small place or event",
+              "explanation": "Use at when you think of a place as a point on a map or a meeting place. It is common with buildings when you mean the activity inside, and with events.",
+              "examples": [
+                {"text": "I will meet you at the station.", "note": "meeting point"},
+                {"text": "She is at home.", "note": "fixed phrase"},
+                {"text": "He is at work.", "note": ""},
+                {"text": "We were at a concert.", "note": "event"},
+                {"text": "Turn left at the traffic lights.", "note": "point on a route"}
+              ],
+              "mistake": "Wrong: I am in home. Right: I am at home."
+            },
+            {
+              "title": "On for surfaces and lines",
+              "pattern": "on + surface, line or public transport",
+              "explanation": "Use on when something touches a surface, is attached to a line, or is used with public transport such as buses, trains and planes. Also use on for floors and sides.",
+              "examples": [
+                {"text": "The book is on the table.", "note": "surface"},
+                {"text": "There is a picture on the wall.", "note": ""},
+                {"text": "She lives on the second floor.", "note": ""},
+                {"text": "I met him on the train.", "note": "public transport"},
+                {"text": "The bank is on the left.", "note": ""}
+              ],
+              "mistake": "Wrong: The book is in the table. Right: The book is on the table."
+            },
+            {
+              "title": "In for enclosed spaces and areas",
+              "pattern": "in + container, area, city or country",
+              "explanation": "Use in for a space with limits around it, such as a box, room, building, city, country or area. Use in for the middle of something.",
+              "examples": [
+                {"text": "The keys are in my bag.", "note": "container"},
+                {"text": "She lives in London.", "note": "city"},
+                {"text": "We waited in the car.", "note": "enclosed space"},
+                {"text": "He is in the kitchen.", "note": ""},
+                {"text": "The shop is in the middle of the town.", "note": ""}
+              ],
+              "mistake": "Wrong: She lives at London. Right: She lives in London."
+            },
+            {
+              "title": "Place phrases and exceptions",
+              "pattern": "at/in/on + place",
+              "explanation": "Some place phrases are fixed. Note arrive at for a building or point and arrive in for a city or country. Note on the corner for the outside corner and in the corner for the inside of a room.",
+              "examples": [
+                {"text": "We arrived at the airport at six.", "note": ""},
+                {"text": "They arrived in Paris yesterday.", "note": ""},
+                {"text": "The cafe is on the corner.", "note": "outside corner"},
+                {"text": "The chair is in the corner of the room.", "note": "inside corner"},
+                {"text": "He is in bed with flu.", "note": "fixed phrase"}
+              ],
+              "mistake": "Wrong: We arrived to the airport. Right: We arrived at the airport."
+            }
+          ],
+          "table": {
+            "headers": ["Preposition", "Used with", "Examples", "Notes"],
+            "rows": [
+              ["at", "point on a journey", "at the bus stop, at the door", ""],
+              ["at", "meeting place or event", "at the party, at the cinema", ""],
+              ["at", "home, work, school", "at home, at work, at school", "fixed phrases"],
+              ["at", "small place seen as a point", "at the village, at the airport", "arrive at"],
+              ["on", "surface", "on the table, on the floor, on the wall", ""],
+              ["on", "line, edge or side", "on the left, on the corner, on the coast", "outside corner"],
+              ["on", "public transport", "on the bus, on the train, on the plane", "but in the car"],
+              ["on", "floors", "on the first floor, on the top floor", "British English ground floor"],
+              ["on", "street or road", "on Oxford Street, on the main road", "street as a line"],
+              ["in", "container or enclosed space", "in the box, in the room, in the car", ""],
+              ["in", "city, country or region", "in London, in France, in the north", "arrive in"],
+              ["in", "inside corner", "in the corner of the room", "compare on the corner"],
+              ["in", "bed, hospital, prison", "in bed, in hospital, in prison", "fixed phrases"],
+              ["in", "middle", "in the middle of the room", ""],
+              ["no preposition", "home, abroad, upstairs, downstairs", "go home, live abroad, go upstairs", "no to after go home"]
+            ]
+          }
+        },
+        {
+          "title": "Other common prepositions",
+          "intro": "These prepositions cover means, purpose, company, possession, direction and contrast.",
+          "rules": [
+            {
+              "title": "By, for, with and of",
+              "pattern": "by/for/with/of + noun or -ing",
+              "explanation": "By shows the agent, means or deadline. For shows purpose, duration or exchange. With shows company, a tool or a quality. Of shows possession, quantity or material.",
+              "examples": [
+                {"text": "The letter was written by my aunt.", "note": "agent"},
+                {"text": "We travelled by train.", "note": "means"},
+                {"text": "This knife is for cutting bread.", "note": "purpose"},
+                {"text": "I went with my sister.", "note": "company"},
+                {"text": "She cut the bread with a knife.", "note": "tool"},
+                {"text": "a cup of coffee", "note": "quantity"}
+              ],
+              "mistake": "Wrong: We travelled with train. Right: We travelled by train."
+            },
+            {
+              "title": "To, from, into and onto",
+              "pattern": "to/from/into/onto + noun",
+              "explanation": "To shows movement towards a destination, and from shows the starting point or origin. Into shows movement to the inside of something, and onto shows movement to a surface.",
+              "examples": [
+                {"text": "We walked to the station.", "note": "destination"},
+                {"text": "She comes from Spain.", "note": "origin"},
+                {"text": "She walked into the room.", "note": "movement inside"},
+                {"text": "The cat jumped onto the table.", "note": "movement onto a surface"},
+                {"text": "I gave the book to Tom.", "note": "recipient"}
+              ],
+              "mistake": "Wrong: We arrived to the station. Right: We arrived at the station."
+            },
+            {
+              "title": "During, while, until and since",
+              "pattern": "during + noun; while + clause; until + end point; since + starting point",
+              "explanation": "During is a preposition and is followed by a noun. While is a conjunction and is followed by a subject and verb. Until means up to a point in time; since means from a point in the past until now.",
+              "examples": [
+                {"text": "During the film, my phone rang.", "note": "during + noun"},
+                {"text": "While we were watching the film, my phone rang.", "note": "while + clause"},
+                {"text": "I waited until six.", "note": "end point"},
+                {"text": "I have lived here since 2015.", "note": "starting point"}
+              ],
+              "mistake": "Wrong: During I was cooking, the phone rang. Right: While I was cooking, the phone rang."
+            },
+            {
+              "title": "Between, among, beside, besides, above, over, below and under",
+              "pattern": "between/among + noun; beside/besides + noun; above/over/below/under + noun",
+              "explanation": "Between is usual with two separate items; among suggests being inside a group. Beside means next to; besides means as well as or apart from. Above and over mean higher than; below and under mean lower than.",
+              "examples": [
+                {"text": "She sat between Tom and Anna.", "note": "two separate people"},
+                {"text": "The house is among the trees.", "note": "inside a group"},
+                {"text": "Sit beside me.", "note": "next to"},
+                {"text": "Besides English, she speaks French.", "note": "in addition"},
+                {"text": "The plane flew over the city.", "note": "across"},
+                {"text": "The cat is under the chair.", "note": "directly beneath"}
+              ],
+              "mistake": "Wrong: Besides me, there was a chair. (meaning next to) Right: Beside me, there was a chair."
+            }
+          ],
+          "table": {
+            "headers": ["Pair", "Difference", "Example"],
+            "rows": [
+              ["during / while", "during + noun; while + clause", "during the film; while we watched"],
+              ["until / since", "end point / starting point", "until Friday; since Monday"],
+              ["between / among", "two separate items / a group", "between the two; among friends"],
+              ["beside / besides", "next to / in addition", "beside me; besides English"],
+              ["above / over", "higher than / across or covering", "above the door; over the bridge"],
+              ["below / under", "lower than / directly beneath", "below zero; under the table"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sentences",
+      "title": "Sentences and clauses",
+      "summary": "Clause types, relative and noun clauses, linking words, comparison, participles and emphasis.",
+      "sections": [
+        {
+          "title": "Clauses and sentence types",
+          "intro": "A clause contains a subject and a verb. Clauses can be joined by coordination or subordination.",
+          "rules": [
+            {
+              "title": "Clauses and sentence types",
+              "pattern": "independent clause / dependent clause",
+              "explanation": "An independent clause can stand alone as a sentence; a dependent clause cannot. A simple sentence has one independent clause, a compound sentence has two or more, and a complex sentence has a main clause and at least one dependent clause.",
+              "examples": [
+                {"text": "She smiled.", "note": "simple sentence"},
+                {"text": "She smiled, and I laughed.", "note": "compound sentence"},
+                {"text": "When the rain stopped, we went out.", "note": "complex sentence"}
+              ],
+              "mistake": "Wrong: Because I was tired. (as a complete sentence) Right: I went to bed because I was tired."
+            },
+            {
+              "title": "Coordination and subordination",
+              "pattern": "independent + and/but/or/so + independent; main clause + subordinating conjunction + dependent clause",
+              "explanation": "Coordination joins clauses of equal importance. Subordination joins a dependent clause to a main clause. The dependent clause can come first, often followed by a comma, or after the main clause.",
+              "examples": [
+                {"text": "I wanted to go, but I was too tired.", "note": "coordination"},
+                {"text": "Although it was raining, we went for a walk.", "note": "subordination"},
+                {"text": "I will call you when I arrive.", "note": ""}
+              ],
+              "mistake": "Wrong: Although it was raining, but we went out. Right: Although it was raining, we went out."
+            }
+          ],
+          "table": {
+            "headers": ["Type", "Can stand alone?", "Example"],
+            "rows": [
+              ["independent", "yes", "She left."],
+              ["dependent", "no", "because she was late"],
+              ["relative", "no", "the book that I bought"],
+              ["noun", "no", "what she said"]
+            ]
+          }
+        },
+        {
+          "title": "Relative, noun and adverb clauses",
+          "intro": "Relative clauses describe a noun. Noun clauses work like nouns. Adverb clauses show time, reason, condition or result.",
+          "rules": [
+            {
+              "title": "Relative clauses",
+              "pattern": "noun + who/which/that/whose/where + clause",
+              "explanation": "A defining relative clause identifies which person or thing you mean and takes no commas. A non-defining relative clause adds extra information, takes commas and does not use that.",
+              "examples": [
+                {"text": "The woman who lives next door is a doctor.", "note": "defining"},
+                {"text": "The book which I bought is excellent.", "note": "defining"},
+                {"text": "My brother, who lives in Rome, is visiting.", "note": "non-defining"},
+                {"text": "This is the house that Jack built.", "note": "defining"}
+              ],
+              "mistake": "Wrong: My brother, that lives in Rome, is visiting. Right: My brother, who lives in Rome, is visiting."
+            },
+            {
+              "title": "Noun clauses",
+              "pattern": "that/if/whether/wh-word + clause",
+              "explanation": "A noun clause works like a noun: it can be the subject, object or complement of a verb. Use if or whether for yes/no ideas, and a wh-word for open questions.",
+              "examples": [
+                {"text": "I know that she is right.", "note": ""},
+                {"text": "Whether he comes is still unclear.", "note": "subject"},
+                {"text": "She asked if I was ready.", "note": ""},
+                {"text": "What he said surprised me.", "note": ""}
+              ],
+              "mistake": "Wrong: I don't know what is his name. Right: I don't know what his name is."
+            },
+            {
+              "title": "Adverb clauses",
+              "pattern": "subordinating conjunction + clause",
+              "explanation": "Adverb clauses show time, reason, condition, concession, purpose or result. They can come before or after the main clause.",
+              "examples": [
+                {"text": "When the bell rang, we left.", "note": "time"},
+                {"text": "I stayed because I was tired.", "note": "reason"},
+                {"text": "Although she was late, she apologised.", "note": "concession"},
+                {"text": "He studied hard so that he could pass.", "note": "purpose"}
+              ],
+              "mistake": "Wrong: Because it was raining, so we stayed inside. Right: Because it was raining, we stayed inside."
+            }
+          ],
+          "table": {
+            "headers": ["Pronoun", "Use", "Example"],
+            "rows": [
+              ["who", "people", "the boy who won"],
+              ["which", "things", "the book which sold"],
+              ["that", "people or things in defining clauses", "the car that I bought"],
+              ["whose", "possession", "the girl whose bag"],
+              ["where", "places", "the town where I live"],
+              ["when", "times", "the day when we met"]
+            ]
+          }
+        },
+        {
+          "title": "Linking words and comparison",
+          "intro": "Linking words connect ideas. Comparatives and superlatives compare people and things.",
+          "rules": [
+            {
+              "title": "Linking words",
+              "pattern": "connector + clause or noun",
+              "explanation": "Linking words show addition, contrast, cause, result, example or sequence. However and therefore usually start a new sentence or follow a semicolon; because and although join clauses inside one sentence.",
+              "examples": [
+                {"text": "She was tired; however, she finished the work.", "note": "contrast"},
+                {"text": "It was raining. Therefore, we stayed inside.", "note": "result"},
+                {"text": "In addition, the service is free.", "note": "addition"},
+                {"text": "For example, many students work part-time.", "note": "example"}
+              ],
+              "mistake": "Wrong: She was tired, however she finished. Right: She was tired; however, she finished."
+            },
+            {
+              "title": "Comparatives and superlatives",
+              "pattern": "adjective + -er / more + adjective + than; the + adjective + -est / the most + adjective",
+              "explanation": "Use the comparative to compare two things and the superlative to compare three or more. Short adjectives take -er and -est; longer adjectives take more and most. Use as ... as for equality.",
+              "examples": [
+                {"text": "She is taller than me.", "note": "comparative"},
+                {"text": "This is the most expensive restaurant in town.", "note": "superlative"},
+                {"text": "He is as tall as his father.", "note": "equality"},
+                {"text": "This test is not as difficult as the last one.", "note": "negative equality"}
+              ],
+              "mistake": "Wrong: She is more taller than me. Right: She is taller than me."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Use", "Example"],
+            "rows": [
+              ["-er / more ... than", "two things", "She is older than me."],
+              ["the -est / the most", "three or more", "She is the oldest."],
+              ["as ... as", "equal", "He is as tall as me."],
+              ["not as ... as", "less than", "It is not as big as the other."],
+              ["less ... than", "less", "It is less expensive than that one."]
+            ]
+          }
+        },
+        {
+          "title": "Participles, inversion and emphasis",
+          "intro": "Participle clauses make writing more concise. Inversion and cleft sentences move information into focus.",
+          "rules": [
+            {
+              "title": "Participle clauses",
+              "pattern": "-ing clause / -ed clause",
+              "explanation": "A participle clause uses an -ing or -ed form instead of a full clause. It can show reason, time, result or condition. The subject of the participle clause should normally be the same as the subject of the main clause.",
+              "examples": [
+                {"text": "Walking home, I saw an old friend.", "note": "active"},
+                {"text": "Written in 1920, the novel is still popular.", "note": "passive"},
+                {"text": "Having finished the report, she went home.", "note": "perfect participle"}
+              ],
+              "mistake": "Wrong: Walking home, the rain started. Right: Walking home, I got caught in the rain."
+            },
+            {
+              "title": "Inversion and emphasis",
+              "pattern": "negative adverbial + auxiliary + subject + verb",
+              "explanation": "After a negative or limiting adverbial at the beginning of a sentence, invert the subject and auxiliary. Cleft sentences and do-emphasis also move information into focus.",
+              "examples": [
+                {"text": "Never have I seen such a mess.", "note": "inversion"},
+                {"text": "Not only did she win, but she also broke the record.", "note": ""},
+                {"text": "It was Tom who called.", "note": "it-cleft"},
+                {"text": "I do like your new coat.", "note": "do-emphasis"}
+              ],
+              "mistake": "Wrong: Never I have seen such a mess. Right: Never have I seen such a mess."
+            }
+          ],
+          "table": {
+            "headers": ["Device", "Example", "Effect"],
+            "rows": [
+              ["negative inversion", "Never have I seen this.", "formal emphasis"],
+              ["it-cleft", "It was Tom who called.", "focus on Tom"],
+              ["what-cleft", "What I need is rest.", "focus on rest"],
+              ["do-emphasis", "I do like it.", "strong feeling"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "punctuation",
+      "title": "Punctuation",
+      "summary": "Full stops, commas, semicolons, colons, apostrophes, hyphens, dashes, quotation marks and capital letters.",
+      "sections": [
+        {
+          "title": "End punctuation and commas",
+          "intro": "End marks show where a sentence stops. Commas separate items and make the structure clearer.",
+          "rules": [
+            {
+              "title": "Full stops, question marks and exclamation marks",
+              "pattern": "statement + . ; direct question + ? ; strong exclamation + !",
+              "explanation": "Use a full stop at the end of a statement, a command or an indirect question. Use a question mark after a direct question and an exclamation mark after a strong exclamation or warning.",
+              "examples": [
+                {"text": "She lives in Bristol.", "note": "statement"},
+                {"text": "Are you ready?", "note": "direct question"},
+                {"text": "What a beautiful day!", "note": "exclamation"},
+                {"text": "He asked where I was going.", "note": "indirect question: full stop"}
+              ],
+              "mistake": "Wrong: He asked me what time it was? Right: He asked me what time it was."
+            },
+            {
+              "title": "Commas",
+              "pattern": "item, item and item; introductory phrase, + main clause",
+              "explanation": "Use commas to separate items in a list and after an introductory word or phrase. Use a comma before a coordinating conjunction that joins two independent clauses, and around non-defining relative clauses.",
+              "examples": [
+                {"text": "We bought bread, milk and eggs.", "note": "list"},
+                {"text": "After lunch, we went for a walk.", "note": "introductory phrase"},
+                {"text": "She was tired, so she went to bed.", "note": "two clauses"},
+                {"text": "My sister, who lives in Rome, is visiting.", "note": "non-defining"}
+              ],
+              "mistake": "Wrong: The book, that I bought, is good. Right: The book that I bought is good."
+            }
+          ],
+          "table": {
+            "headers": ["Mark", "Use", "Example"],
+            "rows": [
+              ["full stop", "statement, command, indirect question", "She left."],
+              ["question mark", "direct question", "Where is she?"],
+              ["exclamation mark", "strong feeling or warning", "Be careful!"],
+              ["comma", "lists and introductory phrases", "After lunch, we left."],
+              ["comma", "two independent clauses", "She was tired, so she left."]
+            ]
+          }
+        },
+        {
+          "title": "Semicolons, colons and apostrophes",
+          "intro": "Semicolons join related clauses, colons introduce information, and apostrophes show possession or contraction.",
+          "rules": [
+            {
+              "title": "Semicolons and colons",
+              "pattern": "clause; clause; clause: list or explanation",
+              "explanation": "Use a semicolon to join two closely related independent clauses without a conjunction. Use a colon to introduce a list, an explanation or a quotation; the part before the colon should be a complete sentence.",
+              "examples": [
+                {"text": "I have a meeting; I will call you later.", "note": "semicolon"},
+                {"text": "You need three things: a pen, paper and patience.", "note": "colon + list"},
+                {"text": "There was one problem: the door was locked.", "note": "colon + explanation"},
+                {"text": "She said: 'I will be there.'", "note": "colon + quotation"}
+              ],
+              "mistake": "Wrong: You need: a pen, paper and patience. Right: You need three things: a pen, paper and patience."
+            },
+            {
+              "title": "Apostrophes",
+              "pattern": "possession: noun + 's or '; contraction: it's = it is or it has",
+              "explanation": "Add 's to a singular noun or an irregular plural, and only an apostrophe to a regular plural ending in -s. Its without an apostrophe is possessive; it's with an apostrophe means it is or it has.",
+              "examples": [
+                {"text": "the girl's bag", "note": "singular"},
+                {"text": "the girls' bags", "note": "regular plural"},
+                {"text": "The dog wagged its tail.", "note": "possessive"},
+                {"text": "It's raining.", "note": "it is"}
+              ],
+              "mistake": "Wrong: The cat licked it's paw. Right: The cat licked its paw."
+            }
+          ],
+          "table": {
+            "headers": ["Form", "Meaning", "Example"],
+            "rows": [
+              ["'s", "possession or contraction", "the girl's coat"],
+              ["'", "regular plural possession", "the girls' coats"],
+              ["it's", "it is or it has", "It's cold."],
+              ["its", "belonging to it", "The dog ate its food."],
+              ["don't", "do not", "I don't know."]
+            ]
+          }
+        },
+        {
+          "title": "Hyphens, dashes, quotation marks and capitals",
+          "intro": "These marks join words, mark breaks, show exact words and signal proper names.",
+          "rules": [
+            {
+              "title": "Hyphens and dashes",
+              "pattern": "hyphen: word-word; dash: word - word",
+              "explanation": "A hyphen joins parts of a compound word or phrase and is written without spaces. A dash marks a break in a sentence and is usually written with spaces around it.",
+              "examples": [
+                {"text": "a well-known writer", "note": "compound adjective"},
+                {"text": "a ten-year-old child", "note": ""},
+                {"text": "She was tired - very tired - but she kept going.", "note": "dash"},
+                {"text": "There is one thing I need - time.", "note": ""}
+              ],
+              "mistake": "Wrong: a well known writer. (as a compound adjective) Right: a well-known writer."
+            },
+            {
+              "title": "Quotation marks and capitalization",
+              "pattern": "quotation marks around exact words; capital letter at the start and for proper nouns",
+              "explanation": "Use quotation marks around a person's exact words in direct speech or around a short title. Capitalise the first word of a sentence, the pronoun I, and proper nouns such as names, places, days, months, languages and nationalities.",
+              "examples": [
+                {"text": "She said, 'I will be late.'", "note": "direct speech"},
+                {"text": "The chapter is called 'The Storm'.", "note": "title"},
+                {"text": "We met on Monday in July.", "note": "days and months"},
+                {"text": "I speak Spanish and English.", "note": "languages"}
+              ],
+              "mistake": "Wrong: I met sarah on monday. Right: I met Sarah on Monday."
+            }
+          ],
+          "table": {
+            "headers": ["Mark", "Use", "Example"],
+            "rows": [
+              ["hyphen", "compound word or adjective", "a well-known writer"],
+              ["dash", "break or emphasis", "She paused - then left."],
+              ["single quotes", "direct speech (British style)", "He said, 'Wait.'"],
+              ["double quotes", "direct speech or titles", "She said, \"Wait.\""],
+              ["capital letter", "sentence start and proper nouns", "Sarah lives in Manchester."]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": "Common mistakes",
+      "summary": "Twelve high-value errors that learners make again and again, with corrections and explanations.",
+      "sections": [
+        {
+          "title": "High-value learner errors",
+          "intro": "Each card shows the wrong form, the correct form and the reason. Learning these patterns prevents many small errors at once.",
+          "rules": [
+            {
+              "title": "I am agree",
+              "pattern": "I agree (not I am agree)",
+              "explanation": "Agree is a verb, so it does not need am, is or are. Use agree with a person or agree to a plan.",
+              "examples": [
+                {"text": "I agree with you.", "note": ""},
+                {"text": "She agreed to the plan.", "note": ""},
+                {"text": "We all agree that the idea is good.", "note": ""}
+              ],
+              "mistake": "Wrong: I am agree with you. Right: I agree with you."
+            },
+            {
+              "title": "Discuss about",
+              "pattern": "discuss + object",
+              "explanation": "Discuss is transitive and takes a direct object. Do not use about after discuss; use talk about if you need about.",
+              "examples": [
+                {"text": "We discussed the problem.", "note": ""},
+                {"text": "They discussed the budget for an hour.", "note": ""},
+                {"text": "Let's talk about the problem.", "note": ""}
+              ],
+              "mistake": "Wrong: We discussed about the problem. Right: We discussed the problem."
+            },
+            {
+              "title": "Depend of",
+              "pattern": "depend on or upon",
+              "explanation": "Depend is followed by on or upon, not of. The same pattern appears in dependent on and independent of.",
+              "examples": [
+                {"text": "It depends on the weather.", "note": ""},
+                {"text": "She depends on her car.", "note": ""},
+                {"text": "The result is dependent on hard work.", "note": ""}
+              ],
+              "mistake": "Wrong: It depends of the weather. Right: It depends on the weather."
+            },
+            {
+              "title": "Since and for",
+              "pattern": "since + starting point; for + length of time",
+              "explanation": "Use since with a point in time when something started, and for with a length of time. Both are common with the present perfect.",
+              "examples": [
+                {"text": "I have lived here since 2018.", "note": ""},
+                {"text": "I have lived here for six years.", "note": ""},
+                {"text": "She has been waiting since noon.", "note": ""}
+              ],
+              "mistake": "Wrong: I have lived here for 2018. Right: I have lived here since 2018."
+            },
+            {
+              "title": "Make and do",
+              "pattern": "make + product or result; do + activity or task",
+              "explanation": "Use make for creating, producing or causing something. Use do for tasks, work and general activities. There is no perfect rule, so learn common phrases.",
+              "examples": [
+                {"text": "make a cake, make a decision, make a mistake", "note": ""},
+                {"text": "do homework, do the washing-up, do business", "note": ""},
+                {"text": "She made a good impression.", "note": ""}
+              ],
+              "mistake": "Wrong: I need to do a decision. Right: I need to make a decision."
+            },
+            {
+              "title": "Say and tell",
+              "pattern": "say (that) ...; tell somebody (that) ...",
+              "explanation": "Say does not take a person object directly; tell needs one. Use tell somebody something or tell somebody to do something.",
+              "examples": [
+                {"text": "She said that she was tired.", "note": ""},
+                {"text": "She told me that she was tired.", "note": ""},
+                {"text": "He told us to wait.", "note": ""}
+              ],
+              "mistake": "Wrong: She told that she was tired. Right: She told me that she was tired."
+            },
+            {
+              "title": "Borrow and lend",
+              "pattern": "borrow something from somebody; lend somebody something",
+              "explanation": "Borrow means take something temporarily and return it. Lend means give something temporarily. The direction is opposite.",
+              "examples": [
+                {"text": "Can I borrow your pen?", "note": ""},
+                {"text": "Can you lend me your pen?", "note": ""},
+                {"text": "She lent him her car.", "note": ""}
+              ],
+              "mistake": "Wrong: Can you borrow me your pen? Right: Can you lend me your pen?"
+            },
+            {
+              "title": "Affect and effect",
+              "pattern": "affect = verb; effect = noun",
+              "explanation": "Affect is usually a verb meaning 'influence'. Effect is usually a noun meaning 'result'. A less common verb effect means 'bring about'.",
+              "examples": [
+                {"text": "The weather affects my mood.", "note": "verb"},
+                {"text": "The effect was immediate.", "note": "noun"},
+                {"text": "The new law affected thousands of people.", "note": ""}
+              ],
+              "mistake": "Wrong: The rain effected our plans. Right: The rain affected our plans."
+            },
+            {
+              "title": "Its and it's",
+              "pattern": "its = possessive; it's = it is or it has",
+              "explanation": "Its shows belonging. It's is a contraction of it is or it has. They are not interchangeable. If you can replace the word with it is, use it's.",
+              "examples": [
+                {"text": "The company changed its policy.", "note": "possessive"},
+                {"text": "It's a difficult question.", "note": "it is"},
+                {"text": "It's been a long day.", "note": "it has"}
+              ],
+              "mistake": "Wrong: The dog lost it's collar. Right: The dog lost its collar."
+            },
+            {
+              "title": "Then and than",
+              "pattern": "then = time; than = comparison",
+              "explanation": "Then refers to time or sequence. Than introduces the second part of a comparison, and is used with comparatives such as better, more and less.",
+              "examples": [
+                {"text": "We ate, then we left.", "note": "time"},
+                {"text": "She is taller than me.", "note": "comparison"},
+                {"text": "If you finish, then call me.", "note": ""}
+              ],
+              "mistake": "Wrong: She is taller then me. Right: She is taller than me."
+            },
+            {
+              "title": "Fewer and less",
+              "pattern": "fewer + countable plural; less + uncountable",
+              "explanation": "Use fewer with plural countable nouns and less with uncountable nouns. Less is also common with numbers and measurements.",
+              "examples": [
+                {"text": "There are fewer cars today.", "note": ""},
+                {"text": "We have less time than before.", "note": ""},
+                {"text": "It costs less than ten pounds.", "note": ""}
+              ],
+              "mistake": "Wrong: There are less students this year. Right: There are fewer students this year."
+            },
+            {
+              "title": "Good and well",
+              "pattern": "good = adjective; well = adverb",
+              "explanation": "Good describes a noun. Well describes how an action is done. Well can also mean 'healthy'.",
+              "examples": [
+                {"text": "She is a good teacher.", "note": "adjective"},
+                {"text": "She teaches well.", "note": "adverb"},
+                {"text": "I feel well today.", "note": "healthy"}
+              ],
+              "mistake": "Wrong: She speaks English good. Right: She speaks English well."
+            }
+          ],
+          "table": {
+            "headers": ["Wrong", "Right", "Why"],
+            "rows": [
+              ["I am agree", "I agree", "agree is a verb"],
+              ["discuss about", "discuss", "discuss is transitive"],
+              ["depend of", "depend on", "fixed preposition"],
+              ["for 2018", "since 2018", "starting point"],
+              ["do a decision", "make a decision", "fixed collocation"],
+              ["tell that", "tell me that", "tell needs a person"],
+              ["borrow me", "lend me", "opposite direction"],
+              ["effected our plans", "affected our plans", "affect is the verb"],
+              ["it's collar", "its collar", "possessive"],
+              ["taller then", "taller than", "comparison"],
+              ["less students", "fewer students", "countable plural"],
+              ["speaks good", "speaks well", "adverb"]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "tenseMap": {
+    "present": [
+      {"name": "Present simple", "form": "base verb / verb + -s", "use": "Habits, facts and permanent situations."},
+      {"name": "Present continuous", "form": "am/is/are + -ing", "use": "Actions now, temporary situations and arrangements."},
+      {"name": "Present perfect", "form": "have/has + past participle", "use": "Past actions with a link to now; experiences; situations that continue."},
+      {"name": "Present perfect continuous", "form": "have/has been + -ing", "use": "Actions continuing up to now, often with duration."}
+    ],
+    "past": [
+      {"name": "Past simple", "form": "past verb", "use": "Completed actions at a definite past time."},
+      {"name": "Past continuous", "form": "was/were + -ing", "use": "Actions in progress at a past time."},
+      {"name": "Past perfect", "form": "had + past participle", "use": "An action completed before another past action."},
+      {"name": "Past perfect continuous", "form": "had been + -ing", "use": "An action continuing up to a past point."}
+    ],
+    "future": [
+      {"name": "Future simple", "form": "will + base verb", "use": "Predictions, decisions, promises and offers."},
+      {"name": "Future continuous", "form": "will be + -ing", "use": "An action in progress at a future time."},
+      {"name": "Future perfect", "form": "will have + past participle", "use": "An action completed before a future time."},
+      {"name": "Future perfect continuous", "form": "will have been + -ing", "use": "An action continuing up to a future time."}
+    ]
+  }
+}

@@ -1,0 +1,6111 @@
+[
+  {
+    "word": "get up",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to rise from bed or from a sitting or lying position",
+        "example": "I get up at seven every morning.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "daily",
+      "routine"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "wake up",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop sleeping",
+        "example": "The alarm helped me wake up early.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "sleep",
+      "daily"
+    ],
+    "note": "",
+    "verb": "wake",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "sit down",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move into a sitting position",
+        "example": "Please sit down and relax.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "position"
+    ],
+    "note": "",
+    "verb": "sit",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "stand up",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move into a standing position",
+        "example": "Everyone stood up when the teacher entered.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "position"
+    ],
+    "note": "",
+    "verb": "stand",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "come in",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to enter a room or building",
+        "example": "Come in and close the door.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "enter"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go out",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave home for social or leisure activities",
+        "example": "We like to go out on Fridays.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social",
+      "leisure"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "put on",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to place clothing or accessories on your body",
+        "example": "Put on your coat before you leave.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "daily"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "on",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "take off",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to remove clothing or accessories",
+        "example": "Please take off your shoes at the door.",
+        "labels": []
+      },
+      {
+        "text": "to leave the ground and begin flying",
+        "example": "The plane will take off at noon.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "travel"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "turn on",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make a machine or device start working",
+        "example": "Turn on the lights, please.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "device",
+      "control"
+    ],
+    "note": "",
+    "verb": "turn",
+    "particle": "on",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "turn off",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make a machine or device stop working",
+        "example": "Turn off the TV before bed.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "device",
+      "control"
+    ],
+    "note": "",
+    "verb": "turn",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "pick up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to lift something from a surface",
+        "example": "She picked up the dropped pen.",
+        "labels": []
+      },
+      {
+        "text": "to collect someone or something by vehicle",
+        "example": "I will pick you up at the station.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "transport"
+    ],
+    "note": "",
+    "verb": "pick",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "put down",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to place something onto a surface",
+        "example": "He put down his bag and sat.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "place"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "look for",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to try to find something or someone",
+        "example": "I am looking for my keys.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "search",
+      "daily"
+    ],
+    "note": "",
+    "verb": "look",
+    "particle": "for",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "find out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to discover information",
+        "example": "I need to find out when the meeting starts.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "information",
+      "discover"
+    ],
+    "note": "",
+    "verb": "find",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "give up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop trying or stop doing something",
+        "example": "Do not give up, even if it is hard.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "effort",
+      "stop"
+    ],
+    "note": "",
+    "verb": "give",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "grow up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to develop from a child into an adult",
+        "example": "I grew up in a small town.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "life",
+      "development"
+    ],
+    "note": "",
+    "verb": "grow",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "fill in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK",
+    "definitions": [
+      {
+        "text": "to complete empty spaces on a form or document",
+        "example": "Please fill in your name and address.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "form",
+      "writing"
+    ],
+    "note": "",
+    "verb": "fill",
+    "particle": "in",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "fill out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "US",
+    "definitions": [
+      {
+        "text": "to complete a form with required information",
+        "example": "Fill out this application carefully.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "form",
+      "writing"
+    ],
+    "note": "",
+    "verb": "fill",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "look after",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to take care of someone or something",
+        "example": "She looks after her younger brother.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "care",
+      "responsibility"
+    ],
+    "note": "",
+    "verb": "look",
+    "particle": "after",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "throw away",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to put something in the trash because it is not wanted",
+        "example": "Throw away the empty bottle.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "waste",
+      "cleaning"
+    ],
+    "note": "",
+    "verb": "throw",
+    "particle": "away",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "write down",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to record information on paper or digitally",
+        "example": "Write down the phone number.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "writing",
+      "record"
+    ],
+    "note": "",
+    "verb": "write",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "come back",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return to a place",
+        "example": "She will come back after lunch.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "movement"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "back",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go back",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return to a place, time, or earlier activity",
+        "example": "We had to go back home for the tickets.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "movement"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "back",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "run out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to have no more of something left",
+        "example": "We ran out of milk this morning.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "supply",
+      "lack"
+    ],
+    "note": "",
+    "verb": "run",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "look up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to search for information in a reference source",
+        "example": "Look up the word in the dictionary.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "search",
+      "information"
+    ],
+    "note": "",
+    "verb": "look",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "set up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to arrange or establish something",
+        "example": "They set up a new company last year.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "arrange",
+      "create"
+    ],
+    "note": "",
+    "verb": "set",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "carry on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to continue doing something",
+        "example": "Carry on with your work.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "continue",
+      "activity"
+    ],
+    "note": "",
+    "verb": "carry",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "break down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop working because of a fault",
+        "example": "Our car broke down on the highway.",
+        "labels": []
+      },
+      {
+        "text": "to become very upset and unable to control emotions",
+        "example": "She broke down after hearing the news.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "failure",
+      "emotion"
+    ],
+    "note": "",
+    "verb": "break",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "bring up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to mention a topic in conversation",
+        "example": "He brought up an important issue.",
+        "labels": []
+      },
+      {
+        "text": "to care for a child until adulthood",
+        "example": "They brought up three children.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "conversation",
+      "family"
+    ],
+    "note": "",
+    "verb": "bring",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "call off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to cancel something planned",
+        "example": "They called off the match because of rain.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cancel",
+      "plans"
+    ],
+    "note": "",
+    "verb": "call",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "check in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to register arrival at a hotel, airport, or event",
+        "example": "We checked in at the hotel at three.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "arrival"
+    ],
+    "note": "",
+    "verb": "check",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "check out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave a hotel after paying",
+        "example": "We checked out before noon.",
+        "labels": []
+      },
+      {
+        "text": "to look at something to learn more about it",
+        "example": "Check out this new app.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "informal"
+    ],
+    "note": "",
+    "verb": "check",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "come across",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to find something by chance",
+        "example": "I came across an old photo in a drawer.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "discover",
+      "chance"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "across",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "cut down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to reduce the amount of something",
+        "example": "I am trying to cut down on sugar.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reduce",
+      "health"
+    ],
+    "note": "",
+    "verb": "cut",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "deal with",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to handle a problem or situation",
+        "example": "She knows how to deal with stress.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "handle",
+      "problem"
+    ],
+    "note": "",
+    "verb": "deal",
+    "particle": "with",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "depend on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to need something or be affected by it",
+        "example": "The plan depends on the weather.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "condition",
+      "need"
+    ],
+    "note": "",
+    "verb": "depend",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "dress up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to wear formal or special clothes",
+        "example": "We dressed up for the wedding.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "occasion"
+    ],
+    "note": "",
+    "verb": "dress",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "drop off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to take someone or something to a place and leave them there",
+        "example": "I can drop you off at school.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "transport",
+      "delivery"
+    ],
+    "note": "",
+    "verb": "drop",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "eat out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to eat at a restaurant instead of at home",
+        "example": "We eat out once a week.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "food",
+      "social"
+    ],
+    "note": "",
+    "verb": "eat",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "fall apart",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to break into pieces or stop working well",
+        "example": "The old chair fell apart.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "damage",
+      "failure"
+    ],
+    "note": "",
+    "verb": "fall",
+    "particle": "apart",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "figure out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to understand or solve something after thinking",
+        "example": "I figured out how to fix the error.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "solve",
+      "understand"
+    ],
+    "note": "",
+    "verb": "figure",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "get along",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to have a friendly relationship with someone",
+        "example": "My sister and I get along well.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relationship",
+      "friendly"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "along",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get back",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return to a place",
+        "example": "What time did you get back?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "movement"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "back",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to recover from an illness or difficult experience",
+        "example": "It took her weeks to get over the flu.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "recover",
+      "health"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "give back",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return something to its owner",
+        "example": "Please give back the book tomorrow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "object"
+    ],
+    "note": "",
+    "verb": "give",
+    "particle": "back",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "go ahead",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to begin or continue after permission or readiness",
+        "example": "Go ahead and start without me.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "permission",
+      "continue"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "ahead",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to continue happening or continue doing something",
+        "example": "The meeting went on for two hours.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "continue",
+      "time"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "hand in",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to give work or a document to someone in authority",
+        "example": "I handed in my assignment on time.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "school",
+      "submit"
+    ],
+    "note": "",
+    "verb": "hand",
+    "particle": "in",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "hang out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to spend time relaxing with people",
+        "example": "We like to hang out at the park.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social",
+      "leisure"
+    ],
+    "note": "",
+    "verb": "hang",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "hold on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to wait for a short time",
+        "example": "Hold on, I will check that for you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "wait",
+      "conversation"
+    ],
+    "note": "",
+    "verb": "hold",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "keep on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to continue doing something",
+        "example": "She kept on studying despite the noise.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "continue",
+      "persistence"
+    ],
+    "note": "",
+    "verb": "keep",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "look forward to",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to feel pleased about something that will happen",
+        "example": "I look forward to meeting you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anticipation",
+      "emotion"
+    ],
+    "note": "The object is a noun or -ing form.",
+    "verb": "look forward",
+    "particle": "to",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "make up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to invent a story or excuse",
+        "example": "He made up an excuse for being late.",
+        "labels": []
+      },
+      {
+        "text": "to become friendly again after an argument",
+        "example": "They argued but made up later.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "invent",
+      "relationship"
+    ],
+    "note": "",
+    "verb": "make",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "pay back",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return money that you borrowed",
+        "example": "I will pay you back next week.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "debt"
+    ],
+    "note": "",
+    "verb": "pay",
+    "particle": "back",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "point out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to draw attention to a fact or detail",
+        "example": "She pointed out a mistake in the report.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "attention",
+      "explain"
+    ],
+    "note": "",
+    "verb": "point",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "put off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to delay something until a later time",
+        "example": "They put off the meeting until Monday.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "delay",
+      "plans"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "put up with",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to tolerate something unpleasant",
+        "example": "I cannot put up with that noise.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "tolerance",
+      "difficulty"
+    ],
+    "note": "",
+    "verb": "put up",
+    "particle": "with",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "run into",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to meet someone unexpectedly",
+        "example": "I ran into an old friend downtown.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "meeting",
+      "chance"
+    ],
+    "note": "",
+    "verb": "run",
+    "particle": "into",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "show up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to arrive at a place",
+        "example": "He showed up late to the party.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "arrival",
+      "informal"
+    ],
+    "note": "",
+    "verb": "show",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "shut down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop operating, or make something stop operating",
+        "example": "The computer shut down suddenly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "stop",
+      "machine"
+    ],
+    "note": "",
+    "verb": "shut",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "take care of",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be responsible for someone or something",
+        "example": "Can you take care of the dog this weekend?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "care",
+      "responsibility"
+    ],
+    "note": "",
+    "verb": "take care",
+    "particle": "of",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "turn up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to increase volume, heat, or strength",
+        "example": "Turn up the music a little.",
+        "labels": []
+      },
+      {
+        "text": "to arrive or appear",
+        "example": "She turned up an hour late.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "increase",
+      "arrival"
+    ],
+    "note": "",
+    "verb": "turn",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "turn down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to reduce volume, heat, or strength",
+        "example": "Turn down the radio, please.",
+        "labels": []
+      },
+      {
+        "text": "to refuse an offer or request",
+        "example": "He turned down the job offer.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reduce",
+      "refuse"
+    ],
+    "note": "",
+    "verb": "turn",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "work out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to exercise for fitness",
+        "example": "I work out at the gym three times a week.",
+        "labels": []
+      },
+      {
+        "text": "to find a solution or understand something",
+        "example": "We worked out the problem together.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "exercise",
+      "solve"
+    ],
+    "note": "",
+    "verb": "work",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "ask around",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to ask several people for information or help",
+        "example": "I asked around, but nobody knew the answer.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "ask",
+      "information"
+    ],
+    "note": "",
+    "verb": "ask",
+    "particle": "around",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "back up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make a copy of data for safety",
+        "example": "Back up your files before updating.",
+        "labels": []
+      },
+      {
+        "text": "to support someone or something",
+        "example": "My colleague backed me up in the meeting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "support",
+      "data"
+    ],
+    "note": "",
+    "verb": "back",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "blow up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to explode or destroy by explosion",
+        "example": "The old building was blown up safely.",
+        "labels": []
+      },
+      {
+        "text": "to suddenly become very angry",
+        "example": "He blew up when he saw the mistake.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "explosion",
+      "anger"
+    ],
+    "note": "",
+    "verb": "blow",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "break in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to enter a place illegally by force",
+        "example": "Someone broke in through the window.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "crime",
+      "entry"
+    ],
+    "note": "",
+    "verb": "break",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "break up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to end a romantic relationship",
+        "example": "They broke up after two years.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relationship",
+      "end"
+    ],
+    "note": "",
+    "verb": "break",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "bring back",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return something to a place or person",
+        "example": "Bring back the library books tomorrow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "object"
+    ],
+    "note": "",
+    "verb": "bring",
+    "particle": "back",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "bring out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to release or produce a new product",
+        "example": "The company brought out a new phone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "release",
+      "product"
+    ],
+    "note": "",
+    "verb": "bring",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "brush up on",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to improve knowledge or skill you already learned",
+        "example": "I need to brush up on my Spanish before the trip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "study",
+      "improve"
+    ],
+    "note": "",
+    "verb": "brush up",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "bump into",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to meet someone by chance",
+        "example": "I bumped into my teacher at the supermarket.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "meeting",
+      "chance"
+    ],
+    "note": "",
+    "verb": "bump",
+    "particle": "into",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "burn out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become extremely tired from too much work or stress",
+        "example": "She burned out after months of overtime.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "stress",
+      "work"
+    ],
+    "note": "",
+    "verb": "burn",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "calm down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become less angry, upset, or excited",
+        "example": "Calm down and tell me what happened.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "relax"
+    ],
+    "note": "",
+    "verb": "calm",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "catch up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to reach the same level or progress as others",
+        "example": "I missed class, so I need to catch up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "progress",
+      "study"
+    ],
+    "note": "",
+    "verb": "catch",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "cheer up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become happier, or make someone happier",
+        "example": "This music always cheers me up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "happy"
+    ],
+    "note": "",
+    "verb": "cheer",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "clean up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make a place tidy and clean",
+        "example": "Let us clean up the kitchen after dinner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cleaning",
+      "home"
+    ],
+    "note": "",
+    "verb": "clean",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "come along",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to arrive or appear",
+        "example": "A taxi came along just in time.",
+        "labels": []
+      },
+      {
+        "text": "to go somewhere with someone",
+        "example": "Do you want to come along to the concert?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "arrival",
+      "invitation"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "along",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "come on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to encourage someone or express impatience",
+        "example": "Come on, we are going to be late!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "encouragement",
+      "speech"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "come over",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to visit someone at their home",
+        "example": "Come over for dinner tonight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "visit",
+      "social"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "count on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to rely on someone or something",
+        "example": "You can count on me for help.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "trust",
+      "rely"
+    ],
+    "note": "",
+    "verb": "count",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "cut off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop the supply of something",
+        "example": "The storm cut off the electricity.",
+        "labels": []
+      },
+      {
+        "text": "to interrupt someone while speaking",
+        "example": "She cut me off before I finished.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "stop",
+      "interrupt"
+    ],
+    "note": "",
+    "verb": "cut",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "do over",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "US",
+    "definitions": [
+      {
+        "text": "to do something again",
+        "example": "The teacher asked me to do the assignment over.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "repeat",
+      "work"
+    ],
+    "note": "",
+    "verb": "do",
+    "particle": "over",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "drop by",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to visit someone briefly and informally",
+        "example": "I will drop by your office this afternoon.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "visit",
+      "brief"
+    ],
+    "note": "",
+    "verb": "drop",
+    "particle": "by",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "end up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to finally be in a place or situation",
+        "example": "We ended up taking a taxi.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "result",
+      "final"
+    ],
+    "note": "",
+    "verb": "end",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "fall behind",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to fail to keep the same pace as others",
+        "example": "He fell behind in his studies.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "progress",
+      "delay"
+    ],
+    "note": "",
+    "verb": "fall",
+    "particle": "behind",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "fall through",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to fail to happen as planned",
+        "example": "Our holiday plans fell through.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "plans",
+      "failure"
+    ],
+    "note": "",
+    "verb": "fall",
+    "particle": "through",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get away",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to escape or leave a place",
+        "example": "The thief got away before the police arrived.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "escape",
+      "leave"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "away",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get by",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to manage to survive or do something with difficulty",
+        "example": "We can get by with less money this month.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "manage",
+      "survive"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "by",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to enter a car, taxi, or small vehicle",
+        "example": "Get in the car quickly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "enter",
+      "vehicle"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get off",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave a bus, train, plane, or bike",
+        "example": "We got off the bus at the next stop.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "leave",
+      "transport"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "off",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to enter a bus, train, plane, or bike",
+        "example": "She got on the train to London.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "enter",
+      "transport"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave a place or vehicle",
+        "example": "Get out of the car carefully.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "leave",
+      "exit"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get rid of",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to remove or throw away something unwanted",
+        "example": "I want to get rid of these old clothes.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "remove",
+      "discard"
+    ],
+    "note": "",
+    "verb": "get rid",
+    "particle": "of",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "give in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop resisting and agree to something",
+        "example": "After hours of arguing, he gave in.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "surrender",
+      "agree"
+    ],
+    "note": "",
+    "verb": "give",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make a sudden noise, such as an alarm",
+        "example": "The fire alarm went off at midnight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "alarm",
+      "sound"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "off",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to review or examine something carefully",
+        "example": "Let us go over the plan again.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "review",
+      "check"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "grow into",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become big enough for something",
+        "example": "He will grow into those shoes soon.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "growth",
+      "size"
+    ],
+    "note": "",
+    "verb": "grow",
+    "particle": "into",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "hand out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to give things to people in a group",
+        "example": "The teacher handed out the worksheets.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "distribute",
+      "give"
+    ],
+    "note": "",
+    "verb": "hand",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "hang up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to end a phone call",
+        "example": "She said goodbye and hung up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "phone",
+      "end"
+    ],
+    "note": "",
+    "verb": "hang",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "head out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave for a destination",
+        "example": "We should head out before traffic gets bad.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "leave",
+      "travel"
+    ],
+    "note": "",
+    "verb": "head",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "heat up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make food or something else warmer",
+        "example": "Heat up the soup for lunch.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cooking",
+      "warm"
+    ],
+    "note": "",
+    "verb": "heat",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "hold back",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop yourself from showing emotion or taking action",
+        "example": "She held back her tears.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "control",
+      "emotion"
+    ],
+    "note": "",
+    "verb": "hold",
+    "particle": "back",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "keep up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to continue at the same speed or level",
+        "example": "It was hard to keep up with the others.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "pace",
+      "continue"
+    ],
+    "note": "",
+    "verb": "keep",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "knock down",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to hit something so it falls to the ground",
+        "example": "The wind knocked down the fence.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "hit",
+      "fall"
+    ],
+    "note": "",
+    "verb": "knock",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "lay off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop employing someone, often for business reasons",
+        "example": "The company laid off 50 workers.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "work",
+      "employment"
+    ],
+    "note": "",
+    "verb": "lay",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "leave out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to not include someone or something",
+        "example": "Do not leave out any important details.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "exclude",
+      "omit"
+    ],
+    "note": "",
+    "verb": "leave",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "let down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to disappoint someone by not doing what was expected",
+        "example": "I felt I let my team down.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "disappoint",
+      "trust"
+    ],
+    "note": "",
+    "verb": "let",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "log in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to enter a computer system with a username and password",
+        "example": "Log in to your account to see the message.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "computer",
+      "access"
+    ],
+    "note": "",
+    "verb": "log",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "log out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave a computer system securely",
+        "example": "Remember to log out when you finish.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "computer",
+      "security"
+    ],
+    "note": "",
+    "verb": "log",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "look into",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to investigate or examine a matter",
+        "example": "The manager will look into the complaint.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "investigate",
+      "examine"
+    ],
+    "note": "",
+    "verb": "look",
+    "particle": "into",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "look out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to warn someone about danger",
+        "example": "Look out! There is a car coming.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "warning",
+      "danger"
+    ],
+    "note": "",
+    "verb": "look",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "make out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to see, hear, or understand something with difficulty",
+        "example": "I could not make out the sign in the fog.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "perceive",
+      "difficulty"
+    ],
+    "note": "",
+    "verb": "make",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "mix up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to confuse two or more things",
+        "example": "I always mix up their names.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "confuse",
+      "mistake"
+    ],
+    "note": "",
+    "verb": "mix",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "move in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to start living in a new home",
+        "example": "They moved in last weekend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "home",
+      "relocation"
+    ],
+    "note": "",
+    "verb": "move",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "move out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop living in a home",
+        "example": "He moved out of his apartment in June.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "home",
+      "relocation"
+    ],
+    "note": "",
+    "verb": "move",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "pass away",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "formal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to die; used as a polite expression",
+        "example": "Her grandfather passed away last year.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "death",
+      "polite"
+    ],
+    "note": "",
+    "verb": "pass",
+    "particle": "away",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "pass on",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to give information to another person",
+        "example": "Please pass on the message to Maria.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "communicate",
+      "share"
+    ],
+    "note": "",
+    "verb": "pass",
+    "particle": "on",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "pick out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to choose something from a group",
+        "example": "She picked out a blue dress.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "choose",
+      "select"
+    ],
+    "note": "",
+    "verb": "pick",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "plug in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to connect an electrical device to a power supply",
+        "example": "Plug in the charger before using the laptop.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "electricity",
+      "device"
+    ],
+    "note": "",
+    "verb": "plug",
+    "particle": "in",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "put away",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return something to its usual place",
+        "example": "Put away your toys after playing.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "tidy",
+      "home"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "away",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "put together",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to assemble or create something by joining parts",
+        "example": "We put together the new shelf.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "assemble",
+      "build"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "together",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "ring up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK",
+    "definitions": [
+      {
+        "text": "to call someone by telephone",
+        "example": "I will ring you up later.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "phone",
+      "call"
+    ],
+    "note": "",
+    "verb": "ring",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "rule out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to decide that something is not possible or not suitable",
+        "example": "The doctor ruled out an infection.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "decide",
+      "exclude"
+    ],
+    "note": "",
+    "verb": "rule",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "run away",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave a place quickly, often to escape",
+        "example": "The dog ran away from the garden.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "escape",
+      "movement"
+    ],
+    "note": "",
+    "verb": "run",
+    "particle": "away",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "set off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to begin a journey",
+        "example": "We set off early in the morning.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "start"
+    ],
+    "note": "",
+    "verb": "set",
+    "particle": "off",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "show off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to try to impress others by showing abilities or possessions",
+        "example": "He likes to show off his new car.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "behavior",
+      "impress"
+    ],
+    "note": "",
+    "verb": "show",
+    "particle": "off",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "slow down",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move or happen at a lower speed",
+        "example": "Slow down, the road is icy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "speed",
+      "movement"
+    ],
+    "note": "",
+    "verb": "slow",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "sort out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to organize something or solve a problem",
+        "example": "I need to sort out my files.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "organize",
+      "solve"
+    ],
+    "note": "",
+    "verb": "sort",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "speak up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to speak more loudly or clearly",
+        "example": "Please speak up so everyone can hear you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "speech",
+      "volume"
+    ],
+    "note": "",
+    "verb": "speak",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "speed up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move or happen faster",
+        "example": "We need to speed up the process.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "speed",
+      "increase"
+    ],
+    "note": "",
+    "verb": "speed",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "stand for",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to represent a word, idea, or organization",
+        "example": "UN stands for United Nations.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "meaning",
+      "represent"
+    ],
+    "note": "",
+    "verb": "stand",
+    "particle": "for",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "stay up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to go to bed later than usual",
+        "example": "I stayed up late to finish the movie.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "sleep",
+      "time"
+    ],
+    "note": "",
+    "verb": "stay",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "take after",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to resemble a family member in appearance or character",
+        "example": "She takes after her mother.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "family",
+      "resemblance"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "after",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "take back",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return something to a store or to the person who gave it",
+        "example": "I took the shirt back because it was too small.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "shopping"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "back",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "take over",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to gain control of something",
+        "example": "A new manager took over the department.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "control",
+      "change"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "take up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to begin a new hobby or activity",
+        "example": "I took up painting last year.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "hobby",
+      "start"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "talk over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to discuss something carefully",
+        "example": "We need to talk over the proposal.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "discuss",
+      "decision"
+    ],
+    "note": "",
+    "verb": "talk",
+    "particle": "over",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "tear up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to rip something into pieces",
+        "example": "He tore up the letter in anger.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "destroy",
+      "paper"
+    ],
+    "note": "",
+    "verb": "tear",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "think over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to consider something carefully before deciding",
+        "example": "I will think over your offer.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "consider",
+      "decision"
+    ],
+    "note": "",
+    "verb": "think",
+    "particle": "over",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "throw up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to vomit food from the stomach",
+        "example": "He felt sick and threw up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "health",
+      "illness"
+    ],
+    "note": "",
+    "verb": "throw",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "try on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to put on clothing to see if it fits or looks good",
+        "example": "Try on the jacket before you buy it.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "shopping"
+    ],
+    "note": "",
+    "verb": "try",
+    "particle": "on",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "turn around",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to face the opposite direction",
+        "example": "Turn around and look at the painting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "direction"
+    ],
+    "note": "",
+    "verb": "turn",
+    "particle": "around",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "use up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to use all of something until none remains",
+        "example": "We used up all the paper.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "consume",
+      "finish"
+    ],
+    "note": "",
+    "verb": "use",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "watch out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be careful because of possible danger",
+        "example": "Watch out for the wet floor.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "warning",
+      "care"
+    ],
+    "note": "",
+    "verb": "watch",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "wear out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become damaged through use, or make someone very tired",
+        "example": "These shoes wore out quickly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "damage",
+      "tired"
+    ],
+    "note": "",
+    "verb": "wear",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "work on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to spend time improving or creating something",
+        "example": "I am working on a new project.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "effort",
+      "project"
+    ],
+    "note": "",
+    "verb": "work",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "write up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to write a complete report or final version",
+        "example": "She wrote up the results of the experiment.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "writing",
+      "report"
+    ],
+    "note": "",
+    "verb": "write",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "add up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to calculate a total, or make sense",
+        "example": "The numbers do not add up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "math",
+      "logic"
+    ],
+    "note": "",
+    "verb": "add",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "back off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move away or stop pressuring someone",
+        "example": "He backed off when he saw she was upset.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "distance",
+      "pressure"
+    ],
+    "note": "",
+    "verb": "back",
+    "particle": "off",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "boil over",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to spill over the side while boiling, or become uncontrolled",
+        "example": "The milk boiled over on the stove.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cooking",
+      "overflow"
+    ],
+    "note": "",
+    "verb": "boil",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "break out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to start suddenly, often something unpleasant like war or fire",
+        "example": "A fire broke out in the kitchen.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "start",
+      "sudden"
+    ],
+    "note": "",
+    "verb": "break",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "bring about",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to cause something to happen",
+        "example": "The new policy brought about major changes.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cause",
+      "change"
+    ],
+    "note": "",
+    "verb": "bring",
+    "particle": "about",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "call back",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return a phone call",
+        "example": "I will call you back in ten minutes.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "phone",
+      "return"
+    ],
+    "note": "",
+    "verb": "call",
+    "particle": "back",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "check over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to examine something carefully for problems",
+        "example": "Check over your answers before submitting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "check",
+      "review"
+    ],
+    "note": "",
+    "verb": "check",
+    "particle": "over",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "come up with",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to think of an idea or plan",
+        "example": "She came up with a clever solution.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "idea",
+      "create"
+    ],
+    "note": "",
+    "verb": "come up",
+    "particle": "with",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "cut back on",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to reduce the amount or use of something",
+        "example": "We need to cut back on spending.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reduce",
+      "limit"
+    ],
+    "note": "",
+    "verb": "cut back",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "do without",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to manage even though something is missing",
+        "example": "We will have to do without sugar today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "manage",
+      "lack"
+    ],
+    "note": "",
+    "verb": "do",
+    "particle": "without",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "drop out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to leave a course or activity before finishing",
+        "example": "He dropped out of college after one year.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "education",
+      "leave"
+    ],
+    "note": "",
+    "verb": "drop",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "face up to",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to accept and deal with a difficult situation",
+        "example": "You need to face up to the problem.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "accept",
+      "courage"
+    ],
+    "note": "",
+    "verb": "face up",
+    "particle": "to",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get around",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to travel to different places",
+        "example": "It is easy to get around the city by bike.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "movement"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "around",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go through",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to experience something difficult",
+        "example": "She went through a hard time last year.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "experience",
+      "difficulty"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "through",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "keep away",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stay at a distance from something or someone",
+        "example": "Keep away from the edge of the cliff.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "safety",
+      "distance"
+    ],
+    "note": "",
+    "verb": "keep",
+    "particle": "away",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "let in",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to allow someone or something to enter",
+        "example": "She opened the window to let in fresh air.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "allow",
+      "enter"
+    ],
+    "note": "",
+    "verb": "let",
+    "particle": "in",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "look down on",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to think that someone is less important or worse than you",
+        "example": "You should not look down on others.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "attitude",
+      "disrespect"
+    ],
+    "note": "",
+    "verb": "look down",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "make do with",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to use what is available even if it is not ideal",
+        "example": "We made do with the tools we had.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "manage",
+      "limited"
+    ],
+    "note": "",
+    "verb": "make do",
+    "particle": "with",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "pass out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to lose consciousness for a short time",
+        "example": "He passed out in the heat.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "health",
+      "faint"
+    ],
+    "note": "",
+    "verb": "pass",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "put up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to raise something or attach it to a wall",
+        "example": "They put up a new sign.",
+        "labels": []
+      },
+      {
+        "text": "to provide temporary accommodation",
+        "example": "We can put you up for the night.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "raise",
+      "accommodation"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "run over",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to hit someone or something with a vehicle",
+        "example": "The car almost ran over the cyclist.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "accident",
+      "vehicle"
+    ],
+    "note": "",
+    "verb": "run",
+    "particle": "over",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "see off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to go to a station or airport to say goodbye to someone",
+        "example": "We went to the airport to see her off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "farewell",
+      "travel"
+    ],
+    "note": "",
+    "verb": "see",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "set aside",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to save something for a particular purpose",
+        "example": "She set aside money for the trip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "save",
+      "reserve"
+    ],
+    "note": "",
+    "verb": "set",
+    "particle": "aside",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "take in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to understand or absorb information",
+        "example": "It was a lot of information to take in.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "understand",
+      "absorb"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "in",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "turn into",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to change and become something different",
+        "example": "The caterpillar turned into a butterfly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "change",
+      "transform"
+    ],
+    "note": "",
+    "verb": "turn",
+    "particle": "into",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "watch over",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to protect or take care of someone or something",
+        "example": "The nurse watched over the patient.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "protect",
+      "care"
+    ],
+    "note": "",
+    "verb": "watch",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "wind up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to end up in a situation, often unexpectedly",
+        "example": "We wound up staying at home.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "result",
+      "end"
+    ],
+    "note": "",
+    "verb": "wind",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "wrap up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to finish or complete something",
+        "example": "Let us wrap up the meeting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "finish",
+      "meeting"
+    ],
+    "note": "",
+    "verb": "wrap",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "zoom in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make an image appear closer and larger",
+        "example": "Zoom in on the map to see the street names.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "image",
+      "digital"
+    ],
+    "note": "",
+    "verb": "zoom",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "zoom out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make an image appear farther away and smaller",
+        "example": "Zoom out to see the whole city.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "image",
+      "digital"
+    ],
+    "note": "",
+    "verb": "zoom",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "ask out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to invite someone to go on a date",
+        "example": "He asked her out for coffee.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "invitation"
+    ],
+    "note": "",
+    "verb": "ask",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "back away",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move backward to avoid danger or conflict",
+        "example": "The crowd backed away from the fire.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "retreat"
+    ],
+    "note": "",
+    "verb": "back",
+    "particle": "away",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "be after",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be trying to get or find something",
+        "example": "The police are after the suspect.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "search",
+      "pursue"
+    ],
+    "note": "",
+    "verb": "be",
+    "particle": "after",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "be over",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be finished",
+        "example": "The game is over.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "finish",
+      "end"
+    ],
+    "note": "",
+    "verb": "be",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "blow out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop a flame from burning by blowing air",
+        "example": "She blew out the candles.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "flame",
+      "action"
+    ],
+    "note": "",
+    "verb": "blow",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "break into",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to enter a building illegally",
+        "example": "Thieves broke into the shop.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "crime",
+      "entry"
+    ],
+    "note": "",
+    "verb": "break",
+    "particle": "into",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "bring along",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to take someone or something with you",
+        "example": "Bring along a friend to the event.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "bring",
+      "accompany"
+    ],
+    "note": "",
+    "verb": "bring",
+    "particle": "along",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "call up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to telephone someone",
+        "example": "I will call up the hotel to confirm.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "phone",
+      "contact"
+    ],
+    "note": "",
+    "verb": "call",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "catch on",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become popular or understood",
+        "example": "The new trend caught on quickly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "popular",
+      "understand"
+    ],
+    "note": "",
+    "verb": "catch",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "check off",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to mark an item as completed on a list",
+        "example": "Check off each task when you finish it.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "list",
+      "complete"
+    ],
+    "note": "",
+    "verb": "check",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "cheer on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to encourage someone with shouts or support",
+        "example": "The crowd cheered on the runners.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "support",
+      "encourage"
+    ],
+    "note": "",
+    "verb": "cheer",
+    "particle": "on",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "chip in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to contribute money or help",
+        "example": "Everyone chipped in for the gift.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contribute",
+      "group"
+    ],
+    "note": "",
+    "verb": "chip",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "close down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop operating permanently or temporarily",
+        "example": "The factory closed down last year.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "business",
+      "stop"
+    ],
+    "note": "",
+    "verb": "close",
+    "particle": "down",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "come down with",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to start to become ill with a disease",
+        "example": "I think I am coming down with a cold.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "illness",
+      "health"
+    ],
+    "note": "",
+    "verb": "come down",
+    "particle": "with",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "come from",
+    "pos": "phrasal verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to have a place as origin",
+        "example": "She comes from Italy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "origin",
+      "place"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "from",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "come up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to happen unexpectedly or be mentioned",
+        "example": "Something urgent came up at work.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "happen",
+      "unexpected"
+    ],
+    "note": "",
+    "verb": "come",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "cut out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to remove something by cutting",
+        "example": "Cut out the picture from the magazine.",
+        "labels": []
+      },
+      {
+        "text": "to stop doing something unhealthy",
+        "example": "You should cut out sugary drinks.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "remove",
+      "stop"
+    ],
+    "note": "",
+    "verb": "cut",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "die down",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become less strong or intense",
+        "example": "The wind died down in the evening.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "decrease",
+      "intensity"
+    ],
+    "note": "",
+    "verb": "die",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "do away with",
+    "pos": "phrasal verb",
+    "level": "C1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to remove or abolish something",
+        "example": "They did away with the old rule.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "abolish",
+      "remove"
+    ],
+    "note": "",
+    "verb": "do away",
+    "particle": "with",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "dress down",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to dress in casual clothes",
+        "example": "Employees can dress down on Fridays.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "casual"
+    ],
+    "note": "",
+    "verb": "dress",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "drop in",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to visit informally without planning",
+        "example": "Feel free to drop in anytime.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "visit",
+      "informal"
+    ],
+    "note": "",
+    "verb": "drop",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "fall for",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be deceived by something, or to fall in love",
+        "example": "He fell for the scam.",
+        "labels": []
+      },
+      {
+        "text": "to develop romantic feelings for someone",
+        "example": "She fell for him immediately.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "deceive",
+      "love"
+    ],
+    "note": "",
+    "verb": "fall",
+    "particle": "for",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "fill up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make something completely full",
+        "example": "Fill up the bottle with water.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "full",
+      "container"
+    ],
+    "note": "",
+    "verb": "fill",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "fit in",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to feel accepted in a group",
+        "example": "It took time to fit in at the new school.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "belong",
+      "social"
+    ],
+    "note": "",
+    "verb": "fit",
+    "particle": "in",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get across",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to communicate an idea clearly",
+        "example": "It was hard to get my point across.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "communicate",
+      "explain"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "across",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "get around to",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to finally do something after delay",
+        "example": "I will get around to fixing it later.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "delay",
+      "eventually"
+    ],
+    "note": "",
+    "verb": "get around",
+    "particle": "to",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move to a lower position",
+        "example": "Get down from that wall.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "down"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get through",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to complete something difficult or reach someone by phone",
+        "example": "I finally got through to customer service.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "complete",
+      "contact"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "through",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "get together",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to meet socially",
+        "example": "Let us get together this weekend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social",
+      "meet"
+    ],
+    "note": "",
+    "verb": "get",
+    "particle": "together",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "give away",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to give something for free or reveal a secret",
+        "example": "They gave away free samples.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "give",
+      "reveal"
+    ],
+    "note": "",
+    "verb": "give",
+    "particle": "away",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "give out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to distribute something to many people",
+        "example": "The teacher gave out the exam papers.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "distribute",
+      "give"
+    ],
+    "note": "",
+    "verb": "give",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "go by",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to pass in time",
+        "example": "The weeks went by quickly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "pass"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "by",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go down",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become lower in amount or level",
+        "example": "Prices went down last month.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "decrease",
+      "level"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "go up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to increase or rise",
+        "example": "The temperature went up today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "increase",
+      "rise"
+    ],
+    "note": "",
+    "verb": "go",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "grow apart",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to gradually become less close in a relationship",
+        "example": "They grew apart over the years.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relationship",
+      "distance"
+    ],
+    "note": "",
+    "verb": "grow",
+    "particle": "apart",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "hand over",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to give control or possession to someone else",
+        "example": "He handed over the keys to the new owner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "transfer",
+      "give"
+    ],
+    "note": "",
+    "verb": "hand",
+    "particle": "over",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "hang on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to wait or hold tightly",
+        "example": "Hang on a minute, please.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "wait",
+      "hold"
+    ],
+    "note": "",
+    "verb": "hang",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "have on",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be wearing something",
+        "example": "She had on a red dress.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "wear"
+    ],
+    "note": "",
+    "verb": "have",
+    "particle": "on",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "hear from",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to receive communication from someone",
+        "example": "I have not heard from him lately.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contact",
+      "communication"
+    ],
+    "note": "",
+    "verb": "hear",
+    "particle": "from",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "hit back",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to respond to an attack or criticism",
+        "example": "She hit back at the accusations.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "respond",
+      "defend"
+    ],
+    "note": "",
+    "verb": "hit",
+    "particle": "back",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "hold up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to delay something, or to rob using threats",
+        "example": "Traffic held us up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "delay",
+      "crime"
+    ],
+    "note": "",
+    "verb": "hold",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "keep out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to prevent someone or something from entering",
+        "example": "The fence keeps out wild animals.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "prevent",
+      "exclude"
+    ],
+    "note": "",
+    "verb": "keep",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "kick off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to begin, especially an event or match",
+        "example": "The concert kicks off at eight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "start",
+      "event"
+    ],
+    "note": "",
+    "verb": "kick",
+    "particle": "off",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "lay out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to arrange something clearly or spread it out",
+        "example": "She laid out the documents on the table.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "arrange",
+      "display"
+    ],
+    "note": "",
+    "verb": "lay",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "let go of",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop holding something",
+        "example": "Let go of the rope.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "release",
+      "hold"
+    ],
+    "note": "",
+    "verb": "let go",
+    "particle": "of",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "lie down",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to put your body in a flat resting position",
+        "example": "I need to lie down for a minute.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "rest",
+      "position"
+    ],
+    "note": "",
+    "verb": "lie",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "line up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to form a line or arrange things in a row",
+        "example": "The students lined up outside.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "arrange",
+      "row"
+    ],
+    "note": "",
+    "verb": "line",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "live on",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to have a particular food or amount of money as your support",
+        "example": "They live on a small pension.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "survive",
+      "money"
+    ],
+    "note": "",
+    "verb": "live",
+    "particle": "on",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "look around",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to explore or examine a place",
+        "example": "We looked around the museum.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "explore",
+      "see"
+    ],
+    "note": "",
+    "verb": "look",
+    "particle": "around",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "make for",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to move toward a place",
+        "example": "They made for the exit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "direction"
+    ],
+    "note": "",
+    "verb": "make",
+    "particle": "for",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "miss out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to lose an opportunity to experience something",
+        "example": "Do not miss out on this offer.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "opportunity",
+      "lose"
+    ],
+    "note": "",
+    "verb": "miss",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "open up",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to open something fully or become more willing to talk",
+        "example": "He opened up about his worries.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "open",
+      "emotion"
+    ],
+    "note": "",
+    "verb": "open",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "pay off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to finish paying a debt, or bring a good result",
+        "example": "All her hard work paid off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "debt",
+      "result"
+    ],
+    "note": "",
+    "verb": "pay",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "pull over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to drive to the side of the road and stop",
+        "example": "The police officer told him to pull over.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "driving",
+      "stop"
+    ],
+    "note": "",
+    "verb": "pull",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "put back",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to return something to where it was",
+        "example": "Put the book back on the shelf.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "return",
+      "place"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "back",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "put forward",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to suggest an idea or plan",
+        "example": "She put forward a new proposal.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "suggest",
+      "idea"
+    ],
+    "note": "",
+    "verb": "put",
+    "particle": "forward",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "run after",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to chase someone or something",
+        "example": "The dog ran after the ball.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chase",
+      "movement"
+    ],
+    "note": "",
+    "verb": "run",
+    "particle": "after",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "set out",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to start a journey or begin with a goal",
+        "example": "They set out at dawn.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "start",
+      "journey"
+    ],
+    "note": "",
+    "verb": "set",
+    "particle": "out",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "settle down",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to become calm or start a stable life",
+        "example": "They settled down in a small town.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "calm",
+      "life"
+    ],
+    "note": "",
+    "verb": "settle",
+    "particle": "down",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "show around",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to guide someone through a place",
+        "example": "She showed us around the office.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "guide",
+      "place"
+    ],
+    "note": "",
+    "verb": "show",
+    "particle": "around",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "shut up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "offensive",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to stop talking; very rude when said to someone",
+        "example": "He told them to shut up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "rude",
+      "silence"
+    ],
+    "note": "Can be very rude.",
+    "verb": "shut",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "sign up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to register for an activity or service",
+        "example": "I signed up for a cooking class.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "register",
+      "join"
+    ],
+    "note": "",
+    "verb": "sign",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "sit back",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to relax and not take action",
+        "example": "Just sit back and enjoy the show.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relax",
+      "rest"
+    ],
+    "note": "",
+    "verb": "sit",
+    "particle": "back",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "stand by",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be ready to help or wait for action",
+        "example": "Rescue teams are standing by.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "ready",
+      "support"
+    ],
+    "note": "",
+    "verb": "stand",
+    "particle": "by",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "start over",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to begin again from the beginning",
+        "example": "We had to start over after losing the file.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "restart",
+      "begin"
+    ],
+    "note": "",
+    "verb": "start",
+    "particle": "over",
+    "separable": false,
+    "stress": "particle"
+  },
+  {
+    "word": "take apart",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to separate something into pieces",
+        "example": "He took the machine apart to repair it.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "disassemble",
+      "repair"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "apart",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "take out",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to remove something from a place",
+        "example": "Take out your notebook.",
+        "labels": []
+      },
+      {
+        "text": "to go somewhere with someone socially",
+        "example": "He took her out for dinner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "remove",
+      "social"
+    ],
+    "note": "",
+    "verb": "take",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "tell off",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to speak angrily to someone for doing wrong",
+        "example": "The teacher told him off for being late.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "scold",
+      "anger"
+    ],
+    "note": "",
+    "verb": "tell",
+    "particle": "off",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "think up",
+    "pos": "phrasal verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to invent or imagine an idea",
+        "example": "They thought up a new game.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "invent",
+      "idea"
+    ],
+    "note": "",
+    "verb": "think",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "try out",
+    "pos": "phrasal verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to test something to see if it works or you like it",
+        "example": "Try out the new software.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "test",
+      "experiment"
+    ],
+    "note": "",
+    "verb": "try",
+    "particle": "out",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "warm up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to prepare for exercise or make something warmer",
+        "example": "Always warm up before running.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "exercise",
+      "heat"
+    ],
+    "note": "",
+    "verb": "warm",
+    "particle": "up",
+    "separable": true,
+    "stress": "particle"
+  },
+  {
+    "word": "wash up",
+    "pos": "phrasal verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK",
+    "definitions": [
+      {
+        "text": "to wash dishes after a meal",
+        "example": "I will wash up after dinner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cleaning",
+      "kitchen"
+    ],
+    "note": "",
+    "verb": "wash",
+    "particle": "up",
+    "separable": false,
+    "stress": "particle"
+  }
+]

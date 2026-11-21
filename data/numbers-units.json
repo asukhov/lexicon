@@ -1,0 +1,2268 @@
+{
+  "intro": "This reference explains how English expresses numbers, dates, times, and common measurement units. It also includes conversion factors for a built-in converter.",
+  "numberSections": [
+    {
+      "id": "cardinals",
+      "title": "Cardinal numbers",
+      "intro": "Cardinal numbers show how many things there are.",
+      "entries": [
+        {
+          "word": "zero",
+          "symbol": "0",
+          "ipa": "/ˈzɪərəʊ/",
+          "explanation": "the number 0; nothing",
+          "example": "The temperature fell to zero.",
+          "note": ""
+        },
+        {
+          "word": "one",
+          "symbol": "1",
+          "ipa": "/wʌn/",
+          "explanation": "the number 1",
+          "example": "I have one brother.",
+          "note": ""
+        },
+        {
+          "word": "two",
+          "symbol": "2",
+          "ipa": "/tuː/",
+          "explanation": "the number 2",
+          "example": "She bought two tickets.",
+          "note": ""
+        },
+        {
+          "word": "three",
+          "symbol": "3",
+          "ipa": "/θriː/",
+          "explanation": "the number 3",
+          "example": "There are three options.",
+          "note": ""
+        },
+        {
+          "word": "four",
+          "symbol": "4",
+          "ipa": "/fɔː/",
+          "explanation": "the number 4",
+          "example": "The table has four legs.",
+          "note": ""
+        },
+        {
+          "word": "five",
+          "symbol": "5",
+          "ipa": "/faɪv/",
+          "explanation": "the number 5",
+          "example": "I work five days a week.",
+          "note": ""
+        },
+        {
+          "word": "six",
+          "symbol": "6",
+          "ipa": "/sɪks/",
+          "explanation": "the number 6",
+          "example": "The lesson starts at six.",
+          "note": ""
+        },
+        {
+          "word": "seven",
+          "symbol": "7",
+          "ipa": "/ˈsevən/",
+          "explanation": "the number 7",
+          "example": "There are seven days in a week.",
+          "note": ""
+        },
+        {
+          "word": "eight",
+          "symbol": "8",
+          "ipa": "/eɪt/",
+          "explanation": "the number 8",
+          "example": "She slept for eight hours.",
+          "note": ""
+        },
+        {
+          "word": "nine",
+          "symbol": "9",
+          "ipa": "/naɪn/",
+          "explanation": "the number 9",
+          "example": "The shop closes at nine.",
+          "note": ""
+        },
+        {
+          "word": "ten",
+          "symbol": "10",
+          "ipa": "/ten/",
+          "explanation": "the number 10",
+          "example": "I counted to ten.",
+          "note": ""
+        },
+        {
+          "word": "eleven",
+          "symbol": "11",
+          "ipa": "/ɪˈlevən/",
+          "explanation": "the number 11",
+          "example": "There are eleven players on the team.",
+          "note": ""
+        },
+        {
+          "word": "twelve",
+          "symbol": "12",
+          "ipa": "/twelv/",
+          "explanation": "the number 12",
+          "example": "A dozen means twelve.",
+          "note": ""
+        },
+        {
+          "word": "thirteen",
+          "symbol": "13",
+          "ipa": "/ˌθɜːˈtiːn/",
+          "explanation": "the number 13",
+          "example": "He turned thirteen today.",
+          "note": ""
+        },
+        {
+          "word": "fourteen",
+          "symbol": "14",
+          "ipa": "/ˌfɔːˈtiːn/",
+          "explanation": "the number 14",
+          "example": "She waited fourteen days.",
+          "note": ""
+        },
+        {
+          "word": "fifteen",
+          "symbol": "15",
+          "ipa": "/ˌfɪfˈtiːn/",
+          "explanation": "the number 15",
+          "example": "The break lasts fifteen minutes.",
+          "note": ""
+        },
+        {
+          "word": "sixteen",
+          "symbol": "16",
+          "ipa": "/ˌsɪkˈstiːn/",
+          "explanation": "the number 16",
+          "example": "There are sixteen cups in a gallon.",
+          "note": "US liquid measure context."
+        },
+        {
+          "word": "seventeen",
+          "symbol": "17",
+          "ipa": "/ˌsevənˈtiːn/",
+          "explanation": "the number 17",
+          "example": "Seventeen students passed the exam.",
+          "note": ""
+        },
+        {
+          "word": "eighteen",
+          "symbol": "18",
+          "ipa": "/ˌeɪˈtiːn/",
+          "explanation": "the number 18",
+          "example": "You can vote at eighteen in many countries.",
+          "note": ""
+        },
+        {
+          "word": "nineteen",
+          "symbol": "19",
+          "ipa": "/ˌnaɪnˈtiːn/",
+          "explanation": "the number 19",
+          "example": "Nineteen people attended.",
+          "note": ""
+        },
+        {
+          "word": "twenty",
+          "symbol": "20",
+          "ipa": "/ˈtwenti/",
+          "explanation": "the number 20",
+          "example": "There are twenty chairs in the room.",
+          "note": ""
+        },
+        {
+          "word": "thirty",
+          "symbol": "30",
+          "ipa": "/ˈθɜːti/",
+          "explanation": "the number 30",
+          "example": "The room holds thirty people.",
+          "note": ""
+        },
+        {
+          "word": "forty",
+          "symbol": "40",
+          "ipa": "/ˈfɔːti/",
+          "explanation": "the number 40",
+          "example": "The room holds forty people.",
+          "note": ""
+        },
+        {
+          "word": "fifty",
+          "symbol": "50",
+          "ipa": "/ˈfɪfti/",
+          "explanation": "the number 50",
+          "example": "The room holds fifty people.",
+          "note": ""
+        },
+        {
+          "word": "sixty",
+          "symbol": "60",
+          "ipa": "/ˈsɪksti/",
+          "explanation": "the number 60",
+          "example": "The room holds sixty people.",
+          "note": ""
+        },
+        {
+          "word": "seventy",
+          "symbol": "70",
+          "ipa": "/ˈsevnti/",
+          "explanation": "the number 70",
+          "example": "The room holds seventy people.",
+          "note": ""
+        },
+        {
+          "word": "eighty",
+          "symbol": "80",
+          "ipa": "/ˈeɪti/",
+          "explanation": "the number 80",
+          "example": "The room holds eighty people.",
+          "note": ""
+        },
+        {
+          "word": "ninety",
+          "symbol": "90",
+          "ipa": "/ˈnaɪnti/",
+          "explanation": "the number 90",
+          "example": "The room holds ninety people.",
+          "note": ""
+        },
+        {
+          "word": "one hundred",
+          "symbol": "100",
+          "ipa": "/wʌn ˈhʌndrəd/",
+          "explanation": "the number 100",
+          "example": "The room holds one hundred people.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "ordinals",
+      "title": "Ordinal numbers",
+      "intro": "Ordinal numbers show position or order.",
+      "entries": [
+        {
+          "word": "first",
+          "symbol": "1st",
+          "ipa": "/fɜːst/",
+          "explanation": "the ordinal number for position 1st",
+          "example": "She finished in first place.",
+          "note": ""
+        },
+        {
+          "word": "second",
+          "symbol": "2nd",
+          "ipa": "/ˈsekənd/",
+          "explanation": "the ordinal number for position 2nd",
+          "example": "She finished in second place.",
+          "note": ""
+        },
+        {
+          "word": "third",
+          "symbol": "3rd",
+          "ipa": "/θɜːd/",
+          "explanation": "the ordinal number for position 3rd",
+          "example": "She finished in third place.",
+          "note": ""
+        },
+        {
+          "word": "fourth",
+          "symbol": "4th",
+          "ipa": "/fɔːθ/",
+          "explanation": "the ordinal number for position 4th",
+          "example": "She finished in fourth place.",
+          "note": ""
+        },
+        {
+          "word": "fifth",
+          "symbol": "5th",
+          "ipa": "/fɪfθ/",
+          "explanation": "the ordinal number for position 5th",
+          "example": "She finished in fifth place.",
+          "note": ""
+        },
+        {
+          "word": "sixth",
+          "symbol": "6th",
+          "ipa": "/sɪksθ/",
+          "explanation": "the ordinal number for position 6th",
+          "example": "She finished in sixth place.",
+          "note": ""
+        },
+        {
+          "word": "seventh",
+          "symbol": "7th",
+          "ipa": "/ˈsevənθ/",
+          "explanation": "the ordinal number for position 7th",
+          "example": "She finished in seventh place.",
+          "note": ""
+        },
+        {
+          "word": "eighth",
+          "symbol": "8th",
+          "ipa": "/eɪtθ/",
+          "explanation": "the ordinal number for position 8th",
+          "example": "She finished in eighth place.",
+          "note": ""
+        },
+        {
+          "word": "ninth",
+          "symbol": "9th",
+          "ipa": "/naɪnθ/",
+          "explanation": "the ordinal number for position 9th",
+          "example": "She finished in ninth place.",
+          "note": ""
+        },
+        {
+          "word": "tenth",
+          "symbol": "10th",
+          "ipa": "/tenθ/",
+          "explanation": "the ordinal number for position 10th",
+          "example": "She finished in tenth place.",
+          "note": ""
+        },
+        {
+          "word": "eleventh",
+          "symbol": "11th",
+          "ipa": "/ɪˈlevənθ/",
+          "explanation": "the ordinal number for position 11th",
+          "example": "She finished in eleventh place.",
+          "note": ""
+        },
+        {
+          "word": "twelfth",
+          "symbol": "12th",
+          "ipa": "/twelfθ/",
+          "explanation": "the ordinal number for position 12th",
+          "example": "She finished in twelfth place.",
+          "note": ""
+        },
+        {
+          "word": "thirteenth",
+          "symbol": "13th",
+          "ipa": "/ˌθɜːˈtiːnθ/",
+          "explanation": "the ordinal number for position 13th",
+          "example": "She finished in thirteenth place.",
+          "note": ""
+        },
+        {
+          "word": "twentieth",
+          "symbol": "20th",
+          "ipa": "/ˈtwentiəθ/",
+          "explanation": "the ordinal number for position 20th",
+          "example": "She finished in twentieth place.",
+          "note": ""
+        },
+        {
+          "word": "thirtieth",
+          "symbol": "30th",
+          "ipa": "/ˈθɜːtiəθ/",
+          "explanation": "the ordinal number for position 30th",
+          "example": "She finished in thirtieth place.",
+          "note": ""
+        },
+        {
+          "word": "hundredth",
+          "symbol": "100th",
+          "ipa": "/ˈhʌndrədθ/",
+          "explanation": "the ordinal number for position 100th",
+          "example": "She finished in hundredth place.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "large-numbers",
+      "title": "Large numbers",
+      "intro": "Large number names in modern short-scale English.",
+      "entries": [
+        {
+          "word": "hundred",
+          "symbol": "100",
+          "ipa": "/ˈhʌndrəd/",
+          "explanation": "ten times ten; 100",
+          "example": "About one hundred people attended.",
+          "note": ""
+        },
+        {
+          "word": "thousand",
+          "symbol": "1,000",
+          "ipa": "/ˈθaʊzənd/",
+          "explanation": "ten hundreds; 1,000",
+          "example": "The stadium holds several thousand fans.",
+          "note": ""
+        },
+        {
+          "word": "million",
+          "symbol": "1,000,000",
+          "ipa": "/ˈmɪljən/",
+          "explanation": "one thousand thousands; 1,000,000",
+          "example": "The city has over one million residents.",
+          "note": ""
+        },
+        {
+          "word": "billion",
+          "symbol": "1,000,000,000",
+          "ipa": "/ˈbɪljən/",
+          "explanation": "one thousand millions in short scale",
+          "example": "The company is worth two billion dollars.",
+          "note": "In modern English, billion usually means 1,000,000,000."
+        },
+        {
+          "word": "trillion",
+          "symbol": "1,000,000,000,000",
+          "ipa": "/ˈtrɪljən/",
+          "explanation": "one thousand billions in short scale",
+          "example": "The national debt reached one trillion.",
+          "note": "Short scale."
+        },
+        {
+          "word": "ten thousand",
+          "symbol": "10,000",
+          "ipa": "/ten ˈθaʊzənd/",
+          "explanation": "ten times one thousand",
+          "example": "The arena seats ten thousand people.",
+          "note": ""
+        },
+        {
+          "word": "hundred thousand",
+          "symbol": "100,000",
+          "ipa": "/ˈhʌndrəd ˈθaʊzənd/",
+          "explanation": "one hundred times one thousand",
+          "example": "The city has a hundred thousand residents.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "fractions-math",
+      "title": "Fractions, decimals, and math",
+      "intro": "Common ways to read fractions, decimals, percentages, and arithmetic.",
+      "entries": [
+        {
+          "word": "half",
+          "symbol": "1/2",
+          "ipa": "/hɑːf/",
+          "explanation": "one of two equal parts",
+          "example": "I ate half the apple.",
+          "note": ""
+        },
+        {
+          "word": "quarter",
+          "symbol": "1/4",
+          "ipa": "/ˈkwɔːtə/",
+          "explanation": "one of four equal parts",
+          "example": "A quarter of the class was absent.",
+          "note": ""
+        },
+        {
+          "word": "third",
+          "symbol": "1/3",
+          "ipa": "/θɜːd/",
+          "explanation": "one of three equal parts",
+          "example": "One third of the cake is left.",
+          "note": ""
+        },
+        {
+          "word": "decimal",
+          "symbol": "0.5",
+          "ipa": "/ˈdesɪməl/",
+          "explanation": "a number written with a decimal point",
+          "example": "Write 0.5 as a decimal.",
+          "note": ""
+        },
+        {
+          "word": "percent",
+          "symbol": "%",
+          "ipa": "/pəˈsent/",
+          "explanation": "a number out of one hundred",
+          "example": "About 20 percent of students were late.",
+          "note": ""
+        },
+        {
+          "word": "negative number",
+          "symbol": "-1",
+          "ipa": "/ˈneɡətɪv ˈnʌmbə/",
+          "explanation": "a number less than zero",
+          "example": "Minus five is a negative number.",
+          "note": ""
+        },
+        {
+          "word": "plus",
+          "symbol": "+",
+          "ipa": "/plʌs/",
+          "explanation": "the sign for addition",
+          "example": "Two plus three equals five.",
+          "note": ""
+        },
+        {
+          "word": "minus",
+          "symbol": "-",
+          "ipa": "/ˈmaɪnəs/",
+          "explanation": "the sign for subtraction or negative values",
+          "example": "Ten minus four equals six.",
+          "note": ""
+        },
+        {
+          "word": "times",
+          "symbol": "×",
+          "ipa": "/taɪmz/",
+          "explanation": "the sign or word for multiplication",
+          "example": "Three times four equals twelve.",
+          "note": ""
+        },
+        {
+          "word": "divided by",
+          "symbol": "÷",
+          "ipa": "/dɪˈvaɪdɪd baɪ/",
+          "explanation": "used to show division",
+          "example": "Twelve divided by three equals four.",
+          "note": ""
+        },
+        {
+          "word": "equals",
+          "symbol": "=",
+          "ipa": "/ˈiːkwəlz/",
+          "explanation": "shows that two amounts are the same",
+          "example": "Two plus two equals four.",
+          "note": ""
+        },
+        {
+          "word": "two thirds",
+          "symbol": "2/3",
+          "ipa": "/tuː θɜːdz/",
+          "explanation": "two of three equal parts",
+          "example": "Two thirds of the students agreed.",
+          "note": ""
+        },
+        {
+          "word": "three quarters",
+          "symbol": "3/4",
+          "ipa": "/θriː ˈkwɔːtəz/",
+          "explanation": "three of four equal parts",
+          "example": "Three quarters of the work is done.",
+          "note": ""
+        },
+        {
+          "word": "one and a half",
+          "symbol": "1.5",
+          "ipa": "/wʌn ənd ə hɑːf/",
+          "explanation": "one plus one half",
+          "example": "The walk took one and a half hours.",
+          "note": ""
+        },
+        {
+          "word": "percentage",
+          "symbol": "25%",
+          "ipa": "/pəˈsentɪdʒ/",
+          "explanation": "an amount expressed as part of 100",
+          "example": "The percentage of errors was low.",
+          "note": ""
+        },
+        {
+          "word": "ratio",
+          "symbol": "2:1",
+          "ipa": "/ˈreɪʃiəʊ/",
+          "explanation": "a comparison of two quantities",
+          "example": "Mix water and juice in a 2:1 ratio.",
+          "note": ""
+        },
+        {
+          "word": "square root",
+          "symbol": "√",
+          "ipa": "/skweə ruːt/",
+          "explanation": "a number that multiplies by itself to give another number",
+          "example": "The square root of nine is three.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "dates-time",
+      "title": "Dates, time, and Roman numerals",
+      "intro": "Common number formats for dates, time, and Roman numerals.",
+      "entries": [
+        {
+          "word": "Roman numerals",
+          "symbol": "I, V, X",
+          "ipa": "/ˌrəʊmən ˈnjuːmərəlz/",
+          "explanation": "letters used in an ancient number system",
+          "example": "The clock used Roman numerals.",
+          "note": "I=1, V=5, X=10, L=50, C=100, D=500, M=1000."
+        },
+        {
+          "word": "date",
+          "symbol": "21 November 2026",
+          "ipa": "/deɪt/",
+          "explanation": "a numbered day in a month and year",
+          "example": "The date today is 21 November 2026.",
+          "note": ""
+        },
+        {
+          "word": "time",
+          "symbol": "14:30",
+          "ipa": "/taɪm/",
+          "explanation": "the hour and minutes of the day",
+          "example": "The meeting starts at 14:30.",
+          "note": ""
+        },
+        {
+          "word": "a.m.",
+          "symbol": "08:00",
+          "ipa": "/ˌeɪ ˈem/",
+          "explanation": "before midday",
+          "example": "The train leaves at 8:00 a.m.",
+          "note": ""
+        },
+        {
+          "word": "p.m.",
+          "symbol": "20:00",
+          "ipa": "/ˌpiː ˈem/",
+          "explanation": "after midday",
+          "example": "The film starts at 8:00 p.m.",
+          "note": ""
+        },
+        {
+          "word": "noon",
+          "symbol": "12:00",
+          "ipa": "/nuːn/",
+          "explanation": "twelve o’clock in the middle of the day",
+          "example": "We will meet at noon.",
+          "note": ""
+        },
+        {
+          "word": "midnight",
+          "symbol": "00:00",
+          "ipa": "/ˈmɪdnaɪt/",
+          "explanation": "twelve o’clock at night",
+          "example": "The bus leaves at midnight.",
+          "note": ""
+        },
+        {
+          "word": "quarter past",
+          "symbol": "15",
+          "ipa": "/ˈkwɔːtə pɑːst/",
+          "explanation": "fifteen minutes after the hour",
+          "example": "It is quarter past six.",
+          "note": ""
+        },
+        {
+          "word": "quarter to",
+          "symbol": "45",
+          "ipa": "/ˈkwɔːtə tuː/",
+          "explanation": "fifteen minutes before the hour",
+          "example": "It is quarter to seven.",
+          "note": ""
+        },
+        {
+          "word": "half past",
+          "symbol": "30",
+          "ipa": "/hɑːf pɑːst/",
+          "explanation": "thirty minutes after the hour",
+          "example": "The class starts at half past nine.",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "unitSections": [
+    {
+      "id": "si-base",
+      "title": "SI base units",
+      "intro": "The seven base units of the International System of Units (SI).",
+      "entries": [
+        {
+          "name": "metre",
+          "symbol": "m",
+          "plural": "metres",
+          "quantity": "length",
+          "definition": "the SI base unit of length",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "m",
+          "example": "The room is four metres wide.",
+          "note": "American spelling: meter."
+        },
+        {
+          "name": "kilogram",
+          "symbol": "kg",
+          "plural": "kilograms",
+          "quantity": "mass",
+          "definition": "the SI base unit of mass",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "kg",
+          "example": "The bag weighs two kilograms.",
+          "note": ""
+        },
+        {
+          "name": "second",
+          "symbol": "s",
+          "plural": "seconds",
+          "quantity": "time",
+          "definition": "the SI base unit of time",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "s",
+          "example": "Wait for ten seconds.",
+          "note": ""
+        },
+        {
+          "name": "ampere",
+          "symbol": "A",
+          "plural": "amperes",
+          "quantity": "electric current",
+          "definition": "the SI base unit of electric current",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "A",
+          "example": "The charger supplies two amperes.",
+          "note": ""
+        },
+        {
+          "name": "kelvin",
+          "symbol": "K",
+          "plural": "kelvins",
+          "quantity": "temperature",
+          "definition": "the SI base unit of thermodynamic temperature",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "K",
+          "example": "Water freezes at 273.15 kelvins.",
+          "note": "Use offset conversion for Celsius/Fahrenheit."
+        },
+        {
+          "name": "mole",
+          "symbol": "mol",
+          "plural": "moles",
+          "quantity": "amount of substance",
+          "definition": "the SI base unit for amount of substance",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "mol",
+          "example": "One mole contains about 6.022e23 particles.",
+          "note": ""
+        },
+        {
+          "name": "candela",
+          "symbol": "cd",
+          "plural": "candelas",
+          "quantity": "luminous intensity",
+          "definition": "the SI base unit of luminous intensity",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "cd",
+          "example": "The lamp has a luminous intensity measured in candelas.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "si-derived",
+      "title": "Common SI derived units",
+      "intro": "Important SI derived units used in everyday science and technology.",
+      "entries": [
+        {
+          "name": "newton",
+          "symbol": "N",
+          "plural": "newtons",
+          "quantity": "force",
+          "definition": "the SI unit of force",
+          "relation": "1 kg*m/s^2",
+          "factor": 1,
+          "base": "N",
+          "example": "The force was measured in newtons.",
+          "note": ""
+        },
+        {
+          "name": "joule",
+          "symbol": "J",
+          "plural": "joules",
+          "quantity": "energy",
+          "definition": "the SI unit of energy and work",
+          "relation": "1 N*m",
+          "factor": 1,
+          "base": "J",
+          "example": "Food energy can be compared in joules.",
+          "note": ""
+        },
+        {
+          "name": "watt",
+          "symbol": "W",
+          "plural": "watts",
+          "quantity": "power",
+          "definition": "the SI unit of power",
+          "relation": "1 J/s",
+          "factor": 1,
+          "base": "W",
+          "example": "The bulb uses 10 watts.",
+          "note": ""
+        },
+        {
+          "name": "pascal",
+          "symbol": "Pa",
+          "plural": "pascals",
+          "quantity": "pressure",
+          "definition": "the SI unit of pressure",
+          "relation": "1 N/m^2",
+          "factor": 1,
+          "base": "Pa",
+          "example": "Tire pressure is often given in kilopascals.",
+          "note": ""
+        },
+        {
+          "name": "hertz",
+          "symbol": "Hz",
+          "plural": "hertz",
+          "quantity": "frequency",
+          "definition": "the SI unit of frequency",
+          "relation": "1 cycle per second",
+          "factor": 1,
+          "base": "Hz",
+          "example": "The note has a frequency of 440 hertz.",
+          "note": ""
+        },
+        {
+          "name": "volt",
+          "symbol": "V",
+          "plural": "volts",
+          "quantity": "voltage",
+          "definition": "the SI unit of electric potential difference",
+          "relation": "1 W/A",
+          "factor": 1,
+          "base": "V",
+          "example": "The battery provides 1.5 volts.",
+          "note": ""
+        },
+        {
+          "name": "degree Celsius",
+          "symbol": "°C",
+          "plural": "degrees Celsius",
+          "quantity": "temperature",
+          "definition": "a temperature scale used in most countries",
+          "relation": "K = °C + 273.15",
+          "factor": 1,
+          "base": "°C",
+          "example": "Water boils at 100 degrees Celsius.",
+          "note": "Conversion uses offset."
+        }
+      ]
+    },
+    {
+      "id": "si-prefixes",
+      "title": "SI prefixes",
+      "intro": "Prefixes that scale SI units by powers of ten.",
+      "entries": [
+        {
+          "name": "kilo",
+          "symbol": "k",
+          "plural": "kilo",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one thousand",
+          "relation": "10^3",
+          "factor": 1000,
+          "base": "base",
+          "example": "One kilometre is 1,000 metres.",
+          "note": "Applies to many units."
+        },
+        {
+          "name": "hecto",
+          "symbol": "h",
+          "plural": "hecto",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one hundred",
+          "relation": "10^2",
+          "factor": 100,
+          "base": "base",
+          "example": "A hectolitre is 100 litres.",
+          "note": ""
+        },
+        {
+          "name": "deca",
+          "symbol": "da",
+          "plural": "deca",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning ten",
+          "relation": "10^1",
+          "factor": 10,
+          "base": "base",
+          "example": "A decametre is 10 metres.",
+          "note": ""
+        },
+        {
+          "name": "deci",
+          "symbol": "d",
+          "plural": "deci",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one tenth",
+          "relation": "10^-1",
+          "factor": 0.1,
+          "base": "base",
+          "example": "A decilitre is 0.1 litre.",
+          "note": ""
+        },
+        {
+          "name": "centi",
+          "symbol": "c",
+          "plural": "centi",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one hundredth",
+          "relation": "10^-2",
+          "factor": 0.01,
+          "base": "base",
+          "example": "A centimetre is 0.01 metre.",
+          "note": ""
+        },
+        {
+          "name": "milli",
+          "symbol": "m",
+          "plural": "milli",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one thousandth",
+          "relation": "10^-3",
+          "factor": 0.001,
+          "base": "base",
+          "example": "A milligram is 0.001 gram.",
+          "note": ""
+        },
+        {
+          "name": "micro",
+          "symbol": "µ",
+          "plural": "micro",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one millionth",
+          "relation": "10^-6",
+          "factor": 1e-06,
+          "base": "base",
+          "example": "A microsecond is one millionth of a second.",
+          "note": ""
+        },
+        {
+          "name": "mega",
+          "symbol": "M",
+          "plural": "mega",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one million",
+          "relation": "10^6",
+          "factor": 1000000,
+          "base": "base",
+          "example": "One megabyte is often used informally for digital size.",
+          "note": ""
+        },
+        {
+          "name": "giga",
+          "symbol": "G",
+          "plural": "giga",
+          "quantity": "SI prefix",
+          "definition": "a prefix meaning one billion",
+          "relation": "10^9",
+          "factor": 1000000000,
+          "base": "base",
+          "example": "A gigawatt is one billion watts.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "length",
+      "title": "Length units",
+      "intro": "Common metric, imperial, and nautical length units.",
+      "entries": [
+        {
+          "name": "kilometre",
+          "symbol": "km",
+          "plural": "kilometres",
+          "quantity": "length",
+          "definition": "a metric unit of length equal to 1,000 metres",
+          "relation": "1000 m",
+          "factor": 1000,
+          "base": "m",
+          "example": "The village is five kilometres away.",
+          "note": "AmE: kilometer."
+        },
+        {
+          "name": "centimetre",
+          "symbol": "cm",
+          "plural": "centimetres",
+          "quantity": "length",
+          "definition": "a metric unit of length equal to 0.01 metre",
+          "relation": "0.01 m",
+          "factor": 0.01,
+          "base": "m",
+          "example": "The book is 20 centimetres long.",
+          "note": "AmE: centimeter."
+        },
+        {
+          "name": "millimetre",
+          "symbol": "mm",
+          "plural": "millimetres",
+          "quantity": "length",
+          "definition": "a metric unit of length equal to 0.001 metre",
+          "relation": "0.001 m",
+          "factor": 0.001,
+          "base": "m",
+          "example": "The gap is two millimetres wide.",
+          "note": ""
+        },
+        {
+          "name": "mile",
+          "symbol": "mi",
+          "plural": "miles",
+          "quantity": "length",
+          "definition": "an imperial/US unit of length equal to 1,609.344 metres",
+          "relation": "1609.344 m",
+          "factor": 1609.344,
+          "base": "m",
+          "example": "The park is two miles away.",
+          "note": ""
+        },
+        {
+          "name": "yard",
+          "symbol": "yd",
+          "plural": "yards",
+          "quantity": "length",
+          "definition": "an imperial/US unit of length equal to 0.9144 metre",
+          "relation": "0.9144 m",
+          "factor": 0.9144,
+          "base": "m",
+          "example": "The fabric is three yards long.",
+          "note": ""
+        },
+        {
+          "name": "foot",
+          "symbol": "ft",
+          "plural": "feet",
+          "quantity": "length",
+          "definition": "an imperial/US unit of length equal to 0.3048 metre",
+          "relation": "0.3048 m",
+          "factor": 0.3048,
+          "base": "m",
+          "example": "He is six feet tall.",
+          "note": ""
+        },
+        {
+          "name": "inch",
+          "symbol": "in",
+          "plural": "inches",
+          "quantity": "length",
+          "definition": "an imperial/US unit of length equal to 0.0254 metre",
+          "relation": "0.0254 m",
+          "factor": 0.0254,
+          "base": "m",
+          "example": "The screen is 15 inches wide.",
+          "note": ""
+        },
+        {
+          "name": "nautical mile",
+          "symbol": "nmi",
+          "plural": "nautical miles",
+          "quantity": "length",
+          "definition": "a unit used in sea and air travel equal to 1,852 metres",
+          "relation": "1852 m",
+          "factor": 1852,
+          "base": "m",
+          "example": "The ship sailed 20 nautical miles.",
+          "note": ""
+        },
+        {
+          "name": "micrometre",
+          "symbol": "µm",
+          "plural": "micrometres",
+          "quantity": "length",
+          "definition": "a metric unit equal to one millionth of a metre",
+          "relation": "1e-6 m",
+          "factor": 1e-06,
+          "base": "m",
+          "example": "A human hair is about 70 micrometres thick.",
+          "note": ""
+        },
+        {
+          "name": "nanometre",
+          "symbol": "nm",
+          "plural": "nanometres",
+          "quantity": "length",
+          "definition": "a metric unit equal to one billionth of a metre",
+          "relation": "1e-9 m",
+          "factor": 1e-09,
+          "base": "m",
+          "example": "DNA is about two nanometres wide.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "mass",
+      "title": "Mass units",
+      "intro": "Common metric and imperial units of mass.",
+      "entries": [
+        {
+          "name": "gram",
+          "symbol": "g",
+          "plural": "grams",
+          "quantity": "mass",
+          "definition": "a metric unit of mass equal to 0.001 kilogram",
+          "relation": "0.001 kg",
+          "factor": 0.001,
+          "base": "kg",
+          "example": "Add 100 grams of flour.",
+          "note": ""
+        },
+        {
+          "name": "milligram",
+          "symbol": "mg",
+          "plural": "milligrams",
+          "quantity": "mass",
+          "definition": "a metric unit of mass equal to 0.000001 kilogram",
+          "relation": "1e-6 kg",
+          "factor": 1e-06,
+          "base": "kg",
+          "example": "The tablet contains 500 milligrams.",
+          "note": ""
+        },
+        {
+          "name": "tonne",
+          "symbol": "t",
+          "plural": "tonnes",
+          "quantity": "mass",
+          "definition": "a metric unit of mass equal to 1,000 kilograms",
+          "relation": "1000 kg",
+          "factor": 1000,
+          "base": "kg",
+          "example": "The truck carries two tonnes.",
+          "note": "Also called metric ton."
+        },
+        {
+          "name": "pound",
+          "symbol": "lb",
+          "plural": "pounds",
+          "quantity": "mass",
+          "definition": "an imperial/US unit of mass equal to 0.45359237 kilogram",
+          "relation": "0.45359237 kg",
+          "factor": 0.45359237,
+          "base": "kg",
+          "example": "The bag weighs five pounds.",
+          "note": ""
+        },
+        {
+          "name": "ounce",
+          "symbol": "oz",
+          "plural": "ounces",
+          "quantity": "mass",
+          "definition": "an imperial/US unit of mass equal to 0.028349523125 kilogram",
+          "relation": "0.028349523125 kg",
+          "factor": 0.028349523125,
+          "base": "kg",
+          "example": "Add two ounces of cheese.",
+          "note": ""
+        },
+        {
+          "name": "stone",
+          "symbol": "st",
+          "plural": "stone",
+          "quantity": "mass",
+          "definition": "a British unit of mass equal to 6.35029318 kilograms",
+          "relation": "14 lb",
+          "factor": 6.35029318,
+          "base": "kg",
+          "example": "He weighs eleven stone.",
+          "note": "Mostly UK."
+        },
+        {
+          "name": "carat",
+          "symbol": "ct",
+          "plural": "carats",
+          "quantity": "mass",
+          "definition": "a unit of mass used for gemstones, equal to 200 milligrams",
+          "relation": "0.0002 kg",
+          "factor": 0.0002,
+          "base": "kg",
+          "example": "The diamond weighs one carat.",
+          "note": ""
+        },
+        {
+          "name": "metric ton",
+          "symbol": "t",
+          "plural": "metric tons",
+          "quantity": "mass",
+          "definition": "another name for tonne, equal to 1,000 kilograms",
+          "relation": "1000 kg",
+          "factor": 1000,
+          "base": "kg",
+          "example": "The shipment weighed three metric tons.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "volume",
+      "title": "Volume and capacity",
+      "intro": "Common volume units for science, daily life, and cooking.",
+      "entries": [
+        {
+          "name": "litre",
+          "symbol": "L",
+          "plural": "litres",
+          "quantity": "volume",
+          "definition": "a metric unit of volume equal to 0.001 cubic metre",
+          "relation": "0.001 m^3",
+          "factor": 0.001,
+          "base": "m^3",
+          "example": "Buy one litre of milk.",
+          "note": "AmE: liter."
+        },
+        {
+          "name": "millilitre",
+          "symbol": "mL",
+          "plural": "millilitres",
+          "quantity": "volume",
+          "definition": "a metric unit of volume equal to 0.000001 cubic metre",
+          "relation": "1e-6 m^3",
+          "factor": 1e-06,
+          "base": "m^3",
+          "example": "Take 5 millilitres of syrup.",
+          "note": ""
+        },
+        {
+          "name": "cubic metre",
+          "symbol": "m³",
+          "plural": "cubic metres",
+          "quantity": "volume",
+          "definition": "the SI unit of volume",
+          "relation": "base derived unit",
+          "factor": 1,
+          "base": "m^3",
+          "example": "The tank holds two cubic metres.",
+          "note": ""
+        },
+        {
+          "name": "US gallon",
+          "symbol": "gal (US)",
+          "plural": "US gallons",
+          "quantity": "volume",
+          "definition": "a US unit of liquid volume equal to 3.785411784 litres",
+          "relation": "3.785411784 L",
+          "factor": 0.003785411784,
+          "base": "m^3",
+          "example": "The car uses a gallon of fuel.",
+          "note": "US liquid gallon."
+        },
+        {
+          "name": "UK gallon",
+          "symbol": "gal (UK)",
+          "plural": "UK gallons",
+          "quantity": "volume",
+          "definition": "a British unit of volume equal to 4.54609 litres",
+          "relation": "4.54609 L",
+          "factor": 0.00454609,
+          "base": "m^3",
+          "example": "The old recipe used a UK gallon.",
+          "note": "Imperial gallon."
+        },
+        {
+          "name": "pint",
+          "symbol": "pt",
+          "plural": "pints",
+          "quantity": "volume",
+          "definition": "a unit of volume; different in UK and US",
+          "relation": "UK 0.56826125 L / US 0.473176473 L",
+          "factor": 0.000473176473,
+          "base": "m^3",
+          "example": "He ordered a pint of juice.",
+          "note": "US pint used as default factor; see note."
+        },
+        {
+          "name": "cup",
+          "symbol": "cup",
+          "plural": "cups",
+          "quantity": "volume",
+          "definition": "a cooking volume measure, often 240 mL in US recipes",
+          "relation": "240 mL",
+          "factor": 0.00024,
+          "base": "m^3",
+          "example": "Add one cup of rice.",
+          "note": "Cooking measures vary."
+        },
+        {
+          "name": "tablespoon",
+          "symbol": "tbsp",
+          "plural": "tablespoons",
+          "quantity": "volume",
+          "definition": "a cooking measure equal to about 15 mL",
+          "relation": "15 mL",
+          "factor": 1.5e-05,
+          "base": "m^3",
+          "example": "Add one tablespoon of oil.",
+          "note": ""
+        },
+        {
+          "name": "teaspoon",
+          "symbol": "tsp",
+          "plural": "teaspoons",
+          "quantity": "volume",
+          "definition": "a cooking measure equal to about 5 mL",
+          "relation": "5 mL",
+          "factor": 5e-06,
+          "base": "m^3",
+          "example": "Add one teaspoon of salt.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "area",
+      "title": "Area units",
+      "intro": "Units used to measure surface area.",
+      "entries": [
+        {
+          "name": "square metre",
+          "symbol": "m²",
+          "plural": "square metres",
+          "quantity": "area",
+          "definition": "the SI unit of area",
+          "relation": "base derived unit",
+          "factor": 1,
+          "base": "m^2",
+          "example": "The apartment is 60 square metres.",
+          "note": ""
+        },
+        {
+          "name": "square kilometre",
+          "symbol": "km²",
+          "plural": "square kilometres",
+          "quantity": "area",
+          "definition": "an area equal to 1,000,000 square metres",
+          "relation": "1,000,000 m^2",
+          "factor": 1000000,
+          "base": "m^2",
+          "example": "The city covers 300 square kilometres.",
+          "note": ""
+        },
+        {
+          "name": "hectare",
+          "symbol": "ha",
+          "plural": "hectares",
+          "quantity": "area",
+          "definition": "an area equal to 10,000 square metres",
+          "relation": "10,000 m^2",
+          "factor": 10000,
+          "base": "m^2",
+          "example": "The farm has 20 hectares of land.",
+          "note": ""
+        },
+        {
+          "name": "acre",
+          "symbol": "ac",
+          "plural": "acres",
+          "quantity": "area",
+          "definition": "an imperial/US unit of area equal to 4,046.8564224 square metres",
+          "relation": "4046.8564224 m^2",
+          "factor": 4046.8564224,
+          "base": "m^2",
+          "example": "They bought five acres of land.",
+          "note": ""
+        },
+        {
+          "name": "square foot",
+          "symbol": "ft²",
+          "plural": "square feet",
+          "quantity": "area",
+          "definition": "an area equal to 0.09290304 square metre",
+          "relation": "0.09290304 m^2",
+          "factor": 0.09290304,
+          "base": "m^2",
+          "example": "The room is 120 square feet.",
+          "note": ""
+        },
+        {
+          "name": "square mile",
+          "symbol": "mi²",
+          "plural": "square miles",
+          "quantity": "area",
+          "definition": "an area equal to 2,589,988.110336 square metres",
+          "relation": "2,589,988.110336 m^2",
+          "factor": 2589988.110336,
+          "base": "m^2",
+          "example": "The island is 10 square miles.",
+          "note": ""
+        },
+        {
+          "name": "square inch",
+          "symbol": "in²",
+          "plural": "square inches",
+          "quantity": "area",
+          "definition": "an area equal to 0.00064516 square metre",
+          "relation": "0.00064516 m^2",
+          "factor": 0.00064516,
+          "base": "m^2",
+          "example": "The label is four square inches.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "speed",
+      "title": "Speed units",
+      "intro": "Units used to measure speed in transport and science.",
+      "entries": [
+        {
+          "name": "metre per second",
+          "symbol": "m/s",
+          "plural": "metres per second",
+          "quantity": "speed",
+          "definition": "the SI unit of speed",
+          "relation": "base derived unit",
+          "factor": 1,
+          "base": "m/s",
+          "example": "The runner moved at five metres per second.",
+          "note": ""
+        },
+        {
+          "name": "kilometre per hour",
+          "symbol": "km/h",
+          "plural": "kilometres per hour",
+          "quantity": "speed",
+          "definition": "a speed unit common in transport",
+          "relation": "1/3.6 m/s",
+          "factor": 0.2777777778,
+          "base": "m/s",
+          "example": "The speed limit is 50 kilometres per hour.",
+          "note": ""
+        },
+        {
+          "name": "mile per hour",
+          "symbol": "mph",
+          "plural": "miles per hour",
+          "quantity": "speed",
+          "definition": "an imperial/US speed unit",
+          "relation": "0.44704 m/s",
+          "factor": 0.44704,
+          "base": "m/s",
+          "example": "The car was going 60 miles per hour.",
+          "note": ""
+        },
+        {
+          "name": "knot",
+          "symbol": "kn",
+          "plural": "knots",
+          "quantity": "speed",
+          "definition": "a nautical speed unit equal to one nautical mile per hour",
+          "relation": "0.5144444444 m/s",
+          "factor": 0.5144444444,
+          "base": "m/s",
+          "example": "The boat traveled at 15 knots.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "time-units",
+      "title": "Time units",
+      "intro": "Common units for measuring time.",
+      "entries": [
+        {
+          "name": "minute",
+          "symbol": "min",
+          "plural": "minutes",
+          "quantity": "time",
+          "definition": "a unit of time equal to 60 seconds",
+          "relation": "60 s",
+          "factor": 60,
+          "base": "s",
+          "example": "The call lasted ten minutes.",
+          "note": ""
+        },
+        {
+          "name": "hour",
+          "symbol": "h",
+          "plural": "hours",
+          "quantity": "time",
+          "definition": "a unit of time equal to 60 minutes",
+          "relation": "3600 s",
+          "factor": 3600,
+          "base": "s",
+          "example": "I slept for eight hours.",
+          "note": ""
+        },
+        {
+          "name": "day",
+          "symbol": "d",
+          "plural": "days",
+          "quantity": "time",
+          "definition": "a unit of time equal to 24 hours",
+          "relation": "86400 s",
+          "factor": 86400,
+          "base": "s",
+          "example": "The trip took three days.",
+          "note": ""
+        },
+        {
+          "name": "week",
+          "symbol": "wk",
+          "plural": "weeks",
+          "quantity": "time",
+          "definition": "a unit of time equal to seven days",
+          "relation": "604800 s",
+          "factor": 604800,
+          "base": "s",
+          "example": "The course lasts six weeks.",
+          "note": ""
+        },
+        {
+          "name": "year",
+          "symbol": "yr",
+          "plural": "years",
+          "quantity": "time",
+          "definition": "a unit of time equal to about 365 days",
+          "relation": "31536000 s",
+          "factor": 31536000,
+          "base": "s",
+          "example": "She lived abroad for one year.",
+          "note": "Calendar year approximation."
+        }
+      ]
+    },
+    {
+      "id": "temperature",
+      "title": "Temperature units",
+      "intro": "Common temperature scales and conversion notes.",
+      "entries": [
+        {
+          "name": "degree Celsius",
+          "symbol": "°C",
+          "plural": "degrees Celsius",
+          "quantity": "temperature",
+          "definition": "a temperature scale where water freezes at 0 and boils at 100",
+          "relation": "offset formula",
+          "factor": 1,
+          "base": "°C",
+          "example": "It is 25 degrees Celsius today.",
+          "note": "C to F: (C*9/5)+32; C to K: C+273.15."
+        },
+        {
+          "name": "degree Fahrenheit",
+          "symbol": "°F",
+          "plural": "degrees Fahrenheit",
+          "quantity": "temperature",
+          "definition": "a temperature scale used mainly in the United States",
+          "relation": "offset formula",
+          "factor": 1,
+          "base": "°F",
+          "example": "It is 77 degrees Fahrenheit today.",
+          "note": "F to C: (F-32)*5/9."
+        },
+        {
+          "name": "kelvin",
+          "symbol": "K",
+          "plural": "kelvins",
+          "quantity": "temperature",
+          "definition": "an absolute temperature scale used in science",
+          "relation": "offset formula",
+          "factor": 1,
+          "base": "K",
+          "example": "Room temperature is about 293 kelvins.",
+          "note": "No degree symbol."
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "title": "Digital storage units",
+      "intro": "Units used for files, memory, and storage.",
+      "entries": [
+        {
+          "name": "bit",
+          "symbol": "b",
+          "plural": "bits",
+          "quantity": "digital information",
+          "definition": "the smallest unit of digital information",
+          "relation": "1/8 byte",
+          "factor": 0.125,
+          "base": "byte",
+          "example": "The flag uses one bit.",
+          "note": ""
+        },
+        {
+          "name": "byte",
+          "symbol": "B",
+          "plural": "bytes",
+          "quantity": "digital information",
+          "definition": "a unit of digital information equal to 8 bits",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "byte",
+          "example": "The file is 500 bytes.",
+          "note": ""
+        },
+        {
+          "name": "kilobyte",
+          "symbol": "KB",
+          "plural": "kilobytes",
+          "quantity": "digital information",
+          "definition": "about one thousand bytes; sometimes 1,024 bytes in binary use",
+          "relation": "1000 bytes",
+          "factor": 1000,
+          "base": "byte",
+          "example": "The text file is 20 kilobytes.",
+          "note": "Binary systems may use kibibyte (1024 bytes)."
+        },
+        {
+          "name": "megabyte",
+          "symbol": "MB",
+          "plural": "megabytes",
+          "quantity": "digital information",
+          "definition": "about one million bytes",
+          "relation": "1,000,000 bytes",
+          "factor": 1000000,
+          "base": "byte",
+          "example": "The photo is 5 megabytes.",
+          "note": ""
+        },
+        {
+          "name": "gigabyte",
+          "symbol": "GB",
+          "plural": "gigabytes",
+          "quantity": "digital information",
+          "definition": "about one billion bytes",
+          "relation": "1,000,000,000 bytes",
+          "factor": 1000000000,
+          "base": "byte",
+          "example": "The phone has 128 gigabytes of storage.",
+          "note": ""
+        },
+        {
+          "name": "terabyte",
+          "symbol": "TB",
+          "plural": "terabytes",
+          "quantity": "digital information",
+          "definition": "about one trillion bytes",
+          "relation": "1,000,000,000,000 bytes",
+          "factor": 1000000000000,
+          "base": "byte",
+          "example": "The drive stores two terabytes.",
+          "note": ""
+        },
+        {
+          "name": "kibibyte",
+          "symbol": "KiB",
+          "plural": "kibibytes",
+          "quantity": "digital information",
+          "definition": "a binary unit equal to 1,024 bytes",
+          "relation": "1024 bytes",
+          "factor": 1024,
+          "base": "byte",
+          "example": "The file size is shown as 4 kibibytes.",
+          "note": "Binary prefix."
+        },
+        {
+          "name": "mebibyte",
+          "symbol": "MiB",
+          "plural": "mebibytes",
+          "quantity": "digital information",
+          "definition": "a binary unit equal to 1,048,576 bytes",
+          "relation": "1024 KiB",
+          "factor": 1048576,
+          "base": "byte",
+          "example": "The image is 2 mebibytes.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "angle",
+      "title": "Angle units",
+      "intro": "Units used to measure angles and rotation.",
+      "entries": [
+        {
+          "name": "degree",
+          "symbol": "°",
+          "plural": "degrees",
+          "quantity": "angle",
+          "definition": "a unit of angle equal to 1/360 of a full turn",
+          "relation": "pi/180 rad",
+          "factor": 0.017453292519943295,
+          "base": "rad",
+          "example": "A right angle is 90 degrees.",
+          "note": ""
+        },
+        {
+          "name": "radian",
+          "symbol": "rad",
+          "plural": "radians",
+          "quantity": "angle",
+          "definition": "the SI unit of angle",
+          "relation": "base unit",
+          "factor": 1,
+          "base": "rad",
+          "example": "A full circle is 2 pi radians.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "energy",
+      "title": "Energy and power units",
+      "intro": "Common units for energy in science and daily life.",
+      "entries": [
+        {
+          "name": "calorie",
+          "symbol": "cal",
+          "plural": "calories",
+          "quantity": "energy",
+          "definition": "a small unit of energy; in food, kilocalories are often called calories",
+          "relation": "4.184 J",
+          "factor": 4.184,
+          "base": "J",
+          "example": "The label shows energy in calories.",
+          "note": "Food labels may mean kcal."
+        },
+        {
+          "name": "kilocalorie",
+          "symbol": "kcal",
+          "plural": "kilocalories",
+          "quantity": "energy",
+          "definition": "a unit of energy equal to 1,000 calories",
+          "relation": "4184 J",
+          "factor": 4184,
+          "base": "J",
+          "example": "The meal contains 600 kilocalories.",
+          "note": ""
+        },
+        {
+          "name": "kilowatt-hour",
+          "symbol": "kWh",
+          "plural": "kilowatt-hours",
+          "quantity": "energy",
+          "definition": "a unit of energy used for electricity bills",
+          "relation": "3,600,000 J",
+          "factor": 3600000,
+          "base": "J",
+          "example": "The house used 300 kilowatt-hours this month.",
+          "note": ""
+        },
+        {
+          "name": "electronvolt",
+          "symbol": "eV",
+          "plural": "electronvolts",
+          "quantity": "energy",
+          "definition": "a very small energy unit used in physics",
+          "relation": "1.602176634e-19 J",
+          "factor": 1.602176634e-19,
+          "base": "J",
+          "example": "Particle energies are measured in electronvolts.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "pressure",
+      "title": "Pressure units",
+      "intro": "Units used for air, tires, and scientific pressure.",
+      "entries": [
+        {
+          "name": "bar",
+          "symbol": "bar",
+          "plural": "bars",
+          "quantity": "pressure",
+          "definition": "a metric pressure unit equal to 100,000 pascals",
+          "relation": "100000 Pa",
+          "factor": 100000,
+          "base": "Pa",
+          "example": "The tire pressure was 2.2 bar.",
+          "note": ""
+        },
+        {
+          "name": "pounds per square inch",
+          "symbol": "psi",
+          "plural": "pounds per square inch",
+          "quantity": "pressure",
+          "definition": "an imperial/US pressure unit",
+          "relation": "6894.757293168 Pa",
+          "factor": 6894.757293168,
+          "base": "Pa",
+          "example": "The tire pressure is 32 psi.",
+          "note": ""
+        },
+        {
+          "name": "atmosphere",
+          "symbol": "atm",
+          "plural": "atmospheres",
+          "quantity": "pressure",
+          "definition": "a pressure unit close to average sea-level air pressure",
+          "relation": "101325 Pa",
+          "factor": 101325,
+          "base": "Pa",
+          "example": "Standard pressure is one atmosphere.",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cooking",
+      "title": "Cooking measures",
+      "intro": "Common measures used in recipes. Units vary by country.",
+      "entries": [
+        {
+          "name": "pinch",
+          "symbol": "pinch",
+          "plural": "pinches",
+          "quantity": "cooking volume",
+          "definition": "a very small amount held between finger and thumb",
+          "relation": "approximate",
+          "factor": 3e-07,
+          "base": "m^3",
+          "example": "Add a pinch of salt.",
+          "note": "Approximate measure."
+        },
+        {
+          "name": "dash",
+          "symbol": "dash",
+          "plural": "dashes",
+          "quantity": "cooking volume",
+          "definition": "a very small liquid amount",
+          "relation": "approximate",
+          "factor": 6e-07,
+          "base": "m^3",
+          "example": "Add a dash of vinegar.",
+          "note": ""
+        },
+        {
+          "name": "fluid ounce",
+          "symbol": "fl oz",
+          "plural": "fluid ounces",
+          "quantity": "volume",
+          "definition": "a liquid volume unit; US 29.5735 mL, UK 28.4131 mL",
+          "relation": "US 29.5735 mL",
+          "factor": 2.95735295625e-05,
+          "base": "m^3",
+          "example": "Add eight fluid ounces of water.",
+          "note": "US value used as default factor."
+        },
+        {
+          "name": "quart",
+          "symbol": "qt",
+          "plural": "quarts",
+          "quantity": "volume",
+          "definition": "a unit equal to two pints",
+          "relation": "US 0.946352946 L",
+          "factor": 0.000946352946,
+          "base": "m^3",
+          "example": "Buy a quart of milk.",
+          "note": "US quart default."
+        }
+      ]
+    },
+    {
+      "id": "astronomical-nautical",
+      "title": "Nautical and astronomical units",
+      "intro": "Units used for sea travel and space distances.",
+      "entries": [
+        {
+          "name": "fathom",
+          "symbol": "ftm",
+          "plural": "fathoms",
+          "quantity": "length",
+          "definition": "a nautical unit of depth equal to 1.8288 metres",
+          "relation": "6 ft",
+          "factor": 1.8288,
+          "base": "m",
+          "example": "The water was ten fathoms deep.",
+          "note": ""
+        },
+        {
+          "name": "league",
+          "symbol": "lea",
+          "plural": "leagues",
+          "quantity": "length",
+          "definition": "a historical distance unit, often about 4.828 kilometres",
+          "relation": "3 miles",
+          "factor": 4828.032,
+          "base": "m",
+          "example": "The ship was many leagues away.",
+          "note": "Historical/literary."
+        },
+        {
+          "name": "astronomical unit",
+          "symbol": "AU",
+          "plural": "astronomical units",
+          "quantity": "length",
+          "definition": "the average distance from Earth to the Sun",
+          "relation": "149,597,870,700 m",
+          "factor": 149597870700,
+          "base": "m",
+          "example": "Mars is about 1.5 astronomical units from the Sun.",
+          "note": ""
+        },
+        {
+          "name": "light-year",
+          "symbol": "ly",
+          "plural": "light-years",
+          "quantity": "length",
+          "definition": "the distance light travels in one year",
+          "relation": "9.4607e15 m",
+          "factor": 9460730472580800,
+          "base": "m",
+          "example": "The star is four light-years away.",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "conversions": {
+    "length": {
+      "base": "metre",
+      "units": [
+        {
+          "name": "millimetre",
+          "symbol": "mm",
+          "factor": 0.001
+        },
+        {
+          "name": "centimetre",
+          "symbol": "cm",
+          "factor": 0.01
+        },
+        {
+          "name": "metre",
+          "symbol": "m",
+          "factor": 1
+        },
+        {
+          "name": "kilometre",
+          "symbol": "km",
+          "factor": 1000
+        },
+        {
+          "name": "inch",
+          "symbol": "in",
+          "factor": 0.0254
+        },
+        {
+          "name": "foot",
+          "symbol": "ft",
+          "factor": 0.3048
+        },
+        {
+          "name": "yard",
+          "symbol": "yd",
+          "factor": 0.9144
+        },
+        {
+          "name": "mile",
+          "symbol": "mi",
+          "factor": 1609.344
+        },
+        {
+          "name": "nautical mile",
+          "symbol": "nmi",
+          "factor": 1852
+        }
+      ]
+    },
+    "mass": {
+      "base": "kilogram",
+      "units": [
+        {
+          "name": "milligram",
+          "symbol": "mg",
+          "factor": 1e-06
+        },
+        {
+          "name": "gram",
+          "symbol": "g",
+          "factor": 0.001
+        },
+        {
+          "name": "kilogram",
+          "symbol": "kg",
+          "factor": 1
+        },
+        {
+          "name": "tonne",
+          "symbol": "t",
+          "factor": 1000
+        },
+        {
+          "name": "ounce",
+          "symbol": "oz",
+          "factor": 0.028349523125
+        },
+        {
+          "name": "pound",
+          "symbol": "lb",
+          "factor": 0.45359237
+        },
+        {
+          "name": "stone",
+          "symbol": "st",
+          "factor": 6.35029318
+        }
+      ]
+    },
+    "volume": {
+      "base": "litre",
+      "units": [
+        {
+          "name": "millilitre",
+          "symbol": "mL",
+          "factor": 0.001
+        },
+        {
+          "name": "litre",
+          "symbol": "L",
+          "factor": 1
+        },
+        {
+          "name": "cubic metre",
+          "symbol": "m³",
+          "factor": 1000
+        },
+        {
+          "name": "teaspoon",
+          "symbol": "tsp",
+          "factor": 0.005
+        },
+        {
+          "name": "tablespoon",
+          "symbol": "tbsp",
+          "factor": 0.015
+        },
+        {
+          "name": "US cup",
+          "symbol": "cup",
+          "factor": 0.24
+        },
+        {
+          "name": "US pint",
+          "symbol": "pt (US)",
+          "factor": 0.473176473
+        },
+        {
+          "name": "UK pint",
+          "symbol": "pt (UK)",
+          "factor": 0.56826125
+        },
+        {
+          "name": "US gallon",
+          "symbol": "gal (US)",
+          "factor": 3.785411784
+        },
+        {
+          "name": "UK gallon",
+          "symbol": "gal (UK)",
+          "factor": 4.54609
+        }
+      ]
+    },
+    "area": {
+      "base": "square metre",
+      "units": [
+        {
+          "name": "square foot",
+          "symbol": "ft²",
+          "factor": 0.09290304
+        },
+        {
+          "name": "square metre",
+          "symbol": "m²",
+          "factor": 1
+        },
+        {
+          "name": "acre",
+          "symbol": "ac",
+          "factor": 4046.8564224
+        },
+        {
+          "name": "hectare",
+          "symbol": "ha",
+          "factor": 10000
+        },
+        {
+          "name": "square kilometre",
+          "symbol": "km²",
+          "factor": 1000000
+        }
+      ]
+    },
+    "speed": {
+      "base": "metre per second",
+      "units": [
+        {
+          "name": "metre per second",
+          "symbol": "m/s",
+          "factor": 1
+        },
+        {
+          "name": "kilometre per hour",
+          "symbol": "km/h",
+          "factor": 0.2777777778
+        },
+        {
+          "name": "mile per hour",
+          "symbol": "mph",
+          "factor": 0.44704
+        },
+        {
+          "name": "knot",
+          "symbol": "kn",
+          "factor": 0.5144444444
+        }
+      ]
+    },
+    "time": {
+      "base": "second",
+      "units": [
+        {
+          "name": "second",
+          "symbol": "s",
+          "factor": 1
+        },
+        {
+          "name": "minute",
+          "symbol": "min",
+          "factor": 60
+        },
+        {
+          "name": "hour",
+          "symbol": "h",
+          "factor": 3600
+        },
+        {
+          "name": "day",
+          "symbol": "d",
+          "factor": 86400
+        },
+        {
+          "name": "week",
+          "symbol": "wk",
+          "factor": 604800
+        }
+      ]
+    },
+    "digital": {
+      "base": "byte",
+      "units": [
+        {
+          "name": "bit",
+          "symbol": "b",
+          "factor": 0.125
+        },
+        {
+          "name": "byte",
+          "symbol": "B",
+          "factor": 1
+        },
+        {
+          "name": "kilobyte",
+          "symbol": "KB",
+          "factor": 1000
+        },
+        {
+          "name": "megabyte",
+          "symbol": "MB",
+          "factor": 1000000
+        },
+        {
+          "name": "gigabyte",
+          "symbol": "GB",
+          "factor": 1000000000
+        },
+        {
+          "name": "terabyte",
+          "symbol": "TB",
+          "factor": 1000000000000
+        }
+      ]
+    },
+    "angle": {
+      "base": "radian",
+      "units": [
+        {
+          "name": "degree",
+          "symbol": "°",
+          "factor": 0.017453292519943295
+        },
+        {
+          "name": "radian",
+          "symbol": "rad",
+          "factor": 1
+        }
+      ]
+    },
+    "temperature": {
+      "base": "celsius",
+      "units": [
+        {
+          "name": "Celsius",
+          "symbol": "°C",
+          "factor": 1
+        },
+        {
+          "name": "Fahrenheit",
+          "symbol": "°F",
+          "factor": 1
+        },
+        {
+          "name": "Kelvin",
+          "symbol": "K",
+          "factor": 1
+        }
+      ]
+    }
+  },
+  "phrases": [
+    {
+      "phrase": "a pair of",
+      "meaning": "two things used together",
+      "example": "I bought a pair of shoes."
+    },
+    {
+      "phrase": "a dozen",
+      "meaning": "twelve",
+      "example": "We need a dozen eggs."
+    },
+    {
+      "phrase": "half a dozen",
+      "meaning": "six",
+      "example": "She bought half a dozen rolls."
+    },
+    {
+      "phrase": "a couple of",
+      "meaning": "two, or a small number",
+      "example": "I will be there in a couple of minutes."
+    },
+    {
+      "phrase": "hundreds of",
+      "meaning": "a very large number",
+      "example": "Hundreds of people attended the festival."
+    },
+    {
+      "phrase": "point five",
+      "meaning": "0.5 in spoken form",
+      "example": "The answer is two point five."
+    },
+    {
+      "phrase": "twofold",
+      "meaning": "two times as much or as many",
+      "example": "Sales increased twofold."
+    },
+    {
+      "phrase": "one in ten",
+      "meaning": "one out of every ten",
+      "example": "One in ten people preferred the new design."
+    },
+    {
+      "phrase": "odd number",
+      "meaning": "a whole number not divisible by 2",
+      "example": "Three is an odd number."
+    },
+    {
+      "phrase": "even number",
+      "meaning": "a whole number divisible by 2",
+      "example": "Four is an even number."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+Lexicon — third-party notices
+
+This project is a self-contained static website. Its UI, packaging, build scripts,
+and original curated content were created for this repository. The dictionary
+data is assembled from the open sources listed below. Third-party copyrights
+remain with their respective owners.
+
+1) WordNet 3.0
+   - Source: Princeton WordNet, https://wordnet.princeton.edu/
+   - License: Princeton WordNet License (see WORDNET-LICENSE.txt)
+   - Use: broad English lemma coverage, definitions, examples, synonyms,
+     word classes, and fixed multiword expressions.
+
+2) Simple English Wiktionary
+   - Source: https://simple.wiktionary.org/
+   - Dump: https://dumps.wikimedia.org/simplewiktionary/
+   - License: Creative Commons Attribution-ShareAlike 4.0 International
+     (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+   - Use: learner-friendly definitions, examples, labels, and pronunciation
+     for common words.
+
+3) English Wiktionary
+   - Source: https://en.wiktionary.org/
+   - License: Creative Commons Attribution-ShareAlike 4.0 International
+     (CC BY-SA 4.0), https://creativecommons.org/licenses/by-sa/4.0/
+   - Use: idioms, proverbs, phrasal verbs, fixed phrases, definitions,
+     examples, forms, and IPA.
+
+4) Wiktextract / Kaikki.org English dictionary extracts
+   - Source: https://kaikki.org/dictionary/English/ and
+     https://github.com/tatuylonen/wiktextract
+   - Wiktextract software: MIT License.
+   - Extracted dictionary data: derived from English Wiktionary and therefore
+     distributed under CC BY-SA 4.0. Attribution to Wiktionary and Wiktextract.
+   - Use: machine-readable phrase, proverb, and prepositional-phrase entries,
+     including glosses, labels, forms, and IPA.
+   - Citation: Tatu Ylönen, "Wiktextract: Wiktionary as Machine-Readable
+     Structured Data", LREC 2022.
+
+5) CEFR-J Vocabulary Profile 1.5
+   - Source: https://github.com/openlanguageprofiles/olp-en-cefrj
+   - Terms: CEFR-J data may be used for research and commercial purposes with
+     citation; copyright belongs to the Tono Laboratory at TUFS.
+   - Use: CEFR level labels and vocabulary selection signals.
+
+6) Octanove Vocabulary Profile C1/C2 1.0
+   - Source: https://github.com/openlanguageprofiles/olp-en-cefrj
+   - License: CC BY-SA 4.0
+   - Use: C1/C2 level labels and vocabulary selection signals.
+
+7) Open IPA Dict (ipa-dict)
+   - Source: https://github.com/open-dict-data/ipa-dict
+   - License: MIT (see IPA-DICT-LICENSE.txt where included)
+   - Use: UK and US IPA transcriptions.
+
+8) eSpeak NG
+   - Source: https://github.com/espeak-ng/espeak-ng
+   - License: GNU General Public License v3.0.
+   - Use: build-time IPA generation for rare headwords that are absent from
+     the open pronunciation dictionaries. No eSpeak NG binary or data is
+     shipped with the website; only the generated IPA strings are included.
+     Entries using this fallback are marked "ipa_auto" in the data and note
+     the automatic pronunciation on the entry page.
+
+9) Inter typeface
+   - Source: https://rsms.me/inter/
+   - License: SIL Open Font License 1.1 (see OFL-Inter.txt)
+   - Use: local UI and text typeface.
+
+No proprietary dictionary text from Cambridge, Macmillan, Oxford, Longman,
+Merriam-Webster, or similar publishers was copied into this project.
+
+The dictionary data combines CC BY-SA 4.0 material. Redistribution of the
+data should retain attribution to the sources above and the CC BY-SA 4.0
+share-alike terms. The website code and original curation are provided as part
+of this repository.

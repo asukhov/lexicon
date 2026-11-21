@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f7f8">
+  <meta name="color-scheme" content="light">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="description" content="A self-contained English-to-English dictionary with a 3,000-word defining vocabulary, IPA, grammar codes, idioms, phrasal verbs, CEFR levels, slang, and reference sections.">
+  <title>Lexicon — English Dictionary</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-180.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preload" href="assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/styles.css?v=2026-11-22.7">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="wordmark" id="homeLink" href="#dictionary" aria-label="Lexicon home — go to the dictionary">
+        <span class="wordmark-name">lexicon</span><span class="wordmark-dot" aria-hidden="true">.</span>
+      </a>
+      <span class="wordmark-sub">English</span>
+      <div class="topbar-actions">
+        <button class="text-button" id="aboutButton" type="button">About</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="search-dock" id="searchDock">
+    <div class="search-dock-inner">
+      <form class="search-form" id="searchForm" role="search" autocomplete="off">
+        <label class="sr-only" for="searchInput">Search the dictionary</label>
+        <div class="search-field" id="searchField">
+          <input
+            id="searchInput"
+            class="search-input"
+            type="search"
+            name="q"
+            inputmode="search"
+            enterkeyhint="search"
+            spellcheck="false"
+            autocapitalize="none"
+            placeholder="Search words, phrases, wildcards…"
+            aria-describedby="searchHelp"
+          >
+          <button class="clear-button" id="clearButton" type="button" aria-label="Clear search" hidden>Clear</button>
+        </div>
+        <button class="search-submit" id="searchButton" type="submit">Search</button>
+      </form>
+      <p class="search-help" id="searchHelp">
+        <span>Wildcards: <code>*</code> any letters, <code>?</code> one letter.</span>
+        <button class="link-button" id="helpToggle" type="button" aria-expanded="false" aria-controls="searchExamples">Examples</button>
+        <span class="search-examples" id="searchExamples" hidden>
+          <button class="example-link" type="button" data-q="*tion">*tion</button>
+          <button class="example-link" type="button" data-q="col?r">col?r</button>
+          <button class="example-link" type="button" data-q="look*">look*</button>
+          <button class="example-link" type="button" data-q="in the nick of time">in the nick of time</button>
+        </span>
+      </p>
+    </div>
+    <nav class="section-nav" aria-label="Dictionary sections">
+      <div class="section-nav-inner" id="sectionNav" role="tablist" aria-label="Sections">
+        <button class="nav-tab active" id="tab-dictionary" role="tab" aria-selected="true" aria-controls="panel-dictionary" data-tab="dictionary" type="button">Dictionary</button>
+        <button class="nav-tab" id="tab-defining" role="tab" aria-selected="false" aria-controls="panel-defining" data-tab="defining" type="button">Defining 3,000</button>
+        <button class="nav-tab" id="tab-illustrated" role="tab" aria-selected="false" aria-controls="panel-illustrated" data-tab="illustrated" type="button">Illustrated</button>
+        <button class="nav-tab" id="tab-idioms" role="tab" aria-selected="false" aria-controls="panel-idioms" data-tab="idioms" type="button">Idioms</button>
+        <button class="nav-tab" id="tab-phrasal" role="tab" aria-selected="false" aria-controls="panel-phrasal" data-tab="phrasal" type="button">Phrasal verbs</button>
+        <button class="nav-tab" id="tab-b2" role="tab" aria-selected="false" aria-controls="panel-b2" data-tab="b2" type="button">B2</button>
+        <button class="nav-tab" id="tab-c1" role="tab" aria-selected="false" aria-controls="panel-c1" data-tab="c1" type="button">C1</button>
+        <button class="nav-tab" id="tab-c2" role="tab" aria-selected="false" aria-controls="panel-c2" data-tab="c2" type="button">C2</button>
+        <button class="nav-tab" id="tab-slang" role="tab" aria-selected="false" aria-controls="panel-slang" data-tab="slang" type="button">Slang</button>
+        <button class="nav-tab" id="tab-offensive" role="tab" aria-selected="false" aria-controls="panel-offensive" data-tab="offensive" type="button">Strong language</button>
+        <button class="nav-tab" id="tab-numbers" role="tab" aria-selected="false" aria-controls="panel-numbers" data-tab="numbers" type="button">Numbers &amp; units</button>
+        <button class="nav-tab" id="tab-pronunciation" role="tab" aria-selected="false" aria-controls="panel-pronunciation" data-tab="pronunciation" type="button">Pronunciation</button>
+        <button class="nav-tab" id="tab-grammar" role="tab" aria-selected="false" aria-controls="panel-grammar" data-tab="grammar" type="button">Grammar</button>
+      </div>
+    </nav>
+  </div>
+
+  <main id="main" class="main" tabindex="-1">
+    <section id="panel-dictionary" class="panel active" role="tabpanel" aria-labelledby="tab-dictionary" data-panel="dictionary"></section>
+    <section id="panel-defining" class="panel" role="tabpanel" aria-labelledby="tab-defining" data-panel="defining" hidden></section>
+    <section id="panel-illustrated" class="panel" role="tabpanel" aria-labelledby="tab-illustrated" data-panel="illustrated" hidden></section>
+    <section id="panel-idioms" class="panel" role="tabpanel" aria-labelledby="tab-idioms" data-panel="idioms" hidden></section>
+    <section id="panel-phrasal" class="panel" role="tabpanel" aria-labelledby="tab-phrasal" data-panel="phrasal" hidden></section>
+    <section id="panel-b2" class="panel" role="tabpanel" aria-labelledby="tab-b2" data-panel="b2" hidden></section>
+    <section id="panel-c1" class="panel" role="tabpanel" aria-labelledby="tab-c1" data-panel="c1" hidden></section>
+    <section id="panel-c2" class="panel" role="tabpanel" aria-labelledby="tab-c2" data-panel="c2" hidden></section>
+    <section id="panel-slang" class="panel" role="tabpanel" aria-labelledby="tab-slang" data-panel="slang" hidden></section>
+    <section id="panel-offensive" class="panel" role="tabpanel" aria-labelledby="tab-offensive" data-panel="offensive" hidden></section>
+    <section id="panel-numbers" class="panel" role="tabpanel" aria-labelledby="tab-numbers" data-panel="numbers" hidden></section>
+    <section id="panel-pronunciation" class="panel" role="tabpanel" aria-labelledby="tab-pronunciation" data-panel="pronunciation" hidden></section>
+    <section id="panel-grammar" class="panel" role="tabpanel" aria-labelledby="tab-grammar" data-panel="grammar" hidden></section>
+  </main>
+
+  <dialog class="about-dialog" id="aboutDialog" aria-labelledby="aboutTitle">
+    <div class="about-head">
+      <h2 id="aboutTitle">About Lexicon</h2>
+      <form method="dialog">
+        <button class="dialog-close" type="submit" aria-label="Close">Close</button>
+      </form>
+    </div>
+    <div class="about-body">
+      <p>A self-contained English-to-English dictionary. Every word, definition, diagram, font, and interface asset is stored in this repository. There are no analytics, trackers, or third-party requests at runtime.</p>
+      <p>The Grammar tab is a twelve-topic learner reference with 103 rules, comparison tables and a tense map. The Illustrated tab contains fourteen original SVG diagrams whose parts link back into the dictionary.</p>
+      <dl class="about-stats" id="aboutStats">
+        <div><dt>Entries</dt><dd>—</dd></div>
+        <div><dt>Idioms &amp; expressions</dt><dd>—</dd></div>
+        <div><dt>Defining vocabulary</dt><dd>—</dd></div>
+        <div><dt>IPA coverage</dt><dd>100%</dd></div>
+      </dl>
+      <h3>How the data is made</h3>
+      <p>Definitions and examples are assembled from open, learner-friendly sources, with WordNet supplying broad coverage and English Wiktionary supplying idioms, proverbs, and phrasal verbs. Pronunciation comes from the open IPA dictionary and CMU-derived data where available; rare headwords use an automatic eSpeak NG fallback, marked in the entry.</p>
+      <h3>Sources and licences</h3>
+      <ul class="about-sources">
+        <li>WordNet 3.0 — Princeton WordNet License</li>
+        <li>Simple English Wiktionary — CC BY-SA 4.0</li>
+        <li>English Wiktionary — CC BY-SA 4.0</li>
+        <li>CEFR-J Vocabulary Profile 1.5 and Octanove C1/C2 profile — attribution required</li>
+        <li>Open IPA Dict — MIT</li>
+        <li>Inter typeface — SIL Open Font License 1.1</li>
+        <li>eSpeak NG — GPLv3 (build-time pronunciation fallback only)</li>
+      </ul>
+      <p class="about-fine">This is an educational reference. Strong language is labelled and kept in a separate section. Slurs targeting protected groups are not included.</p>
+      <p class="about-meta" id="aboutMeta"></p>
+    </div>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+  <script src="assets/app.js?v=2026-11-22.7" defer></script>
+</body>
+</html>

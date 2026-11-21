@@ -1,0 +1,4923 @@
+[
+  {
+    "word": "cool",
+    "pos": "adjective",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very good, fashionable, or impressive",
+        "example": "That jacket looks cool.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "style"
+    ],
+    "note": ""
+  },
+  {
+    "word": "awesome",
+    "pos": "adjective",
+    "level": "A2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "extremely good or impressive",
+        "example": "The concert was awesome.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "excitement"
+    ],
+    "note": ""
+  },
+  {
+    "word": "chill",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "relaxed and easygoing",
+        "example": "He is a chill person to work with.",
+        "labels": []
+      },
+      {
+        "text": "to relax and spend time calmly",
+        "example": "We are just going to chill at home.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relaxed",
+      "mood"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hangry",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "irritable because of hunger",
+        "example": "I get hangry if I skip lunch.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "hunger"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ghost",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to suddenly stop replying to someone without explanation",
+        "example": "He ghosted me after our second date.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "communication",
+      "dating"
+    ],
+    "note": ""
+  },
+  {
+    "word": "salty",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "annoyed or bitter about something small",
+        "example": "She was salty after losing the game.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "annoyed"
+    ],
+    "note": ""
+  },
+  {
+    "word": "lit",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "exciting, lively, or very enjoyable",
+        "example": "The party was lit last night.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "party",
+      "exciting"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sick",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very impressive or excellent",
+        "example": "That skateboard trick was sick.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "impressive"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dope",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very good or stylish",
+        "example": "Those sneakers are dope.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "style"
+    ],
+    "note": ""
+  },
+  {
+    "word": "vibe",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "the mood or feeling of a place, person, or situation",
+        "example": "This cafe has a relaxed vibe.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mood",
+      "atmosphere"
+    ],
+    "note": ""
+  },
+  {
+    "word": "flex",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to show off something proudly",
+        "example": "He likes to flex his new watch.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "showing off",
+      "status"
+    ],
+    "note": ""
+  },
+  {
+    "word": "no cap",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to say you are telling the truth",
+        "example": "That was the best meal ever, no cap.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "truth",
+      "emphasis"
+    ],
+    "note": ""
+  },
+  {
+    "word": "slay",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to do something extremely well",
+        "example": "You slayed that presentation.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "success",
+      "praise"
+    ],
+    "note": ""
+  },
+  {
+    "word": "tea",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "interesting gossip or news",
+        "example": "Tell me the tea about what happened.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gossip",
+      "social"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shade",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a subtle insult or sign of disrespect",
+        "example": "She threw shade at his outfit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "subtle"
+    ],
+    "note": ""
+  },
+  {
+    "word": "GOAT",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person considered the greatest of all time",
+        "example": "Many fans call her the GOAT.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "praise",
+      "sports"
+    ],
+    "note": "Often written in capital letters."
+  },
+  {
+    "word": "binge",
+    "pos": "verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to watch, eat, or do a lot of something in one period",
+        "example": "We binged the whole series over the weekend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "media",
+      "excess"
+    ],
+    "note": ""
+  },
+  {
+    "word": "stan",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to be an extremely enthusiastic fan of someone or something",
+        "example": "I stan that band.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fan",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sus",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "suspicious or not to be trusted",
+        "example": "That message looks sus.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "suspicion",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "low-key",
+    "pos": "adverb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "quietly or moderately; not openly",
+        "example": "I low-key want to skip the party.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "degree",
+      "quiet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "high-key",
+    "pos": "adverb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "openly or very strongly",
+        "example": "I high-key love this song.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "degree",
+      "open"
+    ],
+    "note": ""
+  },
+  {
+    "word": "FOMO",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "fear of missing an enjoyable event or opportunity",
+        "example": "I felt FOMO when I saw their photos.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "social"
+    ],
+    "note": ""
+  },
+  {
+    "word": "YOLO",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "2010s",
+    "definitions": [
+      {
+        "text": "an expression meaning you should take a chance because life is short",
+        "example": "I booked the trip because YOLO.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "risk",
+      "motto"
+    ],
+    "note": ""
+  },
+  {
+    "word": "BRB",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used in messages to say you will return soon",
+        "example": "BRB, someone is at the door.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "abbreviation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "LOL",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used in messages to show laughter or amusement",
+        "example": "That meme made me LOL.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "laughter"
+    ],
+    "note": ""
+  },
+  {
+    "word": "OMG",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to express surprise, shock, or excitement",
+        "example": "OMG, I cannot believe it!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "surprise"
+    ],
+    "note": ""
+  },
+  {
+    "word": "DM",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a private message sent on social media",
+        "example": "Send me a DM with the details.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social media",
+      "message"
+    ],
+    "note": ""
+  },
+  {
+    "word": "selfie",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a photo you take of yourself",
+        "example": "She posted a selfie from the beach.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "photo",
+      "social media"
+    ],
+    "note": ""
+  },
+  {
+    "word": "vlog",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a video blog or personal video diary",
+        "example": "He uploads a travel vlog every week.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "video",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "meme",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a funny image, video, or phrase shared widely online",
+        "example": "That meme spread quickly online.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "humor"
+    ],
+    "note": ""
+  },
+  {
+    "word": "clickbait",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "online content designed to make people click by being exaggerated or misleading",
+        "example": "The headline was just clickbait.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "word": "troll",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person who posts upsetting or annoying messages online to provoke others",
+        "example": "Ignore that troll in the comments.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "behavior"
+    ],
+    "note": ""
+  },
+  {
+    "word": "spam",
+    "pos": "verb",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to send unwanted messages repeatedly",
+        "example": "Do not spam the group chat.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "messages"
+    ],
+    "note": ""
+  },
+  {
+    "word": "glitchy",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "not working smoothly because of small technical faults",
+        "example": "The app is glitchy today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "technology",
+      "problem"
+    ],
+    "note": ""
+  },
+  {
+    "word": "epic",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very impressive or memorable",
+        "example": "We had an epic road trip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "big"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fail",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "an embarrassing mistake or failure",
+        "example": "Forgetting my password was a fail.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mistake",
+      "humor"
+    ],
+    "note": ""
+  },
+  {
+    "word": "nerd",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "someone very interested in a technical or academic subject",
+        "example": "He is a computer nerd in the best way.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "identity",
+      "interests"
+    ],
+    "note": ""
+  },
+  {
+    "word": "geek out",
+    "pos": "verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to become very excited about a special interest",
+        "example": "I geek out over old cameras.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "enthusiasm",
+      "interest"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dude",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a casual word for a person, usually a man",
+        "example": "Hey dude, how are you?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "address",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "buddy",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a friend; also used casually to address someone",
+        "example": "Thanks, buddy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "friend",
+      "address"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bucks",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "dollars; money",
+        "example": "That ticket costs twenty bucks.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "currency"
+    ],
+    "note": ""
+  },
+  {
+    "word": "grand",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "one thousand units of money",
+        "example": "The laptop cost two grand.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "amount"
+    ],
+    "note": ""
+  },
+  {
+    "word": "quid",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "one pound in British money",
+        "example": "It was only five quid.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fiver",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a five-pound note or five pounds",
+        "example": "Can you lend me a fiver?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "tenner",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a ten-pound note or ten pounds",
+        "example": "I paid with a tenner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cheers",
+    "pos": "interjection",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "thank you, or used as a friendly goodbye",
+        "example": "Cheers for your help!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "thanks",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "mate",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a friend, or a friendly way to address someone",
+        "example": "Are you coming, mate?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "friend",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bloke",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a man",
+        "example": "That bloke at the counter was helpful.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "lass",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a girl or young woman",
+        "example": "The lass from next door plays football.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dodgy",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "suspicious, unreliable, or of poor quality",
+        "example": "That website looks dodgy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "suspicion",
+      "quality"
+    ],
+    "note": ""
+  },
+  {
+    "word": "skint",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "having no money left",
+        "example": "I am skint until payday.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "lack"
+    ],
+    "note": ""
+  },
+  {
+    "word": "knackered",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very tired or worn out",
+        "example": "I was knackered after the hike.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "tired",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "chuffed",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very pleased or proud",
+        "example": "She was chuffed with her exam results.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "happy",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "gutted",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very disappointed",
+        "example": "I was gutted when the concert was cancelled.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "disappointed",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bee’s knees",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "slang",
+    "region": "UK",
+    "era": "dated",
+    "definitions": [
+      {
+        "text": "something or someone considered excellent",
+        "example": "Back then, that car was the bee’s knees.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "old-fashioned"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cheeky",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "playfully rude or bold in a harmless way",
+        "example": "He made a cheeky comment.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "behavior",
+      "playful"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cuppa",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a cup of tea",
+        "example": "Fancy a cuppa?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "drink",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bog-standard",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "ordinary and not special",
+        "example": "It is just a bog-standard laptop.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "ordinary",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bonkers",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "crazy or very silly",
+        "example": "That idea sounds bonkers.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "crazy",
+      "informal"
+    ],
+    "note": ""
+  },
+  {
+    "word": "whinge",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to complain in an annoying way",
+        "example": "Stop whinging about the weather.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "complain",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "yob",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a rude, aggressive, and noisy young person",
+        "example": "A group of yobs were shouting in the street.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "negative"
+    ],
+    "note": ""
+  },
+  {
+    "word": "telly",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "television",
+        "example": "What is on the telly tonight?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "media",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "brolly",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "an umbrella",
+        "example": "Take a brolly; it might rain.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "weather",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "loo",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a toilet or bathroom",
+        "example": "Where is the loo?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "bathroom",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ace",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "excellent or very good",
+        "example": "You did an ace job.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "aggro",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "aggressive trouble or annoying behavior",
+        "example": "I do not want any aggro tonight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "trouble",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "arvo",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "afternoon",
+        "example": "See you this arvo.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "australian"
+    ],
+    "note": ""
+  },
+  {
+    "word": "brekkie",
+    "pos": "noun",
+    "level": "A2",
+    "register": "slang",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "breakfast",
+        "example": "We had brekkie at a cafe.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "food",
+      "australian"
+    ],
+    "note": ""
+  },
+  {
+    "word": "servo",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a service station where you buy fuel",
+        "example": "We stopped at the servo for petrol.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "australian"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ute",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a small truck with an open back",
+        "example": "He loaded the tools into his ute.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "vehicle",
+      "australian"
+    ],
+    "note": ""
+  },
+  {
+    "word": "thongs",
+    "pos": "noun",
+    "level": "B1",
+    "register": "slang",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "light sandals worn on the feet",
+        "example": "Wear thongs to the beach.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "australian"
+    ],
+    "note": "In American English, thongs usually means a different clothing item."
+  },
+  {
+    "word": "no worries",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "it is not a problem; you are welcome",
+        "example": "No worries, I can help.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "response",
+      "australian"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fair dinkum",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "slang",
+    "region": "AU",
+    "era": "dated",
+    "definitions": [
+      {
+        "text": "genuine or real; also used to express surprise",
+        "example": "Is that fair dinkum?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "authentic",
+      "australian"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sheila",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "AU",
+    "era": "dated",
+    "definitions": [
+      {
+        "text": "a woman or girl",
+        "example": "He said a sheila at the shop helped him.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "australian"
+    ],
+    "note": "Old-fashioned and can sound disrespectful."
+  },
+  {
+    "word": "bludger",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "AU",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a lazy person who avoids work",
+        "example": "Do not be a bludger; help clean up.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "negative"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bail",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to leave suddenly or cancel plans",
+        "example": "I am going to bail on the party.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "leave",
+      "plans"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cringe",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "embarrassing in a way that makes people uncomfortable",
+        "example": "That joke was cringe.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "embarrassment",
+      "reaction"
+    ],
+    "note": ""
+  },
+  {
+    "word": "woke",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "aware of social injustice and inequality",
+        "example": "The article discusses woke attitudes in media.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social",
+      "politics"
+    ],
+    "note": "Meaning and tone can vary by context."
+  },
+  {
+    "word": "basic",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "mainstream and lacking originality",
+        "example": "Calling her style basic was unfair.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "judgment",
+      "style"
+    ],
+    "note": ""
+  },
+  {
+    "word": "extra",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "overly dramatic or doing more than necessary",
+        "example": "He is being extra about a small mistake.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "behavior",
+      "dramatic"
+    ],
+    "note": ""
+  },
+  {
+    "word": "boujee",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "fancy or expensive in a showy way",
+        "example": "They stayed at a boujee hotel.",
+        "labels": []
+      }
+    ],
+    "variants": [
+      "bougie"
+    ],
+    "tags": [
+      "luxury",
+      "style"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ghosted",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "ignored after previous contact, especially in dating",
+        "example": "I felt ghosted after he stopped replying.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "communication"
+    ],
+    "note": ""
+  },
+  {
+    "word": "savage",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "harsh but funny or impressively bold",
+        "example": "That comeback was savage.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "humor",
+      "bold"
+    ],
+    "note": ""
+  },
+  {
+    "word": "glow-up",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a major positive change in appearance, confidence, or style",
+        "example": "Her glow-up after graduation was amazing.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "change",
+      "appearance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bestie",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a best friend",
+        "example": "I am going shopping with my bestie.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "friend",
+      "affection"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bro",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a male friend; also a casual address",
+        "example": "What’s up, bro?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "friend",
+      "address"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fam",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "close friends or family; people you feel close to",
+        "example": "Thanks for coming, fam.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "group",
+      "close"
+    ],
+    "note": ""
+  },
+  {
+    "word": "legit",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "real, genuine, or acceptable",
+        "example": "That website looks legit.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "authentic",
+      "approval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sketchy",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "suspicious or unsafe",
+        "example": "That dark alley feels sketchy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "suspicion",
+      "unsafe"
+    ],
+    "note": ""
+  },
+  {
+    "word": "grub",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "food",
+        "example": "Let us get some grub.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "food",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cash",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "money in coins or notes",
+        "example": "I paid in cash.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "payment"
+    ],
+    "note": ""
+  },
+  {
+    "word": "props",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "respect or praise for something well done",
+        "example": "Props to you for finishing the race.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "praise",
+      "respect"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hit up",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to contact someone, often casually",
+        "example": "Hit me up when you arrive.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contact",
+      "message"
+    ],
+    "note": ""
+  },
+  {
+    "word": "jacked",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very muscular",
+        "example": "He got jacked after months at the gym.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "body",
+      "fitness"
+    ],
+    "note": ""
+  },
+  {
+    "word": "amped",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very excited and energetic",
+        "example": "I am amped for the game tonight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "excited",
+      "energy"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bummer",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a disappointing or unpleasant situation",
+        "example": "It is a bummer that you cannot come.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "disappointment",
+      "reaction"
+    ],
+    "note": ""
+  },
+  {
+    "word": "crash",
+    "pos": "verb",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to sleep somewhere temporarily, or fall asleep quickly",
+        "example": "Can I crash at your place tonight?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "sleep",
+      "stay"
+    ],
+    "note": ""
+  },
+  {
+    "word": "diss",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to show disrespect by speaking badly about someone",
+        "example": "He dissed his teammate in the interview.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "insult",
+      "disrespect"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hyped",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very excited and full of anticipation",
+        "example": "Everyone was hyped for the final.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "excitement",
+      "anticipation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "kicks",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "shoes, especially sneakers",
+        "example": "Nice kicks!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "clothing",
+      "shoes"
+    ],
+    "note": ""
+  },
+  {
+    "word": "lame",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "uncool, boring, or disappointing",
+        "example": "That excuse sounds lame.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "disapproval",
+      "boring"
+    ],
+    "note": ""
+  },
+  {
+    "word": "rip-off",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "something that costs too much for its value",
+        "example": "That ticket price is a rip-off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "unfair"
+    ],
+    "note": ""
+  },
+  {
+    "word": "screw up",
+    "pos": "verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to make a serious mistake",
+        "example": "I screwed up the report.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mistake",
+      "error"
+    ],
+    "note": "Can be mild profanity in some contexts."
+  },
+  {
+    "word": "what’s up",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a casual greeting asking what is happening",
+        "example": "What’s up? How was your day?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "greeting",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "my bad",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to admit a small mistake",
+        "example": "My bad, I forgot to call you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "apology",
+      "mistake"
+    ],
+    "note": ""
+  },
+  {
+    "word": "for real",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to emphasize that something is true or serious",
+        "example": "Are you leaving for real?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "truth",
+      "emphasis"
+    ],
+    "note": ""
+  },
+  {
+    "word": "props to",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to give praise or credit to someone",
+        "example": "Props to the team for the win.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "praise",
+      "credit"
+    ],
+    "note": ""
+  },
+  {
+    "word": "call it a day",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to stop working for now",
+        "example": "We have done enough, let us call it a day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "work",
+      "finish"
+    ],
+    "note": ""
+  },
+  {
+    "word": "blow off steam",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to release stress or strong emotion",
+        "example": "I went for a run to blow off steam.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "stress",
+      "release"
+    ],
+    "note": ""
+  },
+  {
+    "word": "big deal",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "something important, or used sarcastically for something not important",
+        "example": "It is no big deal.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "importance",
+      "reaction"
+    ],
+    "note": ""
+  },
+  {
+    "word": "old school",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "traditional or from an earlier style or time",
+        "example": "He likes old school hip hop.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "style",
+      "retro"
+    ],
+    "note": ""
+  },
+  {
+    "word": "glued to",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "giving all your attention to something",
+        "example": "The kids were glued to the screen.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "attention",
+      "focus"
+    ],
+    "note": ""
+  },
+  {
+    "word": "freak out",
+    "pos": "verb",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to react with strong fear, anger, or excitement",
+        "example": "She freaked out when she saw the spider.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "reaction"
+    ],
+    "note": ""
+  },
+  {
+    "word": "chicken out",
+    "pos": "verb",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to decide not to do something because of fear",
+        "example": "I was going to sing, but I chickened out.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fear",
+      "avoid"
+    ],
+    "note": ""
+  },
+  {
+    "word": "zonked",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very tired or sleepy",
+        "example": "I was zonked after the long flight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "tired",
+      "sleep"
+    ],
+    "note": ""
+  },
+  {
+    "word": "stoked",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very excited and pleased",
+        "example": "I am stoked about the trip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "excited",
+      "happy"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bummed",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "sad or disappointed",
+        "example": "I was bummed that the game was cancelled.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "sad",
+      "disappointed"
+    ],
+    "note": ""
+  },
+  {
+    "word": "beat",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very tired",
+        "example": "I am beat after work.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "tired",
+      "exhausted"
+    ],
+    "note": ""
+  },
+  {
+    "word": "creep",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person whose behavior feels unpleasant or socially uncomfortable",
+        "example": "That guy was acting like a creep.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "negative"
+    ],
+    "note": ""
+  },
+  {
+    "word": "airhead",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person who seems silly or not thoughtful",
+        "example": "I forgot my keys again; I feel like an airhead.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "insult"
+    ],
+    "note": "Can be mildly insulting."
+  },
+  {
+    "word": "mooch",
+    "pos": "verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to get things from others without giving back",
+        "example": "He always tries to mooch snacks.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "take",
+      "negative"
+    ],
+    "note": ""
+  },
+  {
+    "word": "scam",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a dishonest plan to trick people for money or advantage",
+        "example": "That email was a scam.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fraud",
+      "dishonest"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hustle",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "energetic effort to achieve something, especially money or success",
+        "example": "Her side hustle became a business.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "work",
+      "effort"
+    ],
+    "note": ""
+  },
+  {
+    "word": "side hustle",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a job or project done in addition to main work",
+        "example": "He runs a side hustle selling prints online.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "work",
+      "money"
+    ],
+    "note": ""
+  },
+  {
+    "word": "brainy",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very intelligent",
+        "example": "Her brainy friend solved the puzzle quickly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "smart",
+      "person"
+    ],
+    "note": ""
+  },
+  {
+    "word": "wonky",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "not straight, stable, or working properly",
+        "example": "The table is wonky.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "broken",
+      "uneven"
+    ],
+    "note": ""
+  },
+  {
+    "word": "nutter",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person who behaves in a wild or foolish way",
+        "example": "He drove like a nutter.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "wild"
+    ],
+    "note": "Can be offensive depending on context."
+  },
+  {
+    "word": "gobsmacked",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "extremely surprised",
+        "example": "I was gobsmacked by the news.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "surprise",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "mug",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a foolish person who is easily tricked",
+        "example": "I felt like a mug for paying that price.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "person",
+      "foolish"
+    ],
+    "note": ""
+  },
+  {
+    "word": "snog",
+    "pos": "verb",
+    "level": "C1",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to kiss someone passionately",
+        "example": "They were snogging at the party.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "romance",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "naff",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "slang",
+    "region": "UK",
+    "era": "dated",
+    "definitions": [
+      {
+        "text": "uncool, cheap-looking, or of poor taste",
+        "example": "That decoration looks a bit naff.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "style",
+      "disapproval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "lush",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very good, pleasant, or attractive",
+        "example": "This cake is lush.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "british"
+    ],
+    "note": ""
+  },
+  {
+    "word": "yikes",
+    "pos": "interjection",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show surprise, worry, or embarrassment",
+        "example": "Yikes, I forgot the deadline.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reaction",
+      "surprise"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sheesh",
+    "pos": "interjection",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to express disbelief, annoyance, or surprise",
+        "example": "Sheesh, that was close.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reaction",
+      "emotion"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ASAP",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "as soon as possible",
+        "example": "Please send the file ASAP.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "abbreviation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "FYI",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to give information that may be useful",
+        "example": "FYI, the meeting moved to 3 p.m.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "information",
+      "abbreviation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "IRL",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "in real life, not online",
+        "example": "We finally met IRL.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "real life"
+    ],
+    "note": ""
+  },
+  {
+    "word": "TBH",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show you are speaking honestly",
+        "example": "TBH, I did not like the movie.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "honesty",
+      "chat"
+    ],
+    "note": ""
+  },
+  {
+    "word": "IDK",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used in messages to mean “I do not know”",
+        "example": "IDK where he went.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "abbreviation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "IMO",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show that something is your personal opinion",
+        "example": "IMO, the first book was better.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "opinion",
+      "chat"
+    ],
+    "note": ""
+  },
+  {
+    "word": "AFK",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "away from keyboard; temporarily not at the computer",
+        "example": "I am AFK for five minutes.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "gaming"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ICYMI",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "in case you missed it",
+        "example": "ICYMI, the schedule changed.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "information"
+    ],
+    "note": ""
+  },
+  {
+    "word": "SMH",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show disappointment or disbelief",
+        "example": "SMH, he forgot again.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reaction",
+      "disapproval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "NGL",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show honest or direct speech",
+        "example": "NGL, I expected better.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "honesty",
+      "chat"
+    ],
+    "note": ""
+  },
+  {
+    "word": "GOATed",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "extremely good; among the best",
+        "example": "That performance was GOATed.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "praise",
+      "excellent"
+    ],
+    "note": ""
+  },
+  {
+    "word": "based",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "confidently expressing an opinion without caring what others think",
+        "example": "People called his take based.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "opinion",
+      "internet"
+    ],
+    "note": "Meaning varies by online community."
+  },
+  {
+    "word": "mid",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "average or not impressive",
+        "example": "The movie was mid.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "disapproval",
+      "mediocre"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bussin",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very good, especially for food",
+        "example": "This pizza is bussin.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "food",
+      "approval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bet",
+    "pos": "interjection",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show agreement or confirmation",
+        "example": "Bet, I will see you there.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "agreement",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cap",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a lie or false statement",
+        "example": "That story is cap.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "truth",
+      "lie"
+    ],
+    "note": ""
+  },
+  {
+    "word": "drip",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "stylish clothing or appearance",
+        "example": "He has serious drip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fashion",
+      "style"
+    ],
+    "note": ""
+  },
+  {
+    "word": "finna",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "going to; about to",
+        "example": "I am finna leave now.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "intention",
+      "dialect"
+    ],
+    "note": ""
+  },
+  {
+    "word": "glow down",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a noticeable negative change in appearance or style",
+        "example": "People joked about his glow down, but it was mean.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "change",
+      "appearance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ick",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a sudden feeling of dislike or disgust toward someone",
+        "example": "I got the ick after that comment.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "dislike"
+    ],
+    "note": ""
+  },
+  {
+    "word": "main character",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "someone acting as if they are the center of attention",
+        "example": "She was in her main character mood today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "behavior",
+      "attention"
+    ],
+    "note": ""
+  },
+  {
+    "word": "receipts",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "proof or evidence, especially screenshots or messages",
+        "example": "She had receipts to back up her claim.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "proof",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "slaps",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "is very good, especially music",
+        "example": "This song slaps.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "music",
+      "approval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "snatched",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "looking very good, stylish, or well put together",
+        "example": "Her outfit is snatched.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "style",
+      "approval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "touch grass",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a humorous way to tell someone to spend time offline",
+        "example": "You need to touch grass after that argument.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "humor"
+    ],
+    "note": ""
+  },
+  {
+    "word": "vibe check",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a quick judgment of someone’s mood or the atmosphere",
+        "example": "This place passed the vibe check.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mood",
+      "assessment"
+    ],
+    "note": ""
+  },
+  {
+    "word": "yeet",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "2010s",
+    "definitions": [
+      {
+        "text": "to throw something with force and energy",
+        "example": "He yeeted the ball across the field.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "throw",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "rizz",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "charm or skill in attracting someone romantically",
+        "example": "He has rizz.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "charm"
+    ],
+    "note": ""
+  },
+  {
+    "word": "delulu",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "unrealistically hopeful or out of touch with reality",
+        "example": "Thinking he will reply instantly is delulu.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "humor",
+      "unrealistic"
+    ],
+    "note": ""
+  },
+  {
+    "word": "situationship",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a romantic relationship that is not clearly defined",
+        "example": "They are in a situationship.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "relationship"
+    ],
+    "note": ""
+  },
+  {
+    "word": "soft launch",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a subtle hint that you are dating someone, often on social media",
+        "example": "Posting their hand was a soft launch.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "social media"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hard launch",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a clear public announcement of a relationship",
+        "example": "They did a hard launch on Instagram.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "dating",
+      "social media"
+    ],
+    "note": ""
+  },
+  {
+    "word": "brain rot",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "low-quality online content that feels mentally numbing",
+        "example": "I watched too much brain rot last night.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "humor"
+    ],
+    "note": ""
+  },
+  {
+    "word": "corecore",
+    "pos": "noun",
+    "level": "C1",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "an internet aesthetic of fast-edited emotional video clips",
+        "example": "That corecore video was strangely moving.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "aesthetic"
+    ],
+    "note": ""
+  },
+  {
+    "word": "girlboss",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a woman seen as confidently successful or ambitious",
+        "example": "She built her company like a girlboss.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "success",
+      "woman"
+    ],
+    "note": "Can be sincere or ironic depending on context."
+  },
+  {
+    "word": "side-eye",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a look that shows doubt, disapproval, or suspicion",
+        "example": "I gave him side-eye for that comment.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reaction",
+      "disapproval"
+    ],
+    "note": ""
+  },
+  {
+    "word": "w",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a win or success",
+        "example": "Getting the ticket was a W.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "success",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "L",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a loss or failure",
+        "example": "Missing the bus was an L.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "failure",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "clap back",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to respond quickly and sharply to criticism",
+        "example": "She clapped back at the rude comment.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "response",
+      "conflict"
+    ],
+    "note": ""
+  },
+  {
+    "word": "drag",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to criticize someone harshly",
+        "example": "The comments dragged the movie.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "criticism",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "read",
+    "pos": "verb",
+    "level": "C1",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to criticize someone cleverly and sharply",
+        "example": "She read him for being late again.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "criticism",
+      "humor"
+    ],
+    "note": ""
+  },
+  {
+    "word": "squad",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a close group of friends",
+        "example": "I am meeting my squad tonight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "friends",
+      "group"
+    ],
+    "note": ""
+  },
+  {
+    "word": "homie",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a close friend",
+        "example": "He went to the game with his homies.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "friend",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "crib",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person’s home",
+        "example": "Come over to my crib later.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "home",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "whip",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a car",
+        "example": "That is a nice whip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "car",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bread",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "money",
+        "example": "He is trying to make more bread.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dough",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "money",
+        "example": "I need more dough for rent.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "moolah",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "UK/US",
+    "era": "dated",
+    "definitions": [
+      {
+        "text": "money",
+        "example": "That job pays good moolah.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "money",
+      "humorous"
+    ],
+    "note": ""
+  },
+  {
+    "word": "gig",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a job, especially a short or informal one",
+        "example": "I have a gig this weekend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "work",
+      "job"
+    ],
+    "note": ""
+  },
+  {
+    "word": "bomb",
+    "pos": "verb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to do very badly at something",
+        "example": "I bombed the interview.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "failure",
+      "performance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "flop",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "something that fails badly",
+        "example": "The movie was a flop.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "failure",
+      "media"
+    ],
+    "note": ""
+  },
+  {
+    "word": "solid",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "reliable or very good",
+        "example": "Thanks, that was solid advice.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "reliable"
+    ],
+    "note": ""
+  },
+  {
+    "word": "sketch",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a suspicious or strange situation",
+        "example": "That deal feels like a sketch.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "suspicion",
+      "situation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "shady",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "dishonest or suspicious",
+        "example": "That offer sounds shady.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "suspicion",
+      "dishonest"
+    ],
+    "note": ""
+  },
+  {
+    "word": "legitimately",
+    "pos": "adverb",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "really; truly (used for emphasis)",
+        "example": "I was legitimately surprised.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emphasis",
+      "truth"
+    ],
+    "note": ""
+  },
+  {
+    "word": "totes",
+    "pos": "adverb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "totally; completely",
+        "example": "I totes agree.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emphasis",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "obvi",
+    "pos": "adverb",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "obviously",
+        "example": "Obvi, I want pizza.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "obvious",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "adorbs",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very cute or adorable",
+        "example": "That puppy is adorbs.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "cute",
+      "casual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cray",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "2010s",
+    "definitions": [
+      {
+        "text": "crazy or wild",
+        "example": "That party was cray.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "wild",
+      "dated"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on fleek",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "2010s",
+    "definitions": [
+      {
+        "text": "perfectly done or looking very good",
+        "example": "Her eyebrows were on fleek.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "style",
+      "dated"
+    ],
+    "note": ""
+  },
+  {
+    "word": "throwback",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "something that reminds people of an earlier time",
+        "example": "That song is a throwback to my school days.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "nostalgia",
+      "memory"
+    ],
+    "note": ""
+  },
+  {
+    "word": "yass",
+    "pos": "interjection",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to show strong excitement or approval",
+        "example": "Yass, you got the job!",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "excitement"
+    ],
+    "note": ""
+  },
+  {
+    "word": "periodt",
+    "pos": "interjection",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "used to strongly end a statement and show no debate",
+        "example": "That is the best option, periodt.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emphasis",
+      "final"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dead",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "laughing very hard; used figuratively",
+        "example": "I am dead, that meme is hilarious.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "laughter",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "I can’t even",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "2010s",
+    "definitions": [
+      {
+        "text": "used when something is too funny, shocking, or overwhelming to respond to",
+        "example": "I can’t even with this video.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reaction",
+      "overwhelmed"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ship",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to want two people to be in a romantic relationship",
+        "example": "Fans ship those two characters.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fandom",
+      "romance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "canon",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "events or details officially accepted in a story",
+        "example": "That scene is not canon.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fandom",
+      "story"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fanfic",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a story written by fans using characters or settings from another work",
+        "example": "She wrote a fanfic about the show.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fandom",
+      "writing"
+    ],
+    "note": ""
+  },
+  {
+    "word": "spoiler",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "information that reveals an important part of a story",
+        "example": "Do not give me spoilers.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "media",
+      "story"
+    ],
+    "note": ""
+  },
+  {
+    "word": "nerf",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "gaming",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to make something weaker in a game",
+        "example": "The developers nerfed that character.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "balance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "buff",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "gaming",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to make something stronger in a game",
+        "example": "They buffed the weapon in the update.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "balance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "grind",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "gaming",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "repetitive effort needed to progress in a game or task",
+        "example": "Leveling up was a grind.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "effort"
+    ],
+    "note": ""
+  },
+  {
+    "word": "loot",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "gaming",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "items or rewards collected in a game",
+        "example": "We found rare loot in the chest.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "reward"
+    ],
+    "note": ""
+  },
+  {
+    "word": "noob",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "gaming",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a beginner, especially one who lacks skill",
+        "example": "I am still a noob at this game.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "beginner"
+    ],
+    "note": ""
+  },
+  {
+    "word": "GG",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "gaming",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "good game; said at the end of a match",
+        "example": "GG, that was close.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "sportsmanship"
+    ],
+    "note": ""
+  },
+  {
+    "word": "rekt",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "gaming",
+    "era": "2010s",
+    "definitions": [
+      {
+        "text": "completely defeated or badly beaten",
+        "example": "We got rekt in that match.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "gaming",
+      "defeat"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cheesy",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "UK/US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "cheap, silly, or overly sentimental",
+        "example": "The movie had a cheesy ending.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "style",
+      "silly"
+    ],
+    "note": ""
+  },
+  {
+    "word": "corny",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "old-fashioned, silly, or not cool",
+        "example": "That joke was corny.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "humor",
+      "uncool"
+    ],
+    "note": ""
+  },
+  {
+    "word": "janky",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "of poor quality or not working well",
+        "example": "The app feels janky on my phone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quality",
+      "broken"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ratchet",
+    "pos": "adjective",
+    "level": "C1",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "messy, chaotic, or low-class in a harsh slang sense",
+        "example": "They called the party ratchet.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "judgment",
+      "negative"
+    ],
+    "note": "Can be offensive or judgmental depending on context."
+  },
+  {
+    "word": "bougie problems",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "problems caused by luxury or privileged expectations",
+        "example": "Complaining about hotel pillows is bougie problems.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "humor",
+      "privilege"
+    ],
+    "note": ""
+  },
+  {
+    "word": "Karen",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a slang label for an entitled or demanding person, often used critically",
+        "example": "The internet called her a Karen after the video.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "criticism"
+    ],
+    "note": "Can be insulting; avoid using it about real people carelessly."
+  },
+  {
+    "word": "boomer",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "slang for an older person seen as out of touch, sometimes used playfully",
+        "example": "He made a boomer joke about texting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "age",
+      "internet"
+    ],
+    "note": "Can be dismissive depending on tone."
+  },
+  {
+    "word": "zoomer",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "slang for a young person from Generation Z",
+        "example": "Zoomer humor can be very online.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "age",
+      "internet"
+    ],
+    "note": ""
+  },
+  {
+    "word": "salty tears",
+    "pos": "phrase",
+    "level": "C1",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "mocking talk about someone being upset after losing",
+        "example": "He drank their salty tears after winning.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "mocking",
+      "competition"
+    ],
+    "note": ""
+  },
+  {
+    "word": "clout",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "social influence or attention, especially online",
+        "example": "He posted it for clout.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "status",
+      "social media"
+    ],
+    "note": ""
+  },
+  {
+    "word": "clout chaser",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "someone who does things mainly to get attention or fame",
+        "example": "People called him a clout chaser.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "status",
+      "criticism"
+    ],
+    "note": ""
+  },
+  {
+    "word": "influencer",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a person who affects others’ opinions or buying choices through social media",
+        "example": "She works as a fashion influencer.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social media",
+      "job"
+    ],
+    "note": ""
+  },
+  {
+    "word": "cancel",
+    "pos": "verb",
+    "level": "B2",
+    "register": "slang",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to stop supporting a public figure because of their behavior",
+        "example": "Fans tried to cancel the celebrity.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social media",
+      "criticism"
+    ],
+    "note": ""
+  },
+  {
+    "word": "viral",
+    "pos": "adjective",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "spreading very quickly online",
+        "example": "Her dance video went viral.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "popular"
+    ],
+    "note": ""
+  },
+  {
+    "word": "trend",
+    "pos": "verb",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "to become popular or widely discussed online",
+        "example": "The hashtag started to trend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "internet",
+      "popular"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hashtag",
+    "pos": "noun",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a word or phrase with # used to label online posts",
+        "example": "Use the event hashtag in your post.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social media",
+      "label"
+    ],
+    "note": ""
+  },
+  {
+    "word": "handle",
+    "pos": "noun",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a username on social media",
+        "example": "What is your handle on that app?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social media",
+      "username"
+    ],
+    "note": ""
+  },
+  {
+    "word": "dump",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "a casual collection of photos posted together",
+        "example": "She posted a weekend photo dump.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "social media",
+      "photos"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fit",
+    "pos": "noun",
+    "level": "B2",
+    "register": "informal",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "an outfit",
+        "example": "That fit looks great.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "fashion",
+      "outfit"
+    ],
+    "note": ""
+  },
+  {
+    "word": "fire",
+    "pos": "adjective",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "very good or exciting",
+        "example": "That new track is fire.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "approval",
+      "exciting"
+    ],
+    "note": ""
+  },
+  {
+    "word": "gas",
+    "pos": "noun",
+    "level": "B2",
+    "register": "slang",
+    "region": "US",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "something that excites or hypes people up",
+        "example": "That crowd gave the team gas.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "energy",
+      "hype"
+    ],
+    "note": "Informal and context-dependent."
+  },
+  {
+    "word": "WYD",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "what are you doing? used in casual messages",
+        "example": "WYD tonight?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "abbreviation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "LMK",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "let me know",
+        "example": "LMK if you need help.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "abbreviation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "TTYL",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "informal",
+    "region": "internet",
+    "era": "current",
+    "definitions": [
+      {
+        "text": "talk to you later",
+        "example": "I have to go, TTYL.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "chat",
+      "abbreviation"
+    ],
+    "note": ""
+  }
+]

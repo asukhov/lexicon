@@ -1,0 +1,1382 @@
+[
+  {
+    "word": "according to",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "as stated by someone or something",
+        "example": "According to the weather report, it will rain tomorrow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reference",
+      "source"
+    ],
+    "note": ""
+  },
+  {
+    "word": "because of",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "as a result of something",
+        "example": "The game was cancelled because of heavy rain.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reason",
+      "cause"
+    ],
+    "note": ""
+  },
+  {
+    "word": "each other",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show that two or more people do the same thing to or for one another",
+        "example": "The two friends helped each other with homework.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reciprocal",
+      "people"
+    ],
+    "note": ""
+  },
+  {
+    "word": "instead of",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in place of someone or something",
+        "example": "I drank water instead of soda.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "replacement",
+      "choice"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in front of",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "directly before or ahead of something",
+        "example": "There is a tree in front of the house.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "position",
+      "place"
+    ],
+    "note": ""
+  },
+  {
+    "word": "next to",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "beside something or someone",
+        "example": "She sat next to her sister.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "position",
+      "place"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on top of",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on the highest surface of something",
+        "example": "The keys are on top of the fridge.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "position",
+      "place"
+    ],
+    "note": ""
+  },
+  {
+    "word": "out of",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "away from the inside of something, or no longer having something",
+        "example": "He ran out of the room.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "movement",
+      "absence"
+    ],
+    "note": ""
+  },
+  {
+    "word": "due to",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "because of something",
+        "example": "The delay was due to traffic.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reason",
+      "cause"
+    ],
+    "note": ""
+  },
+  {
+    "word": "apart from",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "except for, or in addition to",
+        "example": "Apart from one mistake, the essay was excellent.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "exception",
+      "addition"
+    ],
+    "note": ""
+  },
+  {
+    "word": "as well as",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in addition to something or someone",
+        "example": "She speaks Spanish as well as English.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "addition",
+      "comparison"
+    ],
+    "note": ""
+  },
+  {
+    "word": "rather than",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "instead of something, especially when making a choice",
+        "example": "I chose to walk rather than wait for the bus.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "choice",
+      "preference"
+    ],
+    "note": ""
+  },
+  {
+    "word": "human rights",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the basic rights and freedoms that all people should have",
+        "example": "The group works to protect human rights.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "society",
+      "law"
+    ],
+    "note": ""
+  },
+  {
+    "word": "carbon footprint",
+    "pos": "phrase",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the amount of carbon gases produced by a person, activity, or product",
+        "example": "We tried to reduce our carbon footprint by cycling.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "environment",
+      "climate"
+    ],
+    "note": ""
+  },
+  {
+    "word": "check-in counter",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a place at an airport or hotel where you register your arrival",
+        "example": "We waited in line at the check-in counter.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "airport"
+    ],
+    "note": ""
+  },
+  {
+    "word": "check-in desk",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a desk where people register when they arrive at a hotel or airport",
+        "example": "Please leave your key at the check-in desk.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "hotel"
+    ],
+    "note": ""
+  },
+  {
+    "word": "extreme sports",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "sports that involve high risk and excitement",
+        "example": "Skydiving is one of the most popular extreme sports.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "sport",
+      "risk"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hip hop",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a style of music, dance, and culture that began in urban communities",
+        "example": "They listened to hip hop on the way home.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "music",
+      "culture"
+    ],
+    "note": ""
+  },
+  {
+    "word": "id card",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a card that shows a person’s name and identity",
+        "example": "You need an id card to enter the building.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "identity",
+      "document"
+    ],
+    "note": "Also written as ID card."
+  },
+  {
+    "word": "MP3 player",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a small electronic device for playing digital audio files",
+        "example": "He listened to podcasts on his MP3 player.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "technology",
+      "music"
+    ],
+    "note": ""
+  },
+  {
+    "word": "environmentally friendly",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not harmful to the environment, or less harmful than alternatives",
+        "example": "We use environmentally friendly cleaning products.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "environment",
+      "sustainability"
+    ],
+    "note": ""
+  },
+  {
+    "word": "hard-working",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "putting a lot of effort and care into work",
+        "example": "She is a hard-working student.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "personality",
+      "work"
+    ],
+    "note": ""
+  },
+  {
+    "word": "grown-up",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "an adult, or behaving like an adult",
+        "example": "When I am a grown-up, I want to be a nurse.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "age",
+      "maturity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "have to",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be required to do something",
+        "example": "I have to finish this report today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "obligation",
+      "necessity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "ought to",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to say what is the right or sensible thing to do",
+        "example": "You ought to apologize for the mistake.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "advice",
+      "obligation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "used to",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to describe something that happened regularly or was true in the past",
+        "example": "I used to play football every weekend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "past",
+      "habit"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in order to",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "for the purpose of doing something",
+        "example": "She studied hard in order to pass the exam.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "purpose",
+      "reason"
+    ],
+    "note": ""
+  },
+  {
+    "word": "so that",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to make something possible or achieve a result",
+        "example": "He spoke slowly so that everyone could understand.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "purpose",
+      "result"
+    ],
+    "note": ""
+  },
+  {
+    "word": "as long as",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "only if a particular condition is true",
+        "example": "You can borrow my bike as long as you are careful.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "condition",
+      "limit"
+    ],
+    "note": ""
+  },
+  {
+    "word": "even though",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "despite the fact that something is true",
+        "example": "Even though it was cold, we went swimming.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contrast",
+      "surprise"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in spite of",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "despite something",
+        "example": "They enjoyed the picnic in spite of the wind.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contrast",
+      "despite"
+    ],
+    "note": ""
+  },
+  {
+    "word": "by the way",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a new topic in a conversation",
+        "example": "By the way, did you call your brother?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "conversation",
+      "topic"
+    ],
+    "note": ""
+  },
+  {
+    "word": "at least",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not less than a stated amount, or used to show a small positive point",
+        "example": "It will take at least an hour to get there.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "minimum",
+      "amount"
+    ],
+    "note": ""
+  },
+  {
+    "word": "at last",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "after a long wait or delay",
+        "example": "At last, the bus arrived.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "relief"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in fact",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to add information that is true or surprising",
+        "example": "I thought he was quiet; in fact, he is very funny.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emphasis",
+      "truth"
+    ],
+    "note": ""
+  },
+  {
+    "word": "for example",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to give a typical case that explains something",
+        "example": "Many fruits, for example apples and oranges, contain vitamin C.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "example",
+      "explanation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "such as",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce examples of something",
+        "example": "She enjoys outdoor activities such as hiking and cycling.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "example",
+      "explanation"
+    ],
+    "note": ""
+  },
+  {
+    "word": "first of all",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "before anything else",
+        "example": "First of all, let us check the schedule.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "sequence",
+      "order"
+    ],
+    "note": ""
+  },
+  {
+    "word": "after all",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to remind someone of an important fact or explain a result",
+        "example": "I decided to walk; after all, it was a nice day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reason",
+      "reminder"
+    ],
+    "note": ""
+  },
+  {
+    "word": "all right",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "acceptable, safe, or satisfactory",
+        "example": "Is everything all right at home?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "agreement",
+      "condition"
+    ],
+    "note": ""
+  },
+  {
+    "word": "of course",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show that something is obvious or certain",
+        "example": "Of course I can help you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "certainty",
+      "agreement"
+    ],
+    "note": ""
+  },
+  {
+    "word": "no longer",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not any more",
+        "example": "She no longer lives in that city.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "change"
+    ],
+    "note": ""
+  },
+  {
+    "word": "at once",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "immediately, without delay",
+        "example": "Please come here at once.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "urgency"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on time",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at the planned or expected time",
+        "example": "The train arrived on time.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "punctuality"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in time",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "early enough for something",
+        "example": "We got to the airport in time for our flight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "time",
+      "deadline"
+    ],
+    "note": ""
+  },
+  {
+    "word": "by hand",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "using your hands rather than a machine",
+        "example": "The sign was painted by hand.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "method",
+      "manual"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on foot",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "by walking",
+        "example": "We explored the old town on foot.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "travel",
+      "walking"
+    ],
+    "note": ""
+  },
+  {
+    "word": "at home",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in one’s house or place where one lives",
+        "example": "I stayed at home all day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "place",
+      "home"
+    ],
+    "note": ""
+  },
+  {
+    "word": "at work",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in the place where you do your job",
+        "example": "She is at work right now.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "place",
+      "job"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in charge of",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "responsible for something or someone",
+        "example": "She is in charge of the new project.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "responsibility",
+      "work"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in common",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "shared by two or more people or things",
+        "example": "The two cousins have a lot in common.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "similarity",
+      "shared"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in danger",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at risk of being harmed",
+        "example": "The hikers were in danger during the storm.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "risk",
+      "safety"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in love",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "feeling strong romantic love for someone",
+        "example": "They fell in love at university.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "emotion",
+      "romance"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in need",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not having enough of something necessary, such as help or money",
+        "example": "The charity supports families in need.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "need",
+      "support"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in public",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "where other people can see or hear",
+        "example": "He does not like speaking in public.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "place",
+      "social"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in secret",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "without other people knowing",
+        "example": "They planned the surprise in secret.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "privacy",
+      "hidden"
+    ],
+    "note": ""
+  },
+  {
+    "word": "in trouble",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in a difficult or dangerous situation",
+        "example": "He got in trouble for arriving late.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "problem",
+      "difficulty"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on purpose",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "intentionally, not by accident",
+        "example": "I did not break it on purpose.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "intention",
+      "action"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on sale",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "available to buy at a lower price than usual",
+        "example": "These shoes are on sale this week.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "shopping",
+      "price"
+    ],
+    "note": ""
+  },
+  {
+    "word": "on the other hand",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a different or opposite point of view",
+        "example": "The job pays well; on the other hand, it is stressful.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "contrast",
+      "argument"
+    ],
+    "note": ""
+  },
+  {
+    "word": "once upon a time",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used at the beginning of a story to talk about a time long ago",
+        "example": "Once upon a time, a dragon lived in the mountains.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "story",
+      "time"
+    ],
+    "note": ""
+  },
+  {
+    "word": "pay attention",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to watch, listen, or think carefully",
+        "example": "Please pay attention to the instructions.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "focus",
+      "learning"
+    ],
+    "note": ""
+  },
+  {
+    "word": "take care",
+    "pos": "phrase",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be careful, or a friendly way to say goodbye",
+        "example": "Take care when you cross the road.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "safety",
+      "farewell"
+    ],
+    "note": ""
+  },
+  {
+    "word": "take part",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to join in an activity or event",
+        "example": "Many students wanted to take part in the competition.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "participation",
+      "activity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "make sure",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to check or do something so that you are certain",
+        "example": "Make sure you lock the door.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "certainty",
+      "checking"
+    ],
+    "note": ""
+  },
+  {
+    "word": "make sense",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to be clear and easy to understand, or reasonable",
+        "example": "His explanation makes sense.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "understanding",
+      "clarity"
+    ],
+    "note": ""
+  },
+  {
+    "word": "look forward to",
+    "pos": "phrase",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to feel pleased and excited about something that will happen",
+        "example": "I look forward to seeing you next week.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "anticipation",
+      "emotion"
+    ],
+    "note": ""
+  },
+  {
+    "word": "get on with",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK",
+    "definitions": [
+      {
+        "text": "to have a friendly relationship with someone",
+        "example": "She gets on with her colleagues very well.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relationship",
+      "friendly"
+    ],
+    "note": ""
+  },
+  {
+    "word": "put up with",
+    "pos": "phrase",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to accept something unpleasant without complaining",
+        "example": "I cannot put up with this noise anymore.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "tolerance",
+      "difficulty"
+    ],
+    "note": ""
+  }
+]

@@ -1,0 +1,4601 @@
+[
+  {
+    "word": "the",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used before a noun when the listener knows which one is meant",
+        "example": "Close the door, please.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "article",
+      "reference"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "a",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used before a singular noun when it is not specific",
+        "example": "I saw a bird in the tree.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "article",
+      "general"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "an",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used instead of \"a\" before a vowel sound",
+        "example": "She ate an apple.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "article",
+      "general"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "this",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to point to a person or thing that is near",
+        "example": "This book is mine.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "pointing",
+      "near"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "that",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to point to a person or thing that is farther away",
+        "example": "That house is old.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "pointing",
+      "far"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "these",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to point to people or things near the speaker",
+        "example": "These shoes are comfortable.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "pointing",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "those",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to point to people or things farther away",
+        "example": "Those clouds look dark.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "pointing",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "my",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to the speaker",
+        "example": "My phone is on the table.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "first person"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "your",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to the person being spoken to",
+        "example": "Is this your bag?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "second person"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "his",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to a male person or animal",
+        "example": "His coat is blue.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "male"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "her",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to a female person or animal",
+        "example": "Her answer was clear.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "female"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "its",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to a thing, animal, or idea",
+        "example": "The cat cleaned its fur.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "thing"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "our",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to us",
+        "example": "Our team won the game.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "their",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "belonging to them",
+        "example": "Their car is outside.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "possession",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "some",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "an amount or number that is not stated exactly",
+        "example": "I need some water.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "indefinite"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "any",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "one or more, no matter which; often used in questions and negatives",
+        "example": "Do you have any questions?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "indefinite"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "no",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not any",
+        "example": "There is no milk left.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "negative"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "every",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "each one in a group, without exception",
+        "example": "Every student passed the test.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "all"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "each",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "every one considered separately",
+        "example": "Each child got a gift.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "individual"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "either",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "one or the other of two",
+        "example": "You can take either road.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "choice",
+      "two"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "neither",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not one and not the other of two",
+        "example": "Neither answer is correct.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "choice",
+      "negative"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "both",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the two together",
+        "example": "Both parents came to the meeting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "two"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "all",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the whole number or amount of something",
+        "example": "All tickets were sold.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "whole"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "another",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "one more, or a different one",
+        "example": "Would you like another cup of tea?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "additional"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "much",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a large amount of something uncountable",
+        "example": "There is not much time left.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "uncountable"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "many",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a large number of countable things",
+        "example": "Many people arrived early.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "countable"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "few",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a small number of countable things",
+        "example": "Few buses run after midnight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "small"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "little",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a small amount of something uncountable",
+        "example": "There is little sugar in this recipe.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "small"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "more",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a larger amount or number",
+        "example": "We need more chairs.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "comparison",
+      "quantity"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "most",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the largest amount or number",
+        "example": "Most children like stories.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "comparison",
+      "quantity"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "less",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a smaller amount of something uncountable",
+        "example": "Drink less coffee at night.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "comparison",
+      "quantity"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "least",
+    "pos": "determiner",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the smallest amount or degree",
+        "example": "That option costs the least money.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "comparison",
+      "minimum"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "enough",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "as much or as many as needed",
+        "example": "We have enough food for everyone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "sufficient"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "several",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "more than two but not many",
+        "example": "Several friends helped me move.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "quantity",
+      "some"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "such",
+    "pos": "determiner",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "of the type or degree already mentioned",
+        "example": "I have never seen such a storm.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "type",
+      "degree"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "what",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask for information about something",
+        "example": "What color do you want?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "question",
+      "information"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "which",
+    "pos": "determiner",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask or show which one or ones",
+        "example": "Which train goes to the airport?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "question",
+      "choice"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "whose",
+    "pos": "determiner",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask or show who something belongs to",
+        "example": "Whose jacket is this?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "question",
+      "possession"
+    ],
+    "note": "",
+    "grammar": "det"
+  },
+  {
+    "word": "I",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used by a speaker to refer to themselves",
+        "example": "I am ready to go.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "first person",
+      "subject"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "you",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to the person or people being spoken to",
+        "example": "You can sit here.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "second person",
+      "subject"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "he",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to a male person or animal already known",
+        "example": "He works in a hospital.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "third person",
+      "male"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "she",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to a female person or animal already known",
+        "example": "She lives near the park.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "third person",
+      "female"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "it",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to a thing, animal, or idea",
+        "example": "It is raining outside.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "third person",
+      "thing"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "we",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used by a speaker to refer to themselves and others",
+        "example": "We are learning English.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "first person",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "they",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to people or things already known",
+        "example": "They arrived on time.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "third person",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "me",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used by a speaker as the object of a verb or preposition",
+        "example": "Please call me later.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "first person",
+      "object"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "him",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to a male person as the object of a verb or preposition",
+        "example": "I saw him at the station.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "third person",
+      "male"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "us",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to the speaker and others as an object",
+        "example": "The teacher helped us.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "first person",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "them",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer to people or things as an object",
+        "example": "I invited them to dinner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "third person",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "myself",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used by a speaker to refer back to themselves",
+        "example": "I made myself a sandwich.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "first person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "yourself",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to the person being spoken to",
+        "example": "Be careful not to hurt yourself.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "second person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "himself",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to a male person or animal",
+        "example": "He taught himself to swim.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "male"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "herself",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to a female person or animal",
+        "example": "She prepared herself for the interview.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "female"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "itself",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to a thing, animal, or idea",
+        "example": "The door closed by itself.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "thing"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "ourselves",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to the speaker and others",
+        "example": "We enjoyed ourselves at the party.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "yourselves",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to people being spoken to",
+        "example": "Please help yourselves to food.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "themselves",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to refer back to people or things already mentioned",
+        "example": "They introduced themselves clearly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "reflexive",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "who",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask which person",
+        "example": "Who is at the door?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "question",
+      "person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "whom",
+    "pos": "pronoun",
+    "level": "B1",
+    "register": "formal",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask or refer to a person as an object, especially in formal English",
+        "example": "Whom did you meet?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "question",
+      "object"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "someone",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "an unknown or unnamed person",
+        "example": "Someone left a message for you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "somebody",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "an unknown or unnamed person",
+        "example": "Somebody is knocking on the door.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "something",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "an unknown or unnamed thing",
+        "example": "I want something to eat.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "thing"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "anyone",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "any person at all; often used in questions and negatives",
+        "example": "Has anyone seen my keys?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "anybody",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "any person at all; often used in questions and negatives",
+        "example": "I did not see anybody there.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "person"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "anything",
+    "pos": "pronoun",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "any thing at all; often used in questions and negatives",
+        "example": "Do you need anything else?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "thing"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "everyone",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "all people",
+        "example": "Everyone enjoyed the concert.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "all"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "everybody",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "all people",
+        "example": "Everybody was quiet during the film.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "all"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "everything",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "all things",
+        "example": "Everything is ready for the trip.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "all"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "nobody",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "no person",
+        "example": "Nobody answered the phone.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "negative"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "nothing",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "no thing",
+        "example": "Nothing happened yesterday.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "negative"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "one",
+    "pos": "pronoun",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "a person in general, or a single thing from a group",
+        "example": "One should always be polite.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "indefinite",
+      "general"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "ones",
+    "pos": "pronoun",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "people or things of a type already mentioned",
+        "example": "I prefer the red ones.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "substitute",
+      "plural"
+    ],
+    "note": "",
+    "grammar": "pron"
+  },
+  {
+    "word": "of",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing belonging, origin, or connection",
+        "example": "The color of the sky changed.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "to",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing direction, place, or receiver",
+        "example": "She walked to school.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "in",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing position inside or within something",
+        "example": "The keys are in my pocket.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "for",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing purpose, benefit, or intended receiver",
+        "example": "This gift is for you.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "on",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing position on a surface or a day",
+        "example": "The book is on the table.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "with",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing company, possession, or use",
+        "example": "I went with my friend.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "at",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing an exact place, time, or point",
+        "example": "Meet me at the station.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "by",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing who did something or how it was done",
+        "example": "The book was written by her.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "from",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing the starting point, source, or origin",
+        "example": "He comes from Canada.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "up",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing movement to a higher place",
+        "example": "She climbed up the hill.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "about",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing the subject of something",
+        "example": "We talked about the plan.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "into",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing movement to the inside of something",
+        "example": "He walked into the room.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "over",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing position above or movement across something",
+        "example": "The lamp hangs over the table.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "after",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "later than something in time or order",
+        "example": "We can eat after the meeting.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "under",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in a lower position than something",
+        "example": "The cat is under the chair.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "above",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in a higher position than something",
+        "example": "The picture is above the sofa.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "across",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "from one side to the other side of something",
+        "example": "They ran across the street.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "along",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "moving in a line beside something",
+        "example": "We walked along the river.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "among",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in the middle of a group or surrounded by things",
+        "example": "She was standing among friends.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "around",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on all sides of something or in a circular direction",
+        "example": "We sat around the table.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "before",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "earlier than something in time or order",
+        "example": "Wash your hands before dinner.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "behind",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at the back of something",
+        "example": "The garden is behind the house.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "below",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in a lower position than something",
+        "example": "The temperature is below zero.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "beside",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "next to something or someone",
+        "example": "She sat beside her brother.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "between",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in the space separating two things or people",
+        "example": "The bank is between the shop and the cafe.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "beyond",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on the far side of something, or outside a limit",
+        "example": "The village is beyond the hills.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "down",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "showing movement to a lower place",
+        "example": "He walked down the stairs.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "during",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "throughout a period of time",
+        "example": "Please stay quiet during the film.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "except",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not including something or someone",
+        "example": "Everyone came except Tom.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "inside",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on or to the inner part of something",
+        "example": "It is warm inside the house.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "near",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "close to something or someone",
+        "example": "The school is near my home.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "off",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "away from a surface or position",
+        "example": "He took his hat off.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "onto",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "moving to a surface or position on something",
+        "example": "The cat jumped onto the bed.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "outside",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not in or not inside a place",
+        "example": "Wait outside the building.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "past",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "beyond a place or after a time",
+        "example": "Walk past the library and turn left.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "since",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "from a time in the past until now",
+        "example": "I have lived here since 2020.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "through",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "from one side to the other side of something",
+        "example": "The train went through the tunnel.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "throughout",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in every part of a place or during the whole time",
+        "example": "It rained throughout the day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "toward",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in the direction of something",
+        "example": "She walked toward the door.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "towards",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in the direction of something",
+        "example": "They ran towards the beach.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "until",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "up to a particular time",
+        "example": "Wait here until I return.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "upon",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on something; often used in formal or fixed phrases",
+        "example": "Once upon a time, there was a king.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "within",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "inside a limit of time, distance, or area",
+        "example": "Please reply within two days.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "without",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "not having something or not with someone",
+        "example": "I left without my wallet.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "against",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "touching something for support, or in opposition to",
+        "example": "Put the ladder against the wall.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "as",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in the role of, or in the same way as",
+        "example": "He works as a teacher.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "than",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to compare two things",
+        "example": "She is taller than her brother.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "like",
+    "pos": "preposition",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "similar to something or someone",
+        "example": "He runs like a professional athlete.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "despite",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "without being stopped or affected by something",
+        "example": "We went out despite the rain.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "per",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "for each unit or person",
+        "example": "The room costs 100 dollars per night.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "via",
+    "pos": "preposition",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "by way of a place or by using something",
+        "example": "We flew to Rome via Paris.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "plus",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "with the addition of something",
+        "example": "The price is 50 dollars plus tax.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "minus",
+    "pos": "preposition",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "with something taken away, or below zero",
+        "example": "The temperature was minus five degrees.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "relation",
+      "position"
+    ],
+    "note": "",
+    "grammar": "prep"
+  },
+  {
+    "word": "and",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to connect words, phrases, or clauses",
+        "example": "I bought apples and oranges.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "but",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show contrast or an opposite idea",
+        "example": "I was tired, but I kept working.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "or",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show a choice between options",
+        "example": "Do you want tea or coffee?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "so",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show a result or consequence",
+        "example": "It was raining, so we stayed inside.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "yet",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show contrast, similar to but",
+        "example": "The task was difficult, yet she finished it.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "nor",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used after a negative to add another negative idea",
+        "example": "He does not drink tea, nor does he drink coffee.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "because",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to give a reason",
+        "example": "I stayed home because I was sick.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "although",
+    "pos": "conjunction",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a contrast or surprising fact",
+        "example": "Although it was late, they kept talking.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "though",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a contrast; often less formal than although",
+        "example": "Though he was tired, he smiled.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "if",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a condition",
+        "example": "If it rains, we will stay inside.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "unless",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to mean except if",
+        "example": "You cannot enter unless you have a ticket.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "when",
+    "pos": "conjunction",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to talk about a time or situation",
+        "example": "Call me when you arrive.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "while",
+    "pos": "conjunction",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to talk about two things happening at the same time",
+        "example": "She listened while he explained.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "whereas",
+    "pos": "conjunction",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to compare two different facts or ideas",
+        "example": "Tom likes tea, whereas Anna prefers coffee.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "whether",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show a choice or doubt between possibilities",
+        "example": "I do not know whether he will come.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "once",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to mean as soon as, or at one time in the past",
+        "example": "Once you finish, please call me.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "whenever",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to mean at any time that something happens",
+        "example": "You can visit whenever you want.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "wherever",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to mean in any place that something happens",
+        "example": "I will go wherever you go.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "however",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a contrasting idea",
+        "example": "The plan was risky; however, it worked.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "therefore",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show a logical result",
+        "example": "The roads were icy; therefore, we drove slowly.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "moreover",
+    "pos": "conjunction",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to add another important fact",
+        "example": "The course is useful; moreover, it is free.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "nevertheless",
+    "pos": "conjunction",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to introduce a contrast despite something said before",
+        "example": "It was expensive; nevertheless, they bought it.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "otherwise",
+    "pos": "conjunction",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show what will happen if something is different",
+        "example": "Leave now; otherwise, you will be late.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "connector",
+      "clause"
+    ],
+    "note": "",
+    "grammar": "conj"
+  },
+  {
+    "word": "be",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used as a main or helping verb to show state, identity, or continuous forms",
+        "example": "She wants to be a doctor.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "am",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the first person singular present form of \"be\"",
+        "example": "I am happy to help.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "is",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the third person singular present form of \"be\"",
+        "example": "He is at home.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "are",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the present form of \"be\" used with you, we, and they",
+        "example": "They are ready.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "was",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the past singular form of \"be\"",
+        "example": "It was a sunny day.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "were",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the past plural form of \"be\", also used with you",
+        "example": "We were late for class.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "been",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the past participle of \"be\"",
+        "example": "She has been to London.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "being",
+    "pos": "verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the present participle of \"be\"",
+        "example": "He is being very careful.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "have",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used as a main verb for possession or as a helping verb for perfect tenses",
+        "example": "I have two brothers.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "has",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the third person singular present form of \"have\"",
+        "example": "She has a new job.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "had",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the past form and past participle of \"have\"",
+        "example": "They had dinner at six.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "having",
+    "pos": "verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the present participle of \"have\"",
+        "example": "Having finished work, she went home.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "do",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used as a main verb or as a helping verb for questions and negatives",
+        "example": "Do you like coffee?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "does",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the third person singular present form of \"do\"",
+        "example": "Does he play guitar?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "did",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the past form of \"do\"",
+        "example": "Did you call me?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "done",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the past participle of \"do\"",
+        "example": "I have done my homework.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "doing",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "the present participle of \"do\"",
+        "example": "What are you doing now?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "aux"
+  },
+  {
+    "word": "can",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show ability, possibility, or permission",
+        "example": "I can swim very well.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "could",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show past ability, polite requests, or possibility",
+        "example": "Could you open the window?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "will",
+    "pos": "verb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to talk about the future or make a decision",
+        "example": "I will call you tomorrow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "would",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used for polite requests, imagined situations, or past habits",
+        "example": "Would you like some tea?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "shall",
+    "pos": "verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used with I or we for offers or suggestions, especially in formal British English",
+        "example": "Shall we start the meeting?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "should",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to give advice or say what is right or expected",
+        "example": "You should drink more water.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "may",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show possibility or give formal permission",
+        "example": "You may leave early today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "might",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show a smaller possibility",
+        "example": "It might rain this afternoon.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "must",
+    "pos": "verb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show necessity or strong certainty",
+        "example": "You must wear a seat belt.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "ought",
+    "pos": "verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to give advice or say what is right, often followed by \"to\"",
+        "example": "You ought to rest if you feel sick.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "need",
+    "pos": "verb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to say that something is necessary, sometimes as a modal verb",
+        "example": "Need I say more?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "dare",
+    "pos": "verb",
+    "level": "B2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show courage to do something, sometimes as a modal verb",
+        "example": "I dare not ask him.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "auxiliary",
+      "grammar"
+    ],
+    "note": "",
+    "grammar": "modal"
+  },
+  {
+    "word": "how",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask about the way something happens or its condition",
+        "example": "How do you open this box?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "why",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask for a reason",
+        "example": "Why are you laughing?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "where",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to ask about a place or position",
+        "example": "Where do you live?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "not",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to make a word or sentence negative",
+        "example": "I am not tired.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "very",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to make an adjective or adverb stronger",
+        "example": "The test was very easy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "too",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "more than is needed or wanted; also means also",
+        "example": "This bag is too heavy.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "also",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in addition; as well",
+        "example": "She also speaks French.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "just",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "only a short time ago, or exactly",
+        "example": "I just finished my homework.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "only",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "and no one or nothing else",
+        "example": "Only three people came.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "even",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show something surprising or extreme",
+        "example": "He even remembered my birthday.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "still",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "continuing until now or until a stated time",
+        "example": "Are you still working?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "already",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "before now or before a particular time",
+        "example": "I have already eaten.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "always",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at all times; on every occasion",
+        "example": "She always arrives early.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "never",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at no time",
+        "example": "I never drink coffee at night.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "often",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "many times or regularly",
+        "example": "We often walk in the park.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "sometimes",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on some occasions but not always",
+        "example": "Sometimes I read before bed.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "usually",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in most cases or most of the time",
+        "example": "I usually wake up at seven.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "ever",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at any time",
+        "example": "Have you ever visited Japan?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "again",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "one more time",
+        "example": "Please say that again.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "here",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in this place",
+        "example": "Come here, please.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "there",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in that place",
+        "example": "Put the box there.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "now",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at the present time",
+        "example": "We need to leave now.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "then",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at that time, or after that",
+        "example": "Finish your work, then rest.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "soon",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in a short time from now",
+        "example": "The bus will arrive soon.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "later",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "at a time after the present or after a mentioned time",
+        "example": "I will call you later.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "today",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on this day",
+        "example": "I have a meeting today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "tomorrow",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on the day after today",
+        "example": "We will travel tomorrow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "yesterday",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "on the day before today",
+        "example": "I saw her yesterday.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "yes",
+    "pos": "interjection",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to give a positive answer or agreement",
+        "example": "Yes, I understand.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "interj"
+  },
+  {
+    "word": "please",
+    "pos": "interjection",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to make a request polite",
+        "example": "Please pass the salt.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "interj"
+  },
+  {
+    "word": "hello",
+    "pos": "interjection",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used as a greeting",
+        "example": "Hello, how are you?",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "interj"
+  },
+  {
+    "word": "goodbye",
+    "pos": "interjection",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used when leaving or ending a conversation",
+        "example": "Goodbye, see you tomorrow.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "interj"
+  },
+  {
+    "word": "okay",
+    "pos": "interjection",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to show agreement or acceptance",
+        "example": "Okay, let us begin.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "interj"
+  },
+  {
+    "word": "well",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "in a good way; also used to start a response",
+        "example": "She speaks English well.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "quite",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to some degree, or fairly",
+        "example": "The movie was quite good.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "rather",
+    "pos": "adverb",
+    "level": "B1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "to some degree; sometimes used to show preference",
+        "example": "It is rather cold today.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "almost",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "very nearly but not completely",
+        "example": "I have almost finished.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "perhaps",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to say that something is possible",
+        "example": "Perhaps we should wait.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "maybe",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to say that something is possible",
+        "example": "Maybe it will snow tonight.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "actually",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to give the real fact or a surprising fact",
+        "example": "He looks young, but he is actually forty.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "really",
+    "pos": "adverb",
+    "level": "A1",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "used to emphasize something or ask about truth",
+        "example": "I really enjoyed the meal.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  },
+  {
+    "word": "especially",
+    "pos": "adverb",
+    "level": "A2",
+    "register": "neutral",
+    "region": "UK/US",
+    "definitions": [
+      {
+        "text": "more than others; particularly",
+        "example": "I like fruit, especially apples.",
+        "labels": []
+      }
+    ],
+    "variants": [],
+    "tags": [
+      "common",
+      "function"
+    ],
+    "note": "",
+    "grammar": "adv"
+  }
+]
