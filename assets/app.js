@@ -939,9 +939,57 @@
     </section>`;
   }
 
+  function irregularFields(verb) {
+    const fields = [verb.base, verb.third, verb.ing, ...(verb.past || []), ...(verb.participle || []), verb.note];
+    return fields.map((field) => normalizeKey(field || '')).filter(Boolean);
+  }
+
+  function irregularMatch(verb, query, regex, terms, wildcard) {
+    const base = normalizeKey(verb.base);
+    const fields = irregularFields(verb);
+    if (wildcard) {
+      if (regex.test(base)) return 900;
+      return fields.some((field) => regex.test(field)) ? 700 : 0;
+    }
+    if (base === query) return 1000;
+    if (fields.some((field) => field === query)) return 900;
+    if (base.startsWith(query)) return 820;
+    if (query.length >= 2 && fields.some((field) => field.startsWith(query))) return 700;
+    if (terms.length > 1 && terms.every((term) => fields.some((field) => field.includes(term)))) return 520;
+    // Substring search is deliberately disabled for one- and two-letter
+    // queries: "b" should mean verbs beginning with b, not every verb whose
+    // forms happen to contain a b. Wildcards cover contains explicitly.
+    if (query.length >= 3) {
+      if (base.includes(query)) return 430;
+      if (fields.some((field) => field.includes(query))) return 330;
+    }
+    return 0;
+  }
+
+  function filterIrregularRows(panel) {
+    const filter = $('#irregularFilter', panel);
+    const table = $('#irregularTable', panel);
+    if (!filter || !table) return;
+    const query = normalizeKey(filter.value);
+    const wildcard = /[*?]/.test(query);
+    const regex = wildcard ? wildcardRegex(query) : null;
+    const terms = query.split(' ').filter(Boolean);
+    let shown = 0;
+    $$('tbody tr', table).forEach((row) => {
+      const verb = state.irregularMap.get(normalizeKey(row.dataset.base));
+      const score = !query || (verb && irregularMatch(verb, query, regex, terms, wildcard));
+      row.hidden = !score;
+      if (score) shown += 1;
+    });
+    const count = $('#irregularCount', panel);
+    if (count) {
+      count.textContent = query ? `${shown.toLocaleString()} of ${state.irregularVerbs.length.toLocaleString()} verbs` : `${state.irregularVerbs.length.toLocaleString()} verbs`;
+    }
+  }
+
   function renderIrregularReference() {
     const verbs = state.irregularVerbs || [];
-    const rows = verbs.map((verb) => `<tr>
+    const rows = verbs.map((verb) => `<tr data-base="${esc(verb.base)}">
       <td><button class="alternative-word" type="button" data-irregular-base="${esc(verb.base)}">${esc(verb.base)}</button></td>
       <td>${esc(verb.third || '-')}</td>
       <td>${esc(joinForms(verb.past))}</td>
@@ -952,7 +1000,9 @@
     return `<section class="ref-card grammar-section irregular-reference">
       <h3>Irregular verbs</h3>
       <p>${esc(state.irregularIntro || 'A complete reference of English irregular verbs with all their forms.')}</p>
-      <label class="irregular-filter"><span>Filter verbs</span><input id="irregularFilter" type="search" placeholder="Type a verb or form..." autocomplete="off"></label>
+      <label class="irregular-filter"><span>Search verbs</span><input id="irregularFilter" type="search" placeholder="Type a verb or form..." autocomplete="off" spellcheck="false"></label>
+      <p class="irregular-search-help">Press <kbd>/</kbd> to search here. Use <code>*</code> for any letters and <code>?</code> for one letter. A short query matches the beginning of a form.</p>
+      <p class="irregular-search-count" id="irregularCount">${verbs.length.toLocaleString()} verbs</p>
       <div class="table-scroll"><table id="irregularTable">
         <thead><tr><th scope="col">Base</th><th scope="col">Third person</th><th scope="col">Past</th><th scope="col">Past participle</th><th scope="col">-ing</th><th scope="col">Note</th></tr></thead>
         <tbody>${rows.join('')}</tbody>
@@ -963,13 +1013,14 @@
 
   function wireIrregularReference(panel) {
     const filter = $('#irregularFilter', panel);
-    const table = $('#irregularTable', panel);
-    if (filter && table) {
-      filter.addEventListener('input', () => {
-        const query = normalize(filter.value);
-        $$('tbody tr', table).forEach((row) => {
-          row.hidden = Boolean(query) && !normalize(row.textContent).includes(query);
-        });
+    if (filter) {
+      filter.addEventListener('input', () => filterIrregularRows(panel));
+      filter.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') {
+          filter.value = '';
+          filterIrregularRows(panel);
+          filter.blur();
+        }
       });
     }
     $$('[data-irregular-base]', panel).forEach((button) => {
@@ -1317,6 +1368,26 @@
       navigateWord(dx < 0 ? 1 : -1);
     }, { passive: true });
     document.addEventListener('touchcancel', () => { touchTracking = false; }, { passive: true });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key !== '/' || event.ctrlKey || event.metaKey || event.altKey) return;
+      const target = event.target;
+      if (target instanceof Element && target.closest('input, textarea, select, [contenteditable="true"]')) return;
+      if (state.tab === 'grammar' && state.grammarGroup === 'irregular') {
+        const local = $('#irregularFilter');
+        if (local) {
+          event.preventDefault();
+          local.focus();
+          local.select();
+          return;
+        }
+      }
+      if (el.searchInput) {
+        event.preventDefault();
+        el.searchInput.focus();
+        el.searchInput.select();
+      }
+    });
 
     document.addEventListener('keydown', (event) => {
       if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;

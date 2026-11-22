@@ -1756,6 +1756,28 @@ td .ipa { color: var(--ink-soft); white-space: nowrap; }
   font: inherit;
   font-weight: 400;
 }
+.irregular-search-help {
+  margin: -4px 0 8px;
+  color: #6b7280;
+  font-size: 11px;
+  line-height: 1.5;
+}
+.irregular-search-help kbd,
+.irregular-search-help code {
+  padding: 1px 5px;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  background: #f3f4f6;
+  color: #374151;
+  font: inherit;
+  font-size: 10px;
+}
+.irregular-search-count {
+  margin: 0 0 10px;
+  color: #4b5563;
+  font-size: 11px;
+  font-weight: 600;
+}
 .irregular-reference table {
   min-width: 720px;
 }

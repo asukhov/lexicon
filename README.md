@@ -13,7 +13,7 @@ There is no runtime build step, no package manager, no analytics, and no externa
 | Idioms & expressions | **45,000** idioms, proverbs, phrasal expressions, and fixed phrases (19,218 from Wiktionary sources, 25,782 fixed expressions from WordNet) |
 | Phrasal verbs | **5,069** entries, including separability and particle notes |
 | Proverbs | **1,060** entries |
-| Irregular verbs | **243** verbs with third-person, past, past-participle and -ing forms |
+| Irregular verbs | **243** verbs with third-person, past, past-participle and -ing forms, plus a local wildcard search |
 | Alternatives | **6,535** common entries with linked alternatives, a short nuance note and an example |
 | Illustrated | **14 labelled diagrams** with **126 parts**: umbrella, bicycle, car, house, head, hand, tree, flower, laptop, guitar, shoe, bottle, camera, clock |
 | B2 / C1 / C2 | **11,392 / 15,898 / 95,624** entries by CEFR level |
