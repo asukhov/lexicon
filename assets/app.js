@@ -2,7 +2,7 @@
   'use strict';
 
   const DATA = 'data';
-  const DATA_VERSION = '2026-11-22.8';
+  const DATA_VERSION = '2026-11-22.14';
   const PER_PAGE = 30;
 
   const TAB_INFO = {
@@ -127,6 +127,11 @@
     illustrationMap: new Map(),
     illustrationSelected: 'umbrella',
     illustrationTerm: '',
+    irregularVerbs: null,
+    irregularMap: new Map(),
+    irregularEntryMap: new Map(),
+    irregularByForm: new Map(),
+    irregularBaseIndex: new Map(),
     loadingIndex: true,
     requestId: 0,
   };
@@ -167,6 +172,80 @@
 
   function normalizeKey(value = '') {
     return normalize(value).replace(/[^a-z0-9*?\s'-]/g, ' ').replace(/\s+/g, ' ').trim();
+  }
+
+  function buildIrregularMaps(data) {
+    state.irregularVerbs = data?.verbs || [];
+    state.irregularIntro = data?.intro || '';
+    state.irregularMap = new Map();
+    state.irregularEntryMap = new Map();
+    state.irregularByForm = new Map();
+    const formEntries = [];
+    for (const verb of state.irregularVerbs) {
+      const base = normalizeKey(verb.base);
+      if (!base) continue;
+      state.irregularMap.set(base, verb);
+      const forms = new Set([verb.base, ...(verb.past || []), ...(verb.participle || []), verb.ing]);
+      for (const part of String(verb.third || '').split('/')) {
+        if (part.trim()) forms.add(part.trim());
+      }
+      for (const form of forms) {
+        const key = normalizeKey(form);
+        if (!key) continue;
+        if (!state.irregularByForm.has(key)) state.irregularByForm.set(key, base);
+        formEntries.push([key, verb]);
+      }
+    }
+    // A form such as "was" or "went" may have its own headword. Show the
+    // base verb's complete table there, but never replace a real base verb
+    // such as "lay" (which is also the past of "lie").
+    for (const [form, verb] of formEntries) {
+      if (!state.irregularMap.has(form)) state.irregularEntryMap.set(form, verb);
+    }
+  }
+
+  function joinForms(values) {
+    return values && values.length ? values.join(' / ') : '-';
+  }
+
+  function renderIrregularForms(verb) {
+    const rows = [
+      ['Base', verb.base],
+      ['Third person', verb.third || '-'],
+      ['Past', joinForms(verb.past)],
+      ['Past participle', joinForms(verb.participle)],
+      ['-ing form', verb.ing || '-'],
+    ];
+    return `<section class="irregular-forms">
+      <div class="irregular-forms-head">
+        <h2>Irregular verb forms</h2>
+        <span class="irregular-forms-label">${esc(verb.modal ? 'Modal verb' : 'All forms')}</span>
+      </div>
+      <div class="verb-form-grid">${rows.map(([label, value]) => `<div><span>${esc(label)}</span><strong>${esc(value)}</strong></div>`).join('')}</div>
+      ${verb.note ? `<p class="irregular-note">${esc(verb.note)}</p>` : ''}
+      <p class="irregular-foot">All forms are searchable and link back to this entry.</p>
+    </section>`;
+  }
+
+  function renderAlternatives(entry) {
+    const alternatives = entry.alternatives || [];
+    if (!alternatives.length) return '';
+    return `<section class="alternatives">
+      <div class="alternatives-head">
+        <h2>Alternatives</h2>
+        <span>${alternatives.length} related ${alternatives.length === 1 ? 'word' : 'words'}</span>
+      </div>
+      <div class="alternative-list">
+        ${alternatives.map((alt) => `<article class="alternative">
+          <div class="alternative-top">
+            <button class="alternative-word" type="button" data-lookup="${esc(alt.word)}">${esc(alt.word)}</button>
+            ${alt.note ? `<span class="alternative-note">${esc(alt.note)}</span>` : ''}
+          </div>
+          ${alt.gloss ? `<p class="alternative-gloss">${esc(alt.gloss)}</p>` : ''}
+          ${alt.example ? `<p class="alternative-example">“${esc(alt.example)}”</p>` : ''}
+        </article>`).join('')}
+      </div>
+    </section>`;
   }
 
   function debounce(fn, wait = 110) {
@@ -245,6 +324,7 @@
       score = 620;
     } else {
       if (key === query) score = 1000;
+      else if (state.irregularByForm.get(query) === key) score = 935;
       else if (state.variantMap.get(query) === index) score = 920;
       else if (key.startsWith(query)) score = 760;
       else if (key.includes(` ${query}`)) score = 690;
@@ -477,6 +557,9 @@
       $$('[data-illustration]', detail).forEach((button) => {
         button.addEventListener('click', () => openIllustration(button.dataset.illustration, button.dataset.term));
       });
+      $$('[data-lookup]', detail).forEach((button) => {
+        button.addEventListener('click', () => lookupWord(button.dataset.lookup));
+      });
     } catch (error) {
       console.error(error);
       detail.innerHTML = `<div class="empty-state"><div><h3>Could not load this entry</h3><p>${esc(error.message)}</p></div></div>`;
@@ -552,9 +635,11 @@
     const ipaUK = entry.ipa_uk || '';
     const ipaUS = entry.ipa_us || '';
     const sameIPA = ipaUK && ipaUS && ipaUK === ipaUS;
+    const irregular = state.irregularEntryMap.get(entry.key) || state.irregularMap.get(entry.key);
     const badges = [];
     if (entry.level) badges.push(`<span class="badge level">${esc(entry.level)}</span>`);
     if (entry.pos) badges.push(`<span class="badge">${esc(entry.pos)}</span>`);
+    if (irregular) badges.push('<span class="badge irregular">Irregular verb</span>');
     if (entry.defining) badges.push('<span class="badge defining">Defining vocabulary</span>');
     if (entry.register && entry.register !== 'neutral' && entry.register !== entry.pos) badges.push(`<span class="badge ${entry.register === 'offensive' ? 'offensive' : ''}">${esc(entry.register)}</span>`);
 
@@ -642,7 +727,9 @@
         <div class="entry-badges">${badges.join('')}</div>
       </header>
       ${warning}
+      ${irregular ? renderIrregularForms(irregular) : ''}
       <div class="senses">${senses}</div>
+      ${renderAlternatives(entry)}
       ${metaBlocks.length ? `<div class="entry-meta">${metaBlocks.join('')}</div>` : ''}
       <p class="source-line">${source ? `Sources: ${esc(source)}.` : ''}${entry.ipa_auto ? ' IPA for this rare headword was generated automatically.' : ''}</p>`;
   }
@@ -852,8 +939,47 @@
     </section>`;
   }
 
+  function renderIrregularReference() {
+    const verbs = state.irregularVerbs || [];
+    const rows = verbs.map((verb) => `<tr>
+      <td><button class="alternative-word" type="button" data-irregular-base="${esc(verb.base)}">${esc(verb.base)}</button></td>
+      <td>${esc(verb.third || '-')}</td>
+      <td>${esc(joinForms(verb.past))}</td>
+      <td>${esc(joinForms(verb.participle))}</td>
+      <td>${esc(verb.ing || '-')}</td>
+      <td>${esc(verb.note || '')}</td>
+    </tr>`);
+    return `<section class="ref-card grammar-section irregular-reference">
+      <h3>Irregular verbs</h3>
+      <p>${esc(state.irregularIntro || 'A complete reference of English irregular verbs with all their forms.')}</p>
+      <label class="irregular-filter"><span>Filter verbs</span><input id="irregularFilter" type="search" placeholder="Type a verb or form..." autocomplete="off"></label>
+      <div class="table-scroll"><table id="irregularTable">
+        <thead><tr><th scope="col">Base</th><th scope="col">Third person</th><th scope="col">Past</th><th scope="col">Past participle</th><th scope="col">-ing</th><th scope="col">Note</th></tr></thead>
+        <tbody>${rows.join('')}</tbody>
+      </table></div>
+      <p class="irregular-foot">${verbs.length.toLocaleString()} irregular verbs. Every base verb links to its dictionary entry, where the same forms are shown.</p>
+    </section>`;
+  }
+
+  function wireIrregularReference(panel) {
+    const filter = $('#irregularFilter', panel);
+    const table = $('#irregularTable', panel);
+    if (filter && table) {
+      filter.addEventListener('input', () => {
+        const query = normalize(filter.value);
+        $$('tbody tr', table).forEach((row) => {
+          row.hidden = Boolean(query) && !normalize(row.textContent).includes(query);
+        });
+      });
+    }
+    $$('[data-irregular-base]', panel).forEach((button) => {
+      button.addEventListener('click', () => lookupWord(button.dataset.irregularBase));
+    });
+  }
+
   function renderGrammarGroup(data, group) {
     if (!group) return '';
+    if (group.id === 'irregular') return renderIrregularReference();
     const sections = (group.sections || []).map((section) => `<section class="ref-card grammar-section">
       <h3>${esc(section.title)}</h3>
       ${section.intro ? `<p>${esc(section.intro)}</p>` : ''}
@@ -872,7 +998,15 @@
   }
 
   function renderGrammar(data) {
-    const groups = data.groups || [];
+    const groups = [...(data.groups || [])];
+    if (state.irregularVerbs?.length) {
+      const at = groups.findIndex((entry) => entry.id === 'verbs');
+      groups.splice(at >= 0 ? at + 1 : groups.length, 0, {
+        id: 'irregular',
+        title: 'Irregular verbs',
+        summary: `${state.irregularVerbs.length} verbs with all forms`,
+      });
+    }
     if (!groups.length) {
       return `<div class="empty-state"><div><h3>Grammar reference unavailable</h3><p>The grammar data could not be loaded.</p></div></div>`;
     }
@@ -898,6 +1032,7 @@
         state.grammarGroup = button.dataset.grammarGroup;
         panel.innerHTML = renderGrammar(data);
         wireGrammarTabs(panel, data);
+        wireIrregularReference(panel);
         window.scrollTo({ top: panel.getBoundingClientRect().top + window.scrollY - 130, behavior: 'smooth' });
       });
     });
@@ -917,6 +1052,7 @@
       } else {
         panel.innerHTML = renderGrammar(data);
         wireGrammarTabs(panel, data);
+        wireIrregularReference(panel);
       }
     } catch (error) {
       console.error(error);
@@ -1337,6 +1473,10 @@
         }
       }
     }
+    state.irregularBaseIndex = new Map();
+    for (let i = 0; i < state.total; i++) {
+      if (state.irregularMap.has(state.keys[i])) state.irregularBaseIndex.set(state.keys[i], i);
+    }
     state.loadingIndex = false;
   }
 
@@ -1357,16 +1497,18 @@
     bindEvents();
     renderInitialSkeleton();
     try {
-      const [meta, chunks, illustrations] = await Promise.all([
+      const [meta, chunks, illustrations, irregular] = await Promise.all([
         getJSON(`${DATA}/meta.json`),
         getJSON(`${DATA}/chunks.json`),
         getJSON(`${DATA}/illustrations.json`).catch(() => null),
+        getJSON(`${DATA}/irregular-verbs.json`).catch(() => null),
       ]);
       state.meta = meta;
       state.chunks = chunks;
       state.chunkSize = chunks.chunkSize || 1000;
       state.illustrations = illustrations;
       if (illustrations) state.illustrationMap = buildIllustrationMap(illustrations);
+      buildIrregularMaps(irregular);
       await loadIndex();
       if (!Number.isFinite(meta.total) || !Number.isFinite(meta.idioms) || !Number.isFinite(meta.defining)) {
         throw new Error('The cached dictionary metadata is outdated.');

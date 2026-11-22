@@ -62,7 +62,15 @@ remain with their respective owners.
      Entries using this fallback are marked "ipa_auto" in the data and note
      the automatic pronunciation on the entry page.
 
-9) Inter typeface
+9) English irregular-verb form data
+   - Sources: https://github.com/Franceskynov/node-english-irregular-verbs
+     (MIT License) and https://github.com/BlueCannonBall/DeclEngine
+     (Mozilla Public License 2.0), cross-checked against public verb tables.
+   - Use: base, third-person, past, past-participle and -ing forms for the
+     irregular-verb reference and dictionary entries. The form lists are
+     factual data; the surrounding explanations and examples are original.
+
+10) Inter typeface
    - Source: https://rsms.me/inter/
    - License: SIL Open Font License 1.1 (see OFL-Inter.txt)
    - Use: local UI and text typeface.

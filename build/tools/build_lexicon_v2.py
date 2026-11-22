@@ -46,6 +46,115 @@ from pronounce import Espeak, normalize_ipa, strip_ipa  # noqa: E402
 CHUNK_SIZE = 1000
 DEFINING_TARGET = 3000
 IDIOM_TARGET = 45000
+
+IRREGULAR_DEFS = {
+    "redraw": ("to draw something again or make a new version of a drawing", "She redrew the map to show the new border."),
+    "resit": ("to take an examination again after failing or wanting a better result", "He will resit the exam in June."),
+    "rewind": ("to wind a tape or film back to the beginning; to go back in a recording", "Rewind the video to the start."),
+}
+
+CURATED_ALTERNATIVES = {
+    "alter": [
+        {"word": "change", "note": "the general word", "gloss": "to make or become different", "example": "We need to change the way we work."},
+        {"word": "modify", "note": "a small change", "gloss": "to change something slightly, often to improve it", "example": "The team modified the design."},
+        {"word": "adjust", "note": "a small correction", "gloss": "to change something slightly so that it works better", "example": "Adjust the seat before you drive."},
+        {"word": "amend", "note": "formal; laws and documents", "gloss": "to change a law or document", "example": "The rule was amended last year."},
+        {"word": "vary", "note": "to change between different states", "gloss": "to change according to the situation", "example": "Prices vary from season to season."},
+    ],
+    "go": [
+        {"word": "travel", "note": "to go on a journey", "gloss": "to go from one place to another, especially far away", "example": "They travel to Spain every summer."},
+        {"word": "move", "note": "to change position", "gloss": "to go from one place or position to another", "example": "Please move to the next room."},
+        {"word": "leave", "note": "to go away from a place", "gloss": "to go away from a person or place", "example": "The train leaves at six."},
+        {"word": "proceed", "note": "more formal", "gloss": "to continue or go forward", "example": "We proceeded to the next stage."},
+        {"word": "become", "note": "to begin to be", "gloss": "to start to be something", "example": "The sky became dark."},
+    ],
+    "run": [
+        {"word": "jog", "note": "to run slowly for exercise", "gloss": "to run at a slow, steady speed", "example": "She jogs in the park every morning."},
+        {"word": "sprint", "note": "to run very fast for a short distance", "gloss": "to run as fast as you can for a short time", "example": "He sprinted to catch the bus."},
+        {"word": "operate", "note": "for machines and systems", "gloss": "to work or make a machine work", "example": "The machine runs on solar power."},
+        {"word": "manage", "note": "to be in charge of something", "gloss": "to control or be in charge of a business or activity", "example": "She runs a small hotel."},
+        {"word": "flow", "note": "for liquids and traffic", "gloss": "to move steadily in a stream", "example": "The river runs through the town."},
+    ],
+    "change": [
+        {"word": "alter", "note": "more formal", "gloss": "to change something, usually slightly", "example": "We altered the design after the first test."},
+        {"word": "modify", "note": "to change slightly, often to improve", "gloss": "to change something a little, especially to improve it", "example": "The team modified the plan to reduce costs."},
+        {"word": "amend", "note": "formal", "gloss": "to change a law, document, or agreement", "example": "Parliament amended the law last year."},
+        {"word": "transform", "note": "a complete change", "gloss": "to change something completely", "example": "The internet transformed the way we work."},
+        {"word": "vary", "note": "to differ with circumstances", "gloss": "to change according to the situation", "example": "Prices vary from season to season."},
+    ],
+    "clear": [
+        {"word": "obvious", "note": "stronger than clear", "gloss": "easy to see or understand", "example": "It was obvious that she had been crying."},
+        {"word": "evident", "note": "more formal", "gloss": "clear because of the evidence", "example": "The damage was evident from the photographs."},
+        {"word": "plain", "note": "simple and direct", "gloss": "easy to understand and not complicated", "example": "The instructions are written in plain English."},
+        {"word": "transparent", "note": "open, not hidden", "gloss": "easy to understand and open to inspection", "example": "The company promised a transparent process."},
+        {"word": "unambiguous", "note": "only one meaning", "gloss": "having only one possible meaning", "example": "We need an unambiguous answer."},
+    ],
+    "important": [
+        {"word": "crucial", "note": "extremely important", "gloss": "so important that success depends on it", "example": "Sleep is crucial for good health."},
+        {"word": "significant", "note": "large or notable", "gloss": "important enough to be noticed", "example": "There was a significant rise in prices."},
+        {"word": "essential", "note": "absolutely necessary", "gloss": "completely necessary", "example": "Clean water is essential for life."},
+        {"word": "vital", "note": "very important for success", "gloss": "extremely important and necessary", "example": "The doctor played a vital role in his recovery."},
+    ],
+    "good": [
+        {"word": "excellent", "note": "stronger than good", "gloss": "extremely good", "example": "She gave an excellent performance."},
+        {"word": "decent", "note": "acceptable, not excellent", "gloss": "good enough but not special", "example": "We found a decent restaurant near the station."},
+        {"word": "fine", "note": "acceptable or satisfactory", "gloss": "good enough; not bad", "example": "The weather was fine for a walk."},
+        {"word": "kind", "note": "good to other people", "gloss": "caring and helpful", "example": "It was kind of you to help."},
+    ],
+    "bad": [
+        {"word": "poor", "note": "not good in quality", "gloss": "of low quality or standard", "example": "The report was based on poor evidence."},
+        {"word": "awful", "note": "very bad", "gloss": "extremely bad or unpleasant", "example": "The traffic was awful this morning."},
+        {"word": "harmful", "note": "causing damage", "gloss": "causing damage or injury", "example": "Too much sun can be harmful."},
+        {"word": "wrong", "note": "not correct or moral", "gloss": "not correct, true, or acceptable", "example": "It is wrong to blame her for the mistake."},
+    ],
+    "big": [
+        {"word": "large", "note": "more formal", "gloss": "big in size or amount", "example": "They live in a large house."},
+        {"word": "huge", "note": "very big", "gloss": "extremely large", "example": "A huge crowd gathered in the square."},
+        {"word": "major", "note": "important, not physical size", "gloss": "important or serious", "example": "This is a major change for the company."},
+        {"word": "enormous", "note": "extremely big", "gloss": "very large in size or amount", "example": "The project required an enormous amount of work."},
+    ],
+    "small": [
+        {"word": "little", "note": "often more personal", "gloss": "small in size or amount", "example": "She lives in a little village."},
+        {"word": "tiny", "note": "very small", "gloss": "extremely small", "example": "A tiny insect landed on the page."},
+        {"word": "minor", "note": "not important", "gloss": "small and not serious", "example": "We made a few minor changes."},
+        {"word": "slight", "note": "small in degree", "gloss": "small in amount or degree", "example": "There was a slight delay."},
+    ],
+    "say": [
+        {"word": "state", "note": "more formal", "gloss": "to say something clearly and officially", "example": "The report states that the plan is too expensive."},
+        {"word": "mention", "note": "to say briefly", "gloss": "to refer to something without much detail", "example": "She mentioned the meeting in her email."},
+        {"word": "claim", "note": "without proof", "gloss": "to say that something is true, though others may doubt it", "example": "He claims that he saw the whole accident."},
+        {"word": "tell", "note": "needs a person as object", "gloss": "to give information to someone", "example": "Please tell me what happened."},
+    ],
+    "ask": [
+        {"word": "request", "note": "more formal", "gloss": "to ask for something politely or officially", "example": "She requested a copy of the report."},
+        {"word": "inquire", "note": "formal; ask for information", "gloss": "to ask for information", "example": "He inquired about the price of the room."},
+        {"word": "question", "note": "to ask someone for answers", "gloss": "to ask someone questions, often officially", "example": "The police questioned the witness."},
+    ],
+    "make": [
+        {"word": "create", "note": "to bring into existence", "gloss": "to make something new", "example": "The artist created a striking image."},
+        {"word": "produce", "note": "to make in quantity", "gloss": "to make or grow something, especially in large amounts", "example": "The factory produces thousands of cars each year."},
+        {"word": "cause", "note": "to make something happen", "gloss": "to make an event or situation happen", "example": "The storm caused serious damage."},
+        {"word": "build", "note": "to make by putting parts together", "gloss": "to make something by joining parts", "example": "They plan to build a new bridge."},
+    ],
+    "get": [
+        {"word": "obtain", "note": "more formal", "gloss": "to get something, especially officially", "example": "You must obtain permission before entering."},
+        {"word": "receive", "note": "to be given something", "gloss": "to get something that someone sends or gives you", "example": "She received a letter from the bank."},
+        {"word": "become", "note": "to begin to be", "gloss": "to start to be something", "example": "The sky became dark."},
+        {"word": "fetch", "note": "to go and bring back", "gloss": "to go to another place and bring something back", "example": "Could you fetch a glass of water?"},
+    ],
+    "look": [
+        {"word": "seem", "note": "to appear to be", "gloss": "to appear to be a particular way", "example": "You seem tired today."},
+        {"word": "appear", "note": "more formal", "gloss": "to seem or become visible", "example": "The task appears to be finished."},
+        {"word": "glance", "note": "a quick look", "gloss": "to look at something quickly", "example": "She glanced at her watch."},
+        {"word": "stare", "note": "a long, fixed look", "gloss": "to look at something for a long time", "example": "He stared at the painting in silence."},
+    ],
+    "happy": [
+        {"word": "glad", "note": "pleased about a situation", "gloss": "pleased and happy about something", "example": "I am glad you could come."},
+        {"word": "pleased", "note": "satisfied", "gloss": "happy because something good has happened", "example": "We were pleased with the result."},
+        {"word": "delighted", "note": "very happy", "gloss": "extremely pleased", "example": "She was delighted to receive the award."},
+        {"word": "content", "note": "quietly satisfied", "gloss": "happy and satisfied with what you have", "example": "He seemed content with his simple life."},
+    ],
+}
 TOTAL_TARGET = 105000
 
 FUNCTION_WORDS = set(
@@ -321,10 +430,20 @@ def base36(n: int) -> str:
 
 def clean_text(text: str) -> str:
     text = (text or "").replace("\u00ad", "")
+    for dash in ("\u2014", "\u2013", "\u2012", "\u2015", "\u2010", "\u2011"):
+        text = text.replace(dash, "-")
     text = text.replace("_", " ")
     text = re.sub(r"\s+", " ", text).strip()
     text = text.strip(" ;,")
     return text
+
+
+def truncate(text: str, limit: int) -> str:
+    text = clean_text(text)
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:")
+    return cut + "..."
 
 
 def good_def(text: str) -> bool:
@@ -661,6 +780,10 @@ class Lexicon:
             ent["frequency"] = ce.frequency
             page = wikt_pages.get(key)
             used_wikt = False
+            # Frequent words deserve fuller treatment: learners expect the
+            # common figurative, phrasal and technical senses, not just the
+            # first three glosses.
+            sense_limit = 10 if ce.frequency <= 8000 else 5
             for pos, cs in ce.senses.items():
                 defs = []
                 if page:
@@ -679,14 +802,14 @@ class Lexicon:
                                         "labels": d.labels[:4],
                                     }
                                 )
-                            if len(defs) >= 3:
+                            if len(defs) >= sense_limit:
                                 break
                         if block.synonyms:
                             pass
                     if defs:
                         used_wikt = True
                 if not defs:
-                    for syn in wikt_lookup_wordnet(self.wn, ce.word, pos)[:2]:
+                    for syn in wikt_lookup_wordnet(self.wn, ce.word, pos)[: min(sense_limit, 5)]:
                         g = clean_text(syn.gloss)
                         if good_def(g):
                             defs.append(
@@ -1172,16 +1295,17 @@ class Lexicon:
             if not good_lemma(key) or " " in key:
                 continue
             if key in self.entries and self.entries[key]["senses"]:
-                # Existing curated/CEFR entry: add WordNet synonyms only.
+                # Existing curated/CEFR entry: enrich frequent words with
+                # several WordNet senses and synonyms, not just one gloss.
                 ent = self.entries[key]
-                if len(ent["senses"]) < 2:
-                    self.merge_wordnet(ent, key, max_senses=1)
+                popular = ent.get("frequency", 60000) <= 15000
+                self.merge_wordnet(ent, key, max_senses=6 if popular else 2, all_pos=popular)
                 continue
             if self.build_wordnet_entry(lemma, key, max_senses=3):
                 added += 1
         print(f"wordnet single entries added {added}", flush=True)
 
-    def build_wordnet_entry(self, lemma: str, key: str, max_senses: int = 3, force: bool = False) -> dict | None:
+    def build_wordnet_entry(self, lemma: str, key: str, max_senses: int = 3, force: bool = False, all_pos: bool = False) -> dict | None:
         senses = []
         syns_all = []
         total_defs = 0
@@ -1194,7 +1318,7 @@ class Lexicon:
                 continue
             defs = []
             syns = []
-            for p, off in offsets[:4]:
+            for p, off in offsets[: max(4, max_senses)]:
                 syn = self.wn.data.get((p, off))
                 if not syn:
                     continue
@@ -1229,7 +1353,7 @@ class Lexicon:
                 }
             )
             syns_all.extend(syns)
-            if total_defs >= max_senses:
+            if total_defs >= max_senses and not all_pos:
                 break
         if not senses:
             return None
@@ -1246,8 +1370,8 @@ class Lexicon:
         self.add_source(ent, "wordnet")
         return ent
 
-    def merge_wordnet(self, ent: dict, key: str, max_senses: int = 1) -> None:
-        self.build_wordnet_entry(key.replace(" ", "_"), key, max_senses=max_senses)
+    def merge_wordnet(self, ent: dict, key: str, max_senses: int = 1, all_pos: bool = False) -> None:
+        self.build_wordnet_entry(key.replace(" ", "_"), key, max_senses=max_senses, all_pos=all_pos)
         self.add_source(ent, "wordnet")
 
     def idiom_candidates(self) -> list[tuple[float, str]]:
@@ -1342,6 +1466,138 @@ class Lexicon:
                     sense["level"] = level
             self.mark_idiom(ent, "wordnet")
         print(f"idioms total {self.idiom_total} (wordnet {self.idiom_wordnet})", flush=True)
+
+    def add_alternatives(self) -> None:
+        """Attach short, linked alternatives to common headwords.
+
+        The automatic pass uses WordNet synonyms and the target entry's own
+        example.  A small curated set gives the most useful function words
+        hand-written nuance and examples.
+        """
+        total = 0
+        for key, ent in self.entries.items():
+            if not ent.get("senses") or "idiom" in ent.get("themes", []):
+                continue
+            curated = CURATED_ALTERNATIVES.get(key, [])
+            freq = ent.get("frequency", 60000)
+            if not curated and freq > 20000:
+                continue
+            seen: set[str] = set()
+            alternatives: list[dict] = []
+
+            def add_alt(
+                target_key: str,
+                note: str = "",
+                gloss: str = "",
+                example: str = "",
+                sense_pos: str = "",
+                require_example: bool = False,
+            ) -> None:
+                target_key = normalize_key(target_key)
+                if target_key in seen or target_key == key:
+                    return
+                target = self.entries.get(target_key)
+                if not target or not target.get("senses"):
+                    return
+                if target["word"][:1].isupper():
+                    return
+                if not curated and target.get("frequency", 60000) > 15000:
+                    return
+                tlevel = LEVEL_ORDER.get(target.get("level", "C2"), 9)
+                slevel = LEVEL_ORDER.get(ent.get("level", "C2"), 9)
+                if not curated and tlevel == 5 and slevel <= 3:
+                    return
+                # Prefer a definition and example from the matching part of speech.
+                candidates = [
+                    d
+                    for s in target["senses"]
+                    if not sense_pos or s.get("pos") == sense_pos
+                    for d in s.get("defs", [])
+                    if good_def(d.get("text", ""))
+                ]
+                if not candidates:
+                    candidates = [
+                        d
+                        for s in target["senses"]
+                        for d in s.get("defs", [])
+                        if good_def(d.get("text", ""))
+                    ]
+                if not candidates:
+                    return
+                tdef = candidates[0]
+                if not gloss:
+                    gloss = truncate(tdef.get("text", ""), 115)
+                if not example:
+                    example = next((d.get("example", "") for d in candidates if d.get("example")), "")
+                if not example and require_example:
+                    return
+                if example:
+                    example = truncate(example, 180)
+                seen.add(target_key)
+                if not note:
+                    if target.get("register") == "informal":
+                        note = "informal"
+                    elif target.get("register") == "formal":
+                        note = "more formal"
+                    elif tlevel > slevel:
+                        note = "more advanced"
+                    elif tlevel < slevel:
+                        note = "simpler"
+                    else:
+                        note = "close in meaning"
+                alternatives.append(
+                    {
+                        "word": target["word"],
+                        "key": target_key,
+                        "pos": sense_pos or target.get("pos", ""),
+                        "note": note,
+                        "gloss": gloss,
+                        "example": example,
+                        "level": target.get("level", ""),
+                    }
+                )
+
+            for item in curated:
+                add_alt(item["word"], item.get("note", ""), item.get("gloss", ""), item.get("example", ""))
+            if len(alternatives) < 5:
+                priority = {"verb": 0, "noun": 1, "adjective": 2, "adverb": 3}
+                senses = sorted(ent["senses"], key=lambda s: (priority.get(s.get("pos"), 9), -len(s.get("defs", []))))
+                for sense in senses:
+                    for syn in sense.get("synonyms", []):
+                        if len(alternatives) >= 5:
+                            break
+                        add_alt(syn, sense_pos=sense.get("pos", ""), require_example=True)
+                    if len(alternatives) >= 5:
+                        break
+            if alternatives:
+                ent["alternatives"] = alternatives[:5]
+                total += 1
+        print(f"entries with alternatives {total}", flush=True)
+
+    def add_irregular_entries(self) -> None:
+        for word, (definition, example) in IRREGULAR_DEFS.items():
+            key = normalize_key(word)
+            if key in self.entries and self.entries[key]["senses"]:
+                continue
+            ent = self.entry(word, key)
+            ent["pos"] = "verb"
+            ent["level"] = "B1"
+            ent["frequency"] = 18000
+            self.add_sense(
+                ent,
+                {
+                    "pos": "verb",
+                    "level": "B1",
+                    "defs": [{"text": definition, "example": example, "labels": []}],
+                    "synonyms": [],
+                    "antonyms": [],
+                    "grammar": "v",
+                    "register": "neutral",
+                    "note": "",
+                },
+            )
+            self.add_source(ent, "curated")
+        print("irregular fallback entries added", flush=True)
 
     def add_common_multiword(self) -> None:
         # A broad set of multiword terms gives the dictionary real depth beyond
@@ -1650,7 +1906,7 @@ class Lexicon:
             ],
         }
         write_json(DATA / "meta.json", meta)
-        for fn in ("numbers-units.json", "pronunciation.json", "grammar.json", "illustrations.json", "common-phrases.json", "phrasal-verbs.json", "slang.json", "offensive.json", "function-words.json"):
+        for fn in ("numbers-units.json", "pronunciation.json", "grammar.json", "illustrations.json", "irregular-verbs.json", "common-phrases.json", "phrasal-verbs.json", "slang.json", "offensive.json", "function-words.json"):
             src = ROOT / "data" / fn
             if src.exists():
                 shutil.copy2(src, DATA / fn)
@@ -1699,8 +1955,12 @@ def main() -> None:
     lex.add_wordnet_idioms()
     print("common multiword...", flush=True)
     lex.add_common_multiword()
+    print("irregular entries...", flush=True)
+    lex.add_irregular_entries()
     print("finish...", flush=True)
     lex.finish()
+    print("alternatives...", flush=True)
+    lex.add_alternatives()
     print("ipa...", flush=True)
     lex.add_ipa()
     print("defining...", flush=True)

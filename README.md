@@ -8,13 +8,15 @@ There is no runtime build step, no package manager, no analytics, and no externa
 
 | Section | Contents |
 | --- | --- |
-| Dictionary | **128,183 headwords** with IPA, word class, CEFR level, grammar code, definitions, examples, synonyms, and source notes |
+| Dictionary | **128,186 headwords** with IPA, word class, CEFR level, grammar code, definitions, examples, synonyms, and source notes |
 | Defining 3,000 | A curated core of **3,000** high-frequency words for learner-friendly explanation |
 | Idioms & expressions | **45,000** idioms, proverbs, phrasal expressions, and fixed phrases (19,218 from Wiktionary sources, 25,782 fixed expressions from WordNet) |
 | Phrasal verbs | **5,069** entries, including separability and particle notes |
 | Proverbs | **1,060** entries |
+| Irregular verbs | **243** verbs with third-person, past, past-participle and -ing forms |
+| Alternatives | **6,535** common entries with linked alternatives, a short nuance note and an example |
 | Illustrated | **14 labelled diagrams** with **126 parts**: umbrella, bicycle, car, house, head, hand, tree, flower, laptop, guitar, shoe, bottle, camera, clock |
-| B2 / C1 / C2 | **11,388 / 15,898 / 95,645** entries by CEFR level |
+| B2 / C1 / C2 | **11,392 / 15,898 / 95,624** entries by CEFR level |
 | Slang | **234** curated informal entries |
 | Strong language | **671** labelled strong or offensive expressions |
 | Numbers & units | Numbers, ordinals, dates, times, measurement units, and a unit converter |
